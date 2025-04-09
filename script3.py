@@ -11,5 +11,10 @@ print(f"Ano 2024: {len(df[df['ano'] == 2024])}")
 print(f"Semestre 1: {len(df[df['semestre'] == 1])}")
 print(f"Semestre 2: {len(df[df['semestre'] == 2])}")
 
+# Verificar colunas que sao float e pata int
+for col in df.columns:
+    if df[col].dtype == "float64":
+        df[col] = df[col].astype("int64")
+
 # Salvar tabela
 df.to_csv("fato_alfabetizacao_pre_pronto_v2.csv", index=False)

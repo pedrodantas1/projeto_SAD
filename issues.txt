@@ -1,4 +1,3 @@
-> Float para inteiro no csv
 > Ordenaçao personalizada de colunas no csv
 > Mapeamento de id_municipio para nome_municipio
 > Mapeamento de regioes

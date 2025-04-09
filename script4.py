@@ -31,6 +31,9 @@ dim_faixa["id_faixa_etaria"] = dim_faixa.index + 1
 
 print(dim_faixa)
 
+# Printar tipo das colunas
+print(df.dtypes)
+
 # Tabela Dim_Municipio (fazer ainda a correlacao)
 municipios_unicos = df["id_municipio"].drop_duplicates().reset_index(drop=True)
 dim_municipio = pd.DataFrame({
