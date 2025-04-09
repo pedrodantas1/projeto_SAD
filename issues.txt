@@ -1,1 +1,4 @@
-> Construçao de tabelas fato e dim
+> Criar indicadores relevantes
+> Agregado por semestre
+> Relatorios para mostrar indicadores
+> Usar componentes graficos

@@ -1,0 +1,5571 @@
+id_municipio,nome_municipio,uf,regiao
+3731,Brasília,DF,Centro-Oeste
+3278,Abadia de Goiás,GO,Centro-Oeste
+1729,Abadiânia,GO,Centro-Oeste
+3473,Acreúna,GO,Centro-Oeste
+3742,Adelândia,GO,Centro-Oeste
+1881,Alexânia,GO,Centro-Oeste
+3271,Aloândia,GO,Centro-Oeste
+1724,Alto Horizonte,GO,Centro-Oeste
+64,Alto Paraíso de Goiás,GO,Centro-Oeste
+3911,Alvorada do Norte,GO,Centro-Oeste
+4333,Amaralina,GO,Centro-Oeste
+7,Americano do Brasil,GO,Centro-Oeste
+4832,Amorinópolis,GO,Centro-Oeste
+2322,Anhanguera,GO,Centro-Oeste
+4859,Anicuns,GO,Centro-Oeste
+977,Anápolis,GO,Centro-Oeste
+5297,Aparecida de Goiânia,GO,Centro-Oeste
+1841,Aparecida do Rio Doce,GO,Centro-Oeste
+5541,Aporé,GO,Centro-Oeste
+3544,Aragarças,GO,Centro-Oeste
+2339,Aragoiânia,GO,Centro-Oeste
+2392,Araguapaz,GO,Centro-Oeste
+917,Araçu,GO,Centro-Oeste
+1313,Arenópolis,GO,Centro-Oeste
+3837,Aruanã,GO,Centro-Oeste
+547,Aurilândia,GO,Centro-Oeste
+3438,Avelinópolis,GO,Centro-Oeste
+1293,Baliza,GO,Centro-Oeste
+4823,Barro Alto,GO,Centro-Oeste
+2961,Bela Vista de Goiás,GO,Centro-Oeste
+440,Bom Jardim de Goiás,GO,Centro-Oeste
+3604,Bom Jesus de Goiás,GO,Centro-Oeste
+2008,Bonfinópolis,GO,Centro-Oeste
+1684,Bonópolis,GO,Centro-Oeste
+2825,Brazabrantes,GO,Centro-Oeste
+2726,Britânia,GO,Centro-Oeste
+5536,Buriti Alegre,GO,Centro-Oeste
+1600,Buriti de Goiás,GO,Centro-Oeste
+1208,Buritinópolis,GO,Centro-Oeste
+5037,Cabeceiras,GO,Centro-Oeste
+5525,Cachoeira Alta,GO,Centro-Oeste
+3070,Cachoeira Dourada,GO,Centro-Oeste
+242,Cachoeira de Goiás,GO,Centro-Oeste
+3131,Caiapônia,GO,Centro-Oeste
+3998,Caldas Novas,GO,Centro-Oeste
+5267,Caldazinha,GO,Centro-Oeste
+1849,Campestre de Goiás,GO,Centro-Oeste
+5011,Campinaçu,GO,Centro-Oeste
+1125,Campinorte,GO,Centro-Oeste
+3214,Campo Alegre de Goiás,GO,Centro-Oeste
+583,Campo Limpo de Goiás,GO,Centro-Oeste
+1368,Campos Belos,GO,Centro-Oeste
+1148,Campos Verdes,GO,Centro-Oeste
+2678,Carmo do Rio Verde,GO,Centro-Oeste
+546,Castelândia,GO,Centro-Oeste
+87,Catalão,GO,Centro-Oeste
+3156,Caturaí,GO,Centro-Oeste
+3101,Cavalcante,GO,Centro-Oeste
+2801,Caçu,GO,Centro-Oeste
+655,Ceres,GO,Centro-Oeste
+4148,Cezarina,GO,Centro-Oeste
+2802,Chapadão do Céu,GO,Centro-Oeste
+553,Cidade Ocidental,GO,Centro-Oeste
+5326,Cocalzinho de Goiás,GO,Centro-Oeste
+2805,Colinas do Sul,GO,Centro-Oeste
+453,Corumbaíba,GO,Centro-Oeste
+399,Corumbá de Goiás,GO,Centro-Oeste
+769,Cristalina,GO,Centro-Oeste
+524,Cristianópolis,GO,Centro-Oeste
+4471,Crixás,GO,Centro-Oeste
+4839,Cromínia,GO,Centro-Oeste
+4016,Cumari,GO,Centro-Oeste
+630,Córrego do Ouro,GO,Centro-Oeste
+2572,Damianópolis,GO,Centro-Oeste
+2573,Damolândia,GO,Centro-Oeste
+5174,Davinópolis,GO,Centro-Oeste
+3721,Diorama,GO,Centro-Oeste
+2955,Divinópolis de Goiás,GO,Centro-Oeste
+4109,Doverlândia,GO,Centro-Oeste
+1589,Edealina,GO,Centro-Oeste
+3105,Edéia,GO,Centro-Oeste
+4476,Estrela do Norte,GO,Centro-Oeste
+1667,Faina,GO,Centro-Oeste
+4430,Fazenda Nova,GO,Centro-Oeste
+2675,Firminópolis,GO,Centro-Oeste
+949,Flores de Goiás,GO,Centro-Oeste
+2439,Formosa,GO,Centro-Oeste
+1363,Formoso,GO,Centro-Oeste
+5312,Gameleira de Goiás,GO,Centro-Oeste
+1880,Goiandira,GO,Centro-Oeste
+4012,Goianira,GO,Centro-Oeste
+1205,Goianápolis,GO,Centro-Oeste
+4898,Goianésia,GO,Centro-Oeste
+764,Goiatuba,GO,Centro-Oeste
+2786,Goiás,GO,Centro-Oeste
+3366,Goiânia,GO,Centro-Oeste
+4675,Gouvelândia,GO,Centro-Oeste
+5404,Guapó,GO,Centro-Oeste
+433,Guarani de Goiás,GO,Centro-Oeste
+2635,Guaraíta,GO,Centro-Oeste
+663,Guarinos,GO,Centro-Oeste
+1152,Heitoraí,GO,Centro-Oeste
+1874,Hidrolina,GO,Centro-Oeste
+5449,Hidrolândia,GO,Centro-Oeste
+1962,Iaciara,GO,Centro-Oeste
+3686,Inaciolândia,GO,Centro-Oeste
+351,Indiara,GO,Centro-Oeste
+538,Inhumas,GO,Centro-Oeste
+1216,Ipameri,GO,Centro-Oeste
+2646,Ipiranga de Goiás,GO,Centro-Oeste
+34,Iporá,GO,Centro-Oeste
+1747,Israelândia,GO,Centro-Oeste
+2420,Itaberaí,GO,Centro-Oeste
+1785,Itaguari,GO,Centro-Oeste
+1792,Itaguaru,GO,Centro-Oeste
+4802,Itajá,GO,Centro-Oeste
+3379,Itapaci,GO,Centro-Oeste
+1430,Itapirapuã,GO,Centro-Oeste
+4065,Itapuranga,GO,Centro-Oeste
+193,Itarumã,GO,Centro-Oeste
+1489,Itauçu,GO,Centro-Oeste
+4540,Itumbiara,GO,Centro-Oeste
+4539,Ivolândia,GO,Centro-Oeste
+5527,Jandaia,GO,Centro-Oeste
+5564,Jaraguá,GO,Centro-Oeste
+8,Jataí,GO,Centro-Oeste
+4399,Jaupaci,GO,Centro-Oeste
+1678,Jesúpolis,GO,Centro-Oeste
+5162,Joviânia,GO,Centro-Oeste
+2862,Jussara,GO,Centro-Oeste
+4587,Lagoa Santa,GO,Centro-Oeste
+3719,Leopoldo de Bulhões,GO,Centro-Oeste
+2570,Luziânia,GO,Centro-Oeste
+1537,Mairipotaba,GO,Centro-Oeste
+3255,Mambaí,GO,Centro-Oeste
+4431,Mara Rosa,GO,Centro-Oeste
+179,Marzagão,GO,Centro-Oeste
+4470,Matrinchã,GO,Centro-Oeste
+859,Maurilândia,GO,Centro-Oeste
+3733,Mimoso de Goiás,GO,Centro-Oeste
+2124,Minaçu,GO,Centro-Oeste
+1287,Mineiros,GO,Centro-Oeste
+2598,Moiporá,GO,Centro-Oeste
+1581,Monte Alegre de Goiás,GO,Centro-Oeste
+4508,Montes Claros de Goiás,GO,Centro-Oeste
+210,Montividiu,GO,Centro-Oeste
+2590,Montividiu do Norte,GO,Centro-Oeste
+3099,Morrinhos,GO,Centro-Oeste
+826,Morro Agudo de Goiás,GO,Centro-Oeste
+4170,Mossâmedes,GO,Centro-Oeste
+1118,Mozarlândia,GO,Centro-Oeste
+3573,Mundo Novo,GO,Centro-Oeste
+1007,Mutunópolis,GO,Centro-Oeste
+1984,Nazário,GO,Centro-Oeste
+4097,Nerópolis,GO,Centro-Oeste
+1973,Niquelândia,GO,Centro-Oeste
+1856,Nova América,GO,Centro-Oeste
+2302,Nova Aurora,GO,Centro-Oeste
+348,Nova Crixás,GO,Centro-Oeste
+1662,Nova Glória,GO,Centro-Oeste
+173,Nova Iguaçu de Goiás,GO,Centro-Oeste
+2229,Nova Roma,GO,Centro-Oeste
+2100,Nova Veneza,GO,Centro-Oeste
+5557,Novo Brasil,GO,Centro-Oeste
+2489,Novo Gama,GO,Centro-Oeste
+1153,Novo Planalto,GO,Centro-Oeste
+2007,Orizona,GO,Centro-Oeste
+1764,Ouro Verde de Goiás,GO,Centro-Oeste
+4314,Ouvidor,GO,Centro-Oeste
+4602,Padre Bernardo,GO,Centro-Oeste
+3941,Palestina de Goiás,GO,Centro-Oeste
+1345,Palmeiras de Goiás,GO,Centro-Oeste
+1136,Palmelo,GO,Centro-Oeste
+4544,Palminópolis,GO,Centro-Oeste
+607,Panamá,GO,Centro-Oeste
+2660,Paranaiguara,GO,Centro-Oeste
+2656,Paraúna,GO,Centro-Oeste
+3321,Perolândia,GO,Centro-Oeste
+4034,Petrolina de Goiás,GO,Centro-Oeste
+4340,Pilar de Goiás,GO,Centro-Oeste
+2667,Piracanjuba,GO,Centro-Oeste
+3275,Piranhas,GO,Centro-Oeste
+1727,Pirenópolis,GO,Centro-Oeste
+2631,Pires do Rio,GO,Centro-Oeste
+650,Planaltina,GO,Centro-Oeste
+1128,Pontalina,GO,Centro-Oeste
+1385,Porangatu,GO,Centro-Oeste
+798,Porteirão,GO,Centro-Oeste
+1088,Portelândia,GO,Centro-Oeste
+3524,Posse,GO,Centro-Oeste
+3682,Professor Jamil,GO,Centro-Oeste
+5101,Quirinópolis,GO,Centro-Oeste
+5055,Rialma,GO,Centro-Oeste
+2666,Rianápolis,GO,Centro-Oeste
+2934,Rio Quente,GO,Centro-Oeste
+2812,Rio Verde,GO,Centro-Oeste
+2254,Rubiataba,GO,Centro-Oeste
+1396,Sanclerlândia,GO,Centro-Oeste
+4524,Santa Bárbara de Goiás,GO,Centro-Oeste
+1643,Santa Cruz de Goiás,GO,Centro-Oeste
+4786,Santa Fé de Goiás,GO,Centro-Oeste
+4914,Santa Helena de Goiás,GO,Centro-Oeste
+4238,Santa Isabel,GO,Centro-Oeste
+3405,Santa Rita do Araguaia,GO,Centro-Oeste
+2179,Santa Rita do Novo Destino,GO,Centro-Oeste
+4364,Santa Rosa de Goiás,GO,Centro-Oeste
+5568,Santa Tereza de Goiás,GO,Centro-Oeste
+5192,Santa Terezinha de Goiás,GO,Centro-Oeste
+1820,Santo Antônio da Barra,GO,Centro-Oeste
+4647,Santo Antônio de Goiás,GO,Centro-Oeste
+3167,Santo Antônio do Descoberto,GO,Centro-Oeste
+1853,Senador Canedo,GO,Centro-Oeste
+4783,Serranópolis,GO,Centro-Oeste
+3427,Silvânia,GO,Centro-Oeste
+2503,Simolândia,GO,Centro-Oeste
+4703,São Domingos,GO,Centro-Oeste
+4988,São Francisco de Goiás,GO,Centro-Oeste
+2113,São João d'Aliança,GO,Centro-Oeste
+5547,São João da Paraúna,GO,Centro-Oeste
+897,São Luís de Montes Belos,GO,Centro-Oeste
+4503,São Luíz do Norte,GO,Centro-Oeste
+4289,São Miguel do Araguaia,GO,Centro-Oeste
+5104,São Miguel do Passa Quatro,GO,Centro-Oeste
+2869,São Patrício,GO,Centro-Oeste
+5313,São Simão,GO,Centro-Oeste
+2481,Sítio d'Abadia,GO,Centro-Oeste
+4494,Taquaral de Goiás,GO,Centro-Oeste
+101,Teresina de Goiás,GO,Centro-Oeste
+604,Terezópolis de Goiás,GO,Centro-Oeste
+5322,Trindade,GO,Centro-Oeste
+1744,Trombas,GO,Centro-Oeste
+2706,Três Ranchos,GO,Centro-Oeste
+4207,Turvelândia,GO,Centro-Oeste
+1199,Turvânia,GO,Centro-Oeste
+44,Uirapuru,GO,Centro-Oeste
+1389,Uruana,GO,Centro-Oeste
+1884,Uruaçu,GO,Centro-Oeste
+5277,Urutaí,GO,Centro-Oeste
+2898,Valparaíso de Goiás,GO,Centro-Oeste
+2453,Varjão,GO,Centro-Oeste
+4963,Vianópolis,GO,Centro-Oeste
+503,Vicentinópolis,GO,Centro-Oeste
+5199,Vila Boa,GO,Centro-Oeste
+4817,Vila Propício,GO,Centro-Oeste
+414,Água Fria de Goiás,GO,Centro-Oeste
+4063,Água Limpa,GO,Centro-Oeste
+4249,Águas Lindas de Goiás,GO,Centro-Oeste
+4885,Alcinópolis,MS,Centro-Oeste
+932,Amambai,MS,Centro-Oeste
+3074,Anastácio,MS,Centro-Oeste
+2071,Anaurilândia,MS,Centro-Oeste
+2020,Angélica,MS,Centro-Oeste
+3179,Antônio João,MS,Centro-Oeste
+2127,Aparecida do Taboado,MS,Centro-Oeste
+1188,Aquidauana,MS,Centro-Oeste
+328,Aral Moreira,MS,Centro-Oeste
+4237,Bandeirantes,MS,Centro-Oeste
+920,Bataguassu,MS,Centro-Oeste
+1749,Batayporã,MS,Centro-Oeste
+1480,Bela Vista,MS,Centro-Oeste
+123,Bodoquena,MS,Centro-Oeste
+4382,Bonito,MS,Centro-Oeste
+2655,Brasilândia,MS,Centro-Oeste
+4588,Caarapó,MS,Centro-Oeste
+3695,Camapuã,MS,Centro-Oeste
+2081,Campo Grande,MS,Centro-Oeste
+394,Caracol,MS,Centro-Oeste
+3465,Cassilândia,MS,Centro-Oeste
+4774,Chapadão do Sul,MS,Centro-Oeste
+3707,Corguinho,MS,Centro-Oeste
+3230,Coronel Sapucaia,MS,Centro-Oeste
+334,Corumbá,MS,Centro-Oeste
+1548,Costa Rica,MS,Centro-Oeste
+3312,Coxim,MS,Centro-Oeste
+931,Deodápolis,MS,Centro-Oeste
+909,Dois Irmãos do Buriti,MS,Centro-Oeste
+2399,Douradina,MS,Centro-Oeste
+4367,Dourados,MS,Centro-Oeste
+4665,Eldorado,MS,Centro-Oeste
+4259,Figueirão,MS,Centro-Oeste
+651,Fátima do Sul,MS,Centro-Oeste
+333,Glória de Dourados,MS,Centro-Oeste
+3021,Guia Lopes da Laguna,MS,Centro-Oeste
+5331,Iguatemi,MS,Centro-Oeste
+502,Inocência,MS,Centro-Oeste
+4556,Itaporã,MS,Centro-Oeste
+4165,Itaquiraí,MS,Centro-Oeste
+4427,Ivinhema,MS,Centro-Oeste
+1524,Japorã,MS,Centro-Oeste
+3221,Jaraguari,MS,Centro-Oeste
+537,Jardim,MS,Centro-Oeste
+1309,Jateí,MS,Centro-Oeste
+1402,Juti,MS,Centro-Oeste
+970,Ladário,MS,Centro-Oeste
+4315,Laguna Carapã,MS,Centro-Oeste
+4004,Maracaju,MS,Centro-Oeste
+5484,Miranda,MS,Centro-Oeste
+4247,Mundo Novo,MS,Centro-Oeste
+3812,Naviraí,MS,Centro-Oeste
+3879,Nioaque,MS,Centro-Oeste
+2054,Nova Alvorada do Sul,MS,Centro-Oeste
+1073,Nova Andradina,MS,Centro-Oeste
+4150,Novo Horizonte do Sul,MS,Centro-Oeste
+4156,Paranaíba,MS,Centro-Oeste
+3570,Paranhos,MS,Centro-Oeste
+2101,Paraíso das Águas,MS,Centro-Oeste
+2147,Pedro Gomes,MS,Centro-Oeste
+268,Ponta Porã,MS,Centro-Oeste
+4962,Porto Murtinho,MS,Centro-Oeste
+3017,Ribas do Rio Pardo,MS,Centro-Oeste
+535,Rio Brilhante,MS,Centro-Oeste
+1551,Rio Negro,MS,Centro-Oeste
+3087,Rio Verde de Mato Grosso,MS,Centro-Oeste
+4461,Rochedo,MS,Centro-Oeste
+1369,Santa Rita do Pardo,MS,Centro-Oeste
+5382,Selvíria,MS,Centro-Oeste
+2067,Sete Quedas,MS,Centro-Oeste
+1563,Sidrolândia,MS,Centro-Oeste
+2390,Sonora,MS,Centro-Oeste
+3348,São Gabriel do Oeste,MS,Centro-Oeste
+3441,Tacuru,MS,Centro-Oeste
+1947,Taquarussu,MS,Centro-Oeste
+1611,Terenos,MS,Centro-Oeste
+1594,Três Lagoas,MS,Centro-Oeste
+4242,Vicentina,MS,Centro-Oeste
+4676,Água Clara,MS,Centro-Oeste
+3787,Acorizal,MT,Centro-Oeste
+2546,Alta Floresta,MT,Centro-Oeste
+664,Alto Araguaia,MT,Centro-Oeste
+1063,Alto Boa Vista,MT,Centro-Oeste
+1325,Alto Garças,MT,Centro-Oeste
+2177,Alto Paraguai,MT,Centro-Oeste
+4558,Alto Taquari,MT,Centro-Oeste
+76,Apiacás,MT,Centro-Oeste
+5094,Araguaiana,MT,Centro-Oeste
+4952,Araguainha,MT,Centro-Oeste
+3844,Araputanga,MT,Centro-Oeste
+3688,Arenápolis,MT,Centro-Oeste
+881,Aripuanã,MT,Centro-Oeste
+232,Barra do Bugres,MT,Centro-Oeste
+207,Barra do Garças,MT,Centro-Oeste
+2722,Barão de Melgaço,MT,Centro-Oeste
+767,Bom Jesus do Araguaia,MT,Centro-Oeste
+2893,Brasnorte,MT,Centro-Oeste
+5352,Campinápolis,MT,Centro-Oeste
+3542,Campo Novo do Parecis,MT,Centro-Oeste
+3475,Campo Verde,MT,Centro-Oeste
+1909,Campos de Júlio,MT,Centro-Oeste
+5560,Canabrava do Norte,MT,Centro-Oeste
+2400,Canarana,MT,Centro-Oeste
+2947,Carlinda,MT,Centro-Oeste
+4845,Castanheira,MT,Centro-Oeste
+1477,Chapada dos Guimarães,MT,Centro-Oeste
+2878,Cláudia,MT,Centro-Oeste
+2657,Cocalinho,MT,Centro-Oeste
+4793,Colniza,MT,Centro-Oeste
+3995,Colíder,MT,Centro-Oeste
+3904,Comodoro,MT,Centro-Oeste
+257,Confresa,MT,Centro-Oeste
+3168,Conquista D'Oeste,MT,Centro-Oeste
+5280,Cotriguaçu,MT,Centro-Oeste
+1251,Cuiabá,MT,Centro-Oeste
+2692,Curvelândia,MT,Centro-Oeste
+3458,Cáceres,MT,Centro-Oeste
+1315,Denise,MT,Centro-Oeste
+2303,Diamantino,MT,Centro-Oeste
+2293,Dom Aquino,MT,Centro-Oeste
+3859,Feliz Natal,MT,Centro-Oeste
+3667,Figueirópolis D'Oeste,MT,Centro-Oeste
+3660,Gaúcha do Norte,MT,Centro-Oeste
+4715,General Carneiro,MT,Centro-Oeste
+2997,Glória D'Oeste,MT,Centro-Oeste
+3463,Guarantã do Norte,MT,Centro-Oeste
+1681,Guiratinga,MT,Centro-Oeste
+1780,Indiavaí,MT,Centro-Oeste
+2286,Ipiranga do Norte,MT,Centro-Oeste
+2540,Itanhangá,MT,Centro-Oeste
+2498,Itaúba,MT,Centro-Oeste
+29,Itiquira,MT,Centro-Oeste
+298,Jaciara,MT,Centro-Oeste
+3062,Jangada,MT,Centro-Oeste
+522,Jauru,MT,Centro-Oeste
+4419,Juara,MT,Centro-Oeste
+965,Juruena,MT,Centro-Oeste
+1807,Juscimeira,MT,Centro-Oeste
+2501,Juína,MT,Centro-Oeste
+3973,Lambari D'Oeste,MT,Centro-Oeste
+594,Lucas do Rio Verde,MT,Centro-Oeste
+954,Luciara,MT,Centro-Oeste
+3345,Marcelândia,MT,Centro-Oeste
+2523,Matupá,MT,Centro-Oeste
+4019,Mirassol d'Oeste,MT,Centro-Oeste
+2613,Nobres,MT,Centro-Oeste
+3485,Nortelândia,MT,Centro-Oeste
+42,Nossa Senhora do Livramento,MT,Centro-Oeste
+706,Nova Bandeirantes,MT,Centro-Oeste
+1842,Nova Brasilândia,MT,Centro-Oeste
+141,Nova Canaã do Norte,MT,Centro-Oeste
+4230,Nova Guarita,MT,Centro-Oeste
+2823,Nova Lacerda,MT,Centro-Oeste
+95,Nova Marilândia,MT,Centro-Oeste
+1978,Nova Maringá,MT,Centro-Oeste
+4880,Nova Monte Verde,MT,Centro-Oeste
+2134,Nova Mutum,MT,Centro-Oeste
+2975,Nova Nazaré,MT,Centro-Oeste
+1171,Nova Olímpia,MT,Centro-Oeste
+3926,Nova Santa Helena,MT,Centro-Oeste
+527,Nova Ubiratã,MT,Centro-Oeste
+2715,Nova Xavantina,MT,Centro-Oeste
+3993,Novo Horizonte do Norte,MT,Centro-Oeste
+2970,Novo Mundo,MT,Centro-Oeste
+1039,Novo Santo Antônio,MT,Centro-Oeste
+3653,Novo São Joaquim,MT,Centro-Oeste
+3919,Paranatinga,MT,Centro-Oeste
+762,Paranaíta,MT,Centro-Oeste
+2469,Pedra Preta,MT,Centro-Oeste
+1260,Peixoto de Azevedo,MT,Centro-Oeste
+2317,Planalto da Serra,MT,Centro-Oeste
+2038,Poconé,MT,Centro-Oeste
+2542,Pontal do Araguaia,MT,Centro-Oeste
+2968,Ponte Branca,MT,Centro-Oeste
+4185,Pontes e Lacerda,MT,Centro-Oeste
+4826,Porto Alegre do Norte,MT,Centro-Oeste
+3192,Porto Esperidião,MT,Centro-Oeste
+3419,Porto Estrela,MT,Centro-Oeste
+3060,Porto dos Gaúchos,MT,Centro-Oeste
+1040,Poxoréo,MT,Centro-Oeste
+906,Primavera do Leste,MT,Centro-Oeste
+2561,Querência,MT,Centro-Oeste
+4504,Reserva do Cabaçal,MT,Centro-Oeste
+2156,Ribeirão Cascalheira,MT,Centro-Oeste
+2449,Ribeirãozinho,MT,Centro-Oeste
+2629,Rio Branco,MT,Centro-Oeste
+3599,Rondolândia,MT,Centro-Oeste
+3126,Rondonópolis,MT,Centro-Oeste
+4262,Rosário Oeste,MT,Centro-Oeste
+5212,Salto do Céu,MT,Centro-Oeste
+2625,Santa Carmem,MT,Centro-Oeste
+5152,Santa Cruz do Xingu,MT,Centro-Oeste
+5435,Santa Rita do Trivelato,MT,Centro-Oeste
+1634,Santa Terezinha,MT,Centro-Oeste
+982,Santo Afonso,MT,Centro-Oeste
+4729,Santo Antônio do Leste,MT,Centro-Oeste
+2648,Santo Antônio do Leverger,MT,Centro-Oeste
+776,Sapezal,MT,Centro-Oeste
+4308,Serra Nova Dourada,MT,Centro-Oeste
+2324,Sinop,MT,Centro-Oeste
+5288,Sorriso,MT,Centro-Oeste
+3503,São Félix do Araguaia,MT,Centro-Oeste
+958,São José do Povo,MT,Centro-Oeste
+1263,São José do Rio Claro,MT,Centro-Oeste
+1912,São José do Xingu,MT,Centro-Oeste
+4432,São José dos Quatro Marcos,MT,Centro-Oeste
+3720,São Pedro da Cipa,MT,Centro-Oeste
+2636,Tabaporã,MT,Centro-Oeste
+1471,Tangará da Serra,MT,Centro-Oeste
+1520,Tapurah,MT,Centro-Oeste
+2618,Terra Nova do Norte,MT,Centro-Oeste
+3390,Tesouro,MT,Centro-Oeste
+709,Torixoréu,MT,Centro-Oeste
+4953,União do Sul,MT,Centro-Oeste
+2778,Vale de São Domingos,MT,Centro-Oeste
+1296,Vera,MT,Centro-Oeste
+4013,Vila Bela da Santíssima Trindade,MT,Centro-Oeste
+3440,Vila Rica,MT,Centro-Oeste
+2315,Várzea Grande,MT,Centro-Oeste
+790,Água Boa,MT,Centro-Oeste
+3280,Anadia,AL,Nordeste
+3538,Arapiraca,AL,Nordeste
+5457,Atalaia,AL,Nordeste
+3149,Barra de Santo Antônio,AL,Nordeste
+601,Barra de São Miguel,AL,Nordeste
+1571,Batalha,AL,Nordeste
+197,Belo Monte,AL,Nordeste
+4522,Belém,AL,Nordeste
+1778,Boca da Mata,AL,Nordeste
+241,Branquinha,AL,Nordeste
+4691,Cacimbinhas,AL,Nordeste
+2549,Cajueiro,AL,Nordeste
+5083,Campestre,AL,Nordeste
+2041,Campo Alegre,AL,Nordeste
+2059,Campo Grande,AL,Nordeste
+3110,Canapi,AL,Nordeste
+411,Capela,AL,Nordeste
+2911,Carneiros,AL,Nordeste
+3618,Chã Preta,AL,Nordeste
+4974,Coité do Nóia,AL,Nordeste
+3184,Colônia Leopoldina,AL,Nordeste
+397,Coqueiro Seco,AL,Nordeste
+194,Coruripe,AL,Nordeste
+2019,Craíbas,AL,Nordeste
+1687,Delmiro Gouveia,AL,Nordeste
+1954,Dois Riachos,AL,Nordeste
+437,Estrela de Alagoas,AL,Nordeste
+4326,Feira Grande,AL,Nordeste
+3989,Feliz Deserto,AL,Nordeste
+2926,Flexeiras,AL,Nordeste
+1757,Girau do Ponciano,AL,Nordeste
+698,Ibateguara,AL,Nordeste
+1827,Igaci,AL,Nordeste
+5054,Igreja Nova,AL,Nordeste
+4370,Inhapi,AL,Nordeste
+5420,Jacaré dos Homens,AL,Nordeste
+2944,Jacuípe,AL,Nordeste
+3638,Japaratinga,AL,Nordeste
+373,Jaramataia,AL,Nordeste
+1542,Jequiá da Praia,AL,Nordeste
+2784,Joaquim Gomes,AL,Nordeste
+2597,Jundiá,AL,Nordeste
+2672,Junqueiro,AL,Nordeste
+1665,Lagoa da Canoa,AL,Nordeste
+4290,Limoeiro de Anadia,AL,Nordeste
+1008,Maceió,AL,Nordeste
+4738,Major Isidoro,AL,Nordeste
+4949,Mar Vermelho,AL,Nordeste
+3054,Maragogi,AL,Nordeste
+1865,Maravilha,AL,Nordeste
+3778,Marechal Deodoro,AL,Nordeste
+2680,Maribondo,AL,Nordeste
+2858,Mata Grande,AL,Nordeste
+4048,Matriz de Camaragibe,AL,Nordeste
+5266,Messias,AL,Nordeste
+3815,Minador do Negrão,AL,Nordeste
+4741,Monteirópolis,AL,Nordeste
+100,Murici,AL,Nordeste
+4993,Novo Lino,AL,Nordeste
+4284,Olho d'Água Grande,AL,Nordeste
+282,Olho d'Água das Flores,AL,Nordeste
+3770,Olho d'Água do Casado,AL,Nordeste
+4591,Olivença,AL,Nordeste
+984,Ouro Branco,AL,Nordeste
+1673,Palestina,AL,Nordeste
+2891,Palmeira dos Índios,AL,Nordeste
+5519,Pariconha,AL,Nordeste
+3450,Paripueira,AL,Nordeste
+3593,Passo de Camaragibe,AL,Nordeste
+2548,Paulo Jacinto,AL,Nordeste
+4772,Penedo,AL,Nordeste
+1256,Piaçabuçu,AL,Nordeste
+4158,Pilar,AL,Nordeste
+1616,Pindoba,AL,Nordeste
+2770,Piranhas,AL,Nordeste
+3176,Porto Calvo,AL,Nordeste
+1119,Porto Real do Colégio,AL,Nordeste
+2939,Porto de Pedras,AL,Nordeste
+5304,Poço das Trincheiras,AL,Nordeste
+3913,Pão de Açúcar,AL,Nordeste
+2930,Quebrangulo,AL,Nordeste
+2287,Rio Largo,AL,Nordeste
+2048,Roteiro,AL,Nordeste
+2974,Santa Luzia do Norte,AL,Nordeste
+46,Santana do Ipanema,AL,Nordeste
+3286,Santana do Mundaú,AL,Nordeste
+3375,Satuba,AL,Nordeste
+2983,Senador Rui Palmeira,AL,Nordeste
+3625,São Brás,AL,Nordeste
+533,São José da Laje,AL,Nordeste
+4298,São José da Tapera,AL,Nordeste
+755,São Luís do Quitunde,AL,Nordeste
+4439,São Miguel dos Campos,AL,Nordeste
+677,São Miguel dos Milagres,AL,Nordeste
+1395,São Sebastião,AL,Nordeste
+2710,Tanque d'Arca,AL,Nordeste
+3862,Taquarana,AL,Nordeste
+2321,Teotônio Vilela,AL,Nordeste
+990,Traipu,AL,Nordeste
+342,União dos Palmares,AL,Nordeste
+3298,Viçosa,AL,Nordeste
+5437,Água Branca,AL,Nordeste
+1760,Abaré,BA,Nordeste
+1279,Abaíra,BA,Nordeste
+3662,Acajutiba,BA,Nordeste
+103,Adustina,BA,Nordeste
+5154,Aiquara,BA,Nordeste
+4696,Alagoinhas,BA,Nordeste
+1246,Alcobaça,BA,Nordeste
+3234,Almadina,BA,Nordeste
+656,Amargosa,BA,Nordeste
+2165,Amélia Rodrigues,BA,Nordeste
+4834,América Dourada,BA,Nordeste
+2846,Anagé,BA,Nordeste
+2958,Andaraí,BA,Nordeste
+457,Andorinha,BA,Nordeste
+3644,Angical,BA,Nordeste
+3547,Anguera,BA,Nordeste
+1624,Antas,BA,Nordeste
+1051,Antônio Cardoso,BA,Nordeste
+3285,Antônio Gonçalves,BA,Nordeste
+809,Aporá,BA,Nordeste
+582,Apuarema,BA,Nordeste
+497,Aracatu,BA,Nordeste
+115,Araci,BA,Nordeste
+1218,Aramari,BA,Nordeste
+4417,Arataca,BA,Nordeste
+5066,Aratuípe,BA,Nordeste
+1459,Araças,BA,Nordeste
+2239,Aurelino Leal,BA,Nordeste
+4490,Baianópolis,BA,Nordeste
+5047,Baixa Grande,BA,Nordeste
+5118,Banzaê,BA,Nordeste
+3598,Barra,BA,Nordeste
+4228,Barra da Estiva,BA,Nordeste
+643,Barra do Choça,BA,Nordeste
+659,Barra do Mendes,BA,Nordeste
+3437,Barra do Rocha,BA,Nordeste
+2200,Barreiras,BA,Nordeste
+467,Barro Alto,BA,Nordeste
+1902,Barro Preto,BA,Nordeste
+1552,Barrocas,BA,Nordeste
+689,Belmonte,BA,Nordeste
+2051,Belo Campo,BA,Nordeste
+777,Biritinga,BA,Nordeste
+2157,Boa Nova,BA,Nordeste
+889,Boa Vista do Tupim,BA,Nordeste
+1022,Bom Jesus da Lapa,BA,Nordeste
+5507,Bom Jesus da Serra,BA,Nordeste
+1805,Boninal,BA,Nordeste
+4152,Bonito,BA,Nordeste
+2480,Boquira,BA,Nordeste
+1585,Botuporã,BA,Nordeste
+1986,Brejolândia,BA,Nordeste
+612,Brejões,BA,Nordeste
+748,Brotas de Macaúbas,BA,Nordeste
+711,Brumado,BA,Nordeste
+459,Buerarema,BA,Nordeste
+1406,Buritirama,BA,Nordeste
+4049,Caatiba,BA,Nordeste
+1304,Cabaceiras do Paraguaçu,BA,Nordeste
+285,Cachoeira,BA,Nordeste
+2842,Caculé,BA,Nordeste
+4717,Caetanos,BA,Nordeste
+4014,Caetité,BA,Nordeste
+2207,Cafarnaum,BA,Nordeste
+1923,Cairu,BA,Nordeste
+4542,Caldeirão Grande,BA,Nordeste
+2362,Camacan,BA,Nordeste
+4198,Camamu,BA,Nordeste
+508,Camaçari,BA,Nordeste
+11,Campo Alegre de Lourdes,BA,Nordeste
+1691,Campo Formoso,BA,Nordeste
+4882,Canarana,BA,Nordeste
+3845,Canavieiras,BA,Nordeste
+3986,Candeal,BA,Nordeste
+1564,Candeias,BA,Nordeste
+4096,Candiba,BA,Nordeste
+4008,Cansanção,BA,Nordeste
+5493,Canudos,BA,Nordeste
+3177,Canápolis,BA,Nordeste
+4527,Capela do Alto Alegre,BA,Nordeste
+1086,Capim Grosso,BA,Nordeste
+519,Caravelas,BA,Nordeste
+1143,Caraíbas,BA,Nordeste
+3855,Cardeal da Silva,BA,Nordeste
+968,Carinhanha,BA,Nordeste
+170,Casa Nova,BA,Nordeste
+1348,Castro Alves,BA,Nordeste
+592,Catolândia,BA,Nordeste
+1516,Catu,BA,Nordeste
+2133,Caturama,BA,Nordeste
+3115,Caém,BA,Nordeste
+4480,Central,BA,Nordeste
+4726,Chorrochó,BA,Nordeste
+4742,Cipó,BA,Nordeste
+3368,Coaraci,BA,Nordeste
+3896,Cocos,BA,Nordeste
+829,Conceição da Feira,BA,Nordeste
+662,Conceição do Almeida,BA,Nordeste
+1225,Conceição do Coité,BA,Nordeste
+5216,Conceição do Jacuípe,BA,Nordeste
+1021,Conde,BA,Nordeste
+2992,Condeúba,BA,Nordeste
+1540,Contendas do Sincorá,BA,Nordeste
+3194,Coração de Maria,BA,Nordeste
+4166,Cordeiros,BA,Nordeste
+1470,Coribe,BA,Nordeste
+4451,Coronel João Sá,BA,Nordeste
+1838,Correntina,BA,Nordeste
+4223,Cotegipe,BA,Nordeste
+2109,Cravolândia,BA,Nordeste
+142,Cristópolis,BA,Nordeste
+1290,Crisópolis,BA,Nordeste
+2217,Cruz das Almas,BA,Nordeste
+3486,Curaçá,BA,Nordeste
+1835,Cândido Sales,BA,Nordeste
+3227,Cícero Dantas,BA,Nordeste
+10,Dias d'Ávila,BA,Nordeste
+4062,Dom Basílio,BA,Nordeste
+1100,Dom Macedo Costa,BA,Nordeste
+381,Dário Meira,BA,Nordeste
+4056,Elísio Medrado,BA,Nordeste
+4939,Encruzilhada,BA,Nordeste
+4433,Entre Rios,BA,Nordeste
+3265,Esplanada,BA,Nordeste
+1441,Euclides da Cunha,BA,Nordeste
+712,Eunápolis,BA,Nordeste
+4534,Feira da Mata,BA,Nordeste
+2446,Feira de Santana,BA,Nordeste
+1825,Filadélfia,BA,Nordeste
+1891,Firmino Alves,BA,Nordeste
+3103,Floresta Azul,BA,Nordeste
+4954,Formosa do Rio Preto,BA,Nordeste
+1043,Fátima,BA,Nordeste
+310,Gandu,BA,Nordeste
+3567,Gavião,BA,Nordeste
+2440,Gentio do Ouro,BA,Nordeste
+737,Glória,BA,Nordeste
+3391,Gongogi,BA,Nordeste
+921,Governador Mangabeira,BA,Nordeste
+2725,Guajeru,BA,Nordeste
+3689,Guanambi,BA,Nordeste
+2541,Guaratinga,BA,Nordeste
+3976,Heliópolis,BA,Nordeste
+1490,Iaçu,BA,Nordeste
+5478,Ibiassucê,BA,Nordeste
+4436,Ibicaraí,BA,Nordeste
+4836,Ibicoara,BA,Nordeste
+2358,Ibicuí,BA,Nordeste
+5026,Ibipeba,BA,Nordeste
+5372,Ibipitanga,BA,Nordeste
+2793,Ibiquera,BA,Nordeste
+642,Ibirapitanga,BA,Nordeste
+2649,Ibirapuã,BA,Nordeste
+574,Ibirataia,BA,Nordeste
+609,Ibitiara,BA,Nordeste
+2259,Ibititá,BA,Nordeste
+4139,Ibotirama,BA,Nordeste
+1934,Ichu,BA,Nordeste
+5103,Igaporã,BA,Nordeste
+2538,Igrapiúna,BA,Nordeste
+3011,Iguaí,BA,Nordeste
+1415,Ilhéus,BA,Nordeste
+3685,Inhambupe,BA,Nordeste
+4535,Ipecaetá,BA,Nordeste
+3951,Ipiaú,BA,Nordeste
+2986,Ipirá,BA,Nordeste
+867,Ipupiara,BA,Nordeste
+445,Irajuba,BA,Nordeste
+367,Iramaia,BA,Nordeste
+5232,Iraquara,BA,Nordeste
+2216,Irará,BA,Nordeste
+1155,Irecê,BA,Nordeste
+2309,Itabela,BA,Nordeste
+955,Itaberaba,BA,Nordeste
+1872,Itabuna,BA,Nordeste
+603,Itacaré,BA,Nordeste
+750,Itaeté,BA,Nordeste
+2902,Itagi,BA,Nordeste
+4050,Itagibá,BA,Nordeste
+1194,Itagimirim,BA,Nordeste
+1465,Itaguaçu da Bahia,BA,Nordeste
+1529,Itaju do Colônia,BA,Nordeste
+1122,Itajuípe,BA,Nordeste
+5509,Itamaraju,BA,Nordeste
+4829,Itamari,BA,Nordeste
+1613,Itambé,BA,Nordeste
+999,Itanagra,BA,Nordeste
+4875,Itanhém,BA,Nordeste
+4510,Itaparica,BA,Nordeste
+4465,Itapebi,BA,Nordeste
+804,Itapetinga,BA,Nordeste
+4144,Itapicuru,BA,Nordeste
+4344,Itapitanga,BA,Nordeste
+155,Itapé,BA,Nordeste
+5285,Itaquara,BA,Nordeste
+3096,Itarantim,BA,Nordeste
+3241,Itatim,BA,Nordeste
+5045,Itiruçu,BA,Nordeste
+925,Itiúba,BA,Nordeste
+4879,Itororó,BA,Nordeste
+3534,Ituaçu,BA,Nordeste
+3047,Ituberá,BA,Nordeste
+184,Iuiú,BA,Nordeste
+403,Jaborandi,BA,Nordeste
+4666,Jacaraci,BA,Nordeste
+360,Jacobina,BA,Nordeste
+4487,Jaguaquara,BA,Nordeste
+1573,Jaguarari,BA,Nordeste
+2552,Jaguaripe,BA,Nordeste
+4966,Jandaíra,BA,Nordeste
+2864,Jequié,BA,Nordeste
+1701,Jeremoabo,BA,Nordeste
+822,Jiquiriçá,BA,Nordeste
+5239,Jitaúna,BA,Nordeste
+1855,João Dourado,BA,Nordeste
+5108,Juazeiro,BA,Nordeste
+2068,Jucuruçu,BA,Nordeste
+3245,Jussara,BA,Nordeste
+4084,Jussari,BA,Nordeste
+5147,Jussiape,BA,Nordeste
+4545,Lafaiete Coutinho,BA,Nordeste
+4330,Lagoa Real,BA,Nordeste
+577,Laje,BA,Nordeste
+5466,Lajedinho,BA,Nordeste
+5210,Lajedo do Tabocal,BA,Nordeste
+199,Lajedão,BA,Nordeste
+3934,Lamarão,BA,Nordeste
+3631,Lapão,BA,Nordeste
+3687,Lauro de Freitas,BA,Nordeste
+4493,Lençóis,BA,Nordeste
+640,Licínio de Almeida,BA,Nordeste
+2913,Livramento de Nossa Senhora,BA,Nordeste
+1897,Luís Eduardo Magalhães,BA,Nordeste
+5401,Macajuba,BA,Nordeste
+1824,Macarani,BA,Nordeste
+201,Macaúbas,BA,Nordeste
+1158,Macururé,BA,Nordeste
+3984,Madre de Deus,BA,Nordeste
+2716,Maetinga,BA,Nordeste
+235,Maiquinique,BA,Nordeste
+5512,Mairi,BA,Nordeste
+3764,Malhada,BA,Nordeste
+4312,Malhada de Pedras,BA,Nordeste
+475,Manoel Vitorino,BA,Nordeste
+2687,Mansidão,BA,Nordeste
+2942,Maracás,BA,Nordeste
+3549,Maragogipe,BA,Nordeste
+2836,Maraú,BA,Nordeste
+2056,Marcionílio Souza,BA,Nordeste
+2514,Mascote,BA,Nordeste
+4639,Mata de São João,BA,Nordeste
+3401,Matina,BA,Nordeste
+4180,Medeiros Neto,BA,Nordeste
+3316,Miguel Calmon,BA,Nordeste
+1783,Milagres,BA,Nordeste
+5375,Mirangaba,BA,Nordeste
+995,Mirante,BA,Nordeste
+669,Monte Santo,BA,Nordeste
+303,Morpará,BA,Nordeste
+438,Morro do Chapéu,BA,Nordeste
+3071,Mortugaba,BA,Nordeste
+3447,Mucugê,BA,Nordeste
+1759,Mucuri,BA,Nordeste
+3620,Mulungu do Morro,BA,Nordeste
+5221,Mundo Novo,BA,Nordeste
+4906,Muniz Ferreira,BA,Nordeste
+5207,Muquém de São Francisco,BA,Nordeste
+1327,Muritiba,BA,Nordeste
+1253,Mutuípe,BA,Nordeste
+264,Nazaré,BA,Nordeste
+2128,Nilo Peçanha,BA,Nordeste
+2771,Nordestina,BA,Nordeste
+287,Nova Canaã,BA,Nordeste
+4222,Nova Fátima,BA,Nordeste
+2721,Nova Ibiá,BA,Nordeste
+4627,Nova Itarana,BA,Nordeste
+4143,Nova Redenção,BA,Nordeste
+4553,Nova Soure,BA,Nordeste
+2178,Nova Viçosa,BA,Nordeste
+1545,Novo Horizonte,BA,Nordeste
+2978,Novo Triunfo,BA,Nordeste
+2342,Olindina,BA,Nordeste
+4045,Oliveira dos Brejinhos,BA,Nordeste
+3781,Ouriçangas,BA,Nordeste
+366,Ourolândia,BA,Nordeste
+3583,Palmas de Monte Alto,BA,Nordeste
+3311,Palmeiras,BA,Nordeste
+1547,Paramirim,BA,Nordeste
+4979,Paratinga,BA,Nordeste
+1261,Paripiranga,BA,Nordeste
+961,Pau Brasil,BA,Nordeste
+1731,Paulo Afonso,BA,Nordeste
+1405,Pedro Alexandre,BA,Nordeste
+5025,Pedrão,BA,Nordeste
+3203,Piatã,BA,Nordeste
+493,Pilão Arcado,BA,Nordeste
+2804,Pindaí,BA,Nordeste
+1904,Pindobaçu,BA,Nordeste
+3174,Pintadas,BA,Nordeste
+4850,Piraí do Norte,BA,Nordeste
+3990,Piripá,BA,Nordeste
+4618,Piritiba,BA,Nordeste
+1789,Planaltino,BA,Nordeste
+2594,Planalto,BA,Nordeste
+3714,Pojuca,BA,Nordeste
+534,Ponto Novo,BA,Nordeste
+2628,Porto Seguro,BA,Nordeste
+2467,Potiraguá,BA,Nordeste
+4577,Poções,BA,Nordeste
+223,Prado,BA,Nordeste
+956,Presidente Dutra,BA,Nordeste
+3589,Presidente Jânio Quadros,BA,Nordeste
+4060,Presidente Tancredo Neves,BA,Nordeste
+2554,Pé de Serra,BA,Nordeste
+654,Queimadas,BA,Nordeste
+2723,Quijingue,BA,Nordeste
+4369,Quixabeira,BA,Nordeste
+3523,Rafael Jambeiro,BA,Nordeste
+3333,Remanso,BA,Nordeste
+3722,Retirolândia,BA,Nordeste
+5263,Riacho de Santana,BA,Nordeste
+2996,Riachão das Neves,BA,Nordeste
+4538,Riachão do Jacuípe,BA,Nordeste
+2053,Ribeira do Amparo,BA,Nordeste
+4463,Ribeira do Pombal,BA,Nordeste
+3178,Ribeirão do Largo,BA,Nordeste
+2033,Rio Real,BA,Nordeste
+3803,Rio de Contas,BA,Nordeste
+311,Rio do Antônio,BA,Nordeste
+1903,Rio do Pires,BA,Nordeste
+773,Rodelas,BA,Nordeste
+5148,Ruy Barbosa,BA,Nordeste
+1297,Salinas da Margarida,BA,Nordeste
+3186,Salvador,BA,Nordeste
+5224,Santa Brígida,BA,Nordeste
+3769,Santa Bárbara,BA,Nordeste
+647,Santa Cruz Cabrália,BA,Nordeste
+2989,Santa Cruz da Vitória,BA,Nordeste
+156,Santa Inês,BA,Nordeste
+1569,Santa Luzia,BA,Nordeste
+1110,Santa Maria da Vitória,BA,Nordeste
+2075,Santa Rita de Cássia,BA,Nordeste
+2140,Santa Teresinha,BA,Nordeste
+5535,Santaluz,BA,Nordeste
+2979,Santana,BA,Nordeste
+5378,Santanópolis,BA,Nordeste
+5388,Santo Amaro,BA,Nordeste
+188,Santo Antônio de Jesus,BA,Nordeste
+911,Santo Estêvão,BA,Nordeste
+5135,Sapeaçu,BA,Nordeste
+2582,Saubara,BA,Nordeste
+673,Saúde,BA,Nordeste
+593,Seabra,BA,Nordeste
+2084,Sebastião Laranjeiras,BA,Nordeste
+4920,Senhor do Bonfim,BA,Nordeste
+2328,Sento Sé,BA,Nordeste
+98,Serra Dourada,BA,Nordeste
+5035,Serra Preta,BA,Nordeste
+795,Serra do Ramalho,BA,Nordeste
+2609,Serrinha,BA,Nordeste
+1868,Serrolândia,BA,Nordeste
+289,Simões Filho,BA,Nordeste
+3393,Sobradinho,BA,Nordeste
+5496,Souto Soares,BA,Nordeste
+4502,Sátiro Dias,BA,Nordeste
+5393,São Desidério,BA,Nordeste
+338,São Domingos,BA,Nordeste
+570,São Felipe,BA,Nordeste
+864,São Francisco do Conde,BA,Nordeste
+4929,São Félix,BA,Nordeste
+2879,São Félix do Coribe,BA,Nordeste
+3034,São Gabriel,BA,Nordeste
+4425,São Gonçalo dos Campos,BA,Nordeste
+2816,São José da Vitória,BA,Nordeste
+299,São José do Jacuípe,BA,Nordeste
+5258,São Miguel das Matas,BA,Nordeste
+2201,São Sebastião do Passé,BA,Nordeste
+639,Sítio do Mato,BA,Nordeste
+3250,Sítio do Quinto,BA,Nordeste
+1890,Tabocas do Brejo Velho,BA,Nordeste
+3349,Tanhaçu,BA,Nordeste
+1247,Tanque Novo,BA,Nordeste
+27,Tanquinho,BA,Nordeste
+3127,Taperoá,BA,Nordeste
+3492,Tapiramutá,BA,Nordeste
+213,Teixeira de Freitas,BA,Nordeste
+4521,Teodoro Sampaio,BA,Nordeste
+271,Teofilândia,BA,Nordeste
+3055,Teolândia,BA,Nordeste
+2398,Terra Nova,BA,Nordeste
+1412,Tremedal,BA,Nordeste
+3663,Tucano,BA,Nordeste
+2697,Uauá,BA,Nordeste
+4052,Ubaitaba,BA,Nordeste
+3907,Ubatã,BA,Nordeste
+2409,Ubaíra,BA,Nordeste
+5112,Uibaí,BA,Nordeste
+3043,Umburanas,BA,Nordeste
+1717,Una,BA,Nordeste
+3592,Urandi,BA,Nordeste
+634,Uruçuca,BA,Nordeste
+1131,Utinga,BA,Nordeste
+1905,Valente,BA,Nordeste
+806,Valença,BA,Nordeste
+1052,Varzedo,BA,Nordeste
+1371,Vera Cruz,BA,Nordeste
+1803,Vereda,BA,Nordeste
+3579,Vitória da Conquista,BA,Nordeste
+1275,Várzea Nova,BA,Nordeste
+4641,Várzea da Roça,BA,Nordeste
+2766,Várzea do Poço,BA,Nordeste
+1784,Wagner,BA,Nordeste
+3166,Wanderley,BA,Nordeste
+3484,Wenceslau Guimarães,BA,Nordeste
+1895,Xique-Xique,BA,Nordeste
+5540,Água Fria,BA,Nordeste
+470,Érico Cardoso,BA,Nordeste
+3213,Abaiara,CE,Nordeste
+4828,Acarape,CE,Nordeste
+1027,Acaraú,CE,Nordeste
+754,Acopiara,CE,Nordeste
+625,Aiuaba,CE,Nordeste
+758,Alcântaras,CE,Nordeste
+5419,Altaneira,CE,Nordeste
+462,Alto Santo,CE,Nordeste
+4169,Amontada,CE,Nordeste
+2520,Antonina do Norte,CE,Nordeste
+4797,Apuiarés,CE,Nordeste
+1220,Aquiraz,CE,Nordeste
+1586,Aracati,CE,Nordeste
+1197,Aracoiaba,CE,Nordeste
+3018,Ararendá,CE,Nordeste
+4447,Araripe,CE,Nordeste
+246,Aratuba,CE,Nordeste
+306,Arneiroz,CE,Nordeste
+2385,Assaré,CE,Nordeste
+1095,Aurora,CE,Nordeste
+865,Baixio,CE,Nordeste
+1484,Banabuiú,CE,Nordeste
+2209,Barbalha,CE,Nordeste
+5005,Barreira,CE,Nordeste
+83,Barro,CE,Nordeste
+2148,Barroquinha,CE,Nordeste
+358,Baturité,CE,Nordeste
+2921,Beberibe,CE,Nordeste
+262,Bela Cruz,CE,Nordeste
+4,Boa Viagem,CE,Nordeste
+4841,Brejo Santo,CE,Nordeste
+887,Camocim,CE,Nordeste
+4518,Campos Sales,CE,Nordeste
+43,Canindé,CE,Nordeste
+3423,Capistrano,CE,Nordeste
+5290,Caridade,CE,Nordeste
+1320,Caririaçu,CE,Nordeste
+5329,Cariré,CE,Nordeste
+2895,Cariús,CE,Nordeste
+569,Carnaubal,CE,Nordeste
+5497,Cascavel,CE,Nordeste
+2338,Catarina,CE,Nordeste
+2742,Catunda,CE,Nordeste
+5397,Caucaia,CE,Nordeste
+3208,Cedro,CE,Nordeste
+2091,Chaval,CE,Nordeste
+2220,Chorozinho,CE,Nordeste
+4863,Choró,CE,Nordeste
+2681,Coreaú,CE,Nordeste
+483,Crateús,CE,Nordeste
+1554,Crato,CE,Nordeste
+2344,Croatá,CE,Nordeste
+2574,Cruz,CE,Nordeste
+2962,Deputado Irapuan Pinheiro,CE,Nordeste
+2702,Ererê,CE,Nordeste
+987,Eusébio,CE,Nordeste
+4353,Farias Brito,CE,Nordeste
+2137,Forquilha,CE,Nordeste
+4501,Fortaleza,CE,Nordeste
+2899,Fortim,CE,Nordeste
+2377,Frecheirinha,CE,Nordeste
+4769,General Sampaio,CE,Nordeste
+2807,Granja,CE,Nordeste
+807,Granjeiro,CE,Nordeste
+856,Graça,CE,Nordeste
+2859,Groaíras,CE,Nordeste
+3775,Guaiúba,CE,Nordeste
+234,Guaraciaba do Norte,CE,Nordeste
+1740,Guaramiranga,CE,Nordeste
+3158,Hidrolândia,CE,Nordeste
+2904,Horizonte,CE,Nordeste
+513,Ibaretama,CE,Nordeste
+1173,Ibiapina,CE,Nordeste
+4519,Ibicuitinga,CE,Nordeste
+3044,Icapuí,CE,Nordeste
+5049,Icó,CE,Nordeste
+3489,Iguatu,CE,Nordeste
+1750,Independência,CE,Nordeste
+2914,Ipaporanga,CE,Nordeste
+4059,Ipaumirim,CE,Nordeste
+4486,Ipu,CE,Nordeste
+4788,Ipueiras,CE,Nordeste
+1598,Iracema,CE,Nordeste
+849,Irauçuba,CE,Nordeste
+1597,Itaitinga,CE,Nordeste
+2095,Itaiçaba,CE,Nordeste
+4569,Itapagé,CE,Nordeste
+1675,Itapipoca,CE,Nordeste
+1241,Itapiúna,CE,Nordeste
+1992,Itarema,CE,Nordeste
+1626,Itatira,CE,Nordeste
+4957,Jaguaretama,CE,Nordeste
+3902,Jaguaribara,CE,Nordeste
+4744,Jaguaribe,CE,Nordeste
+1936,Jaguaruana,CE,Nordeste
+4754,Jardim,CE,Nordeste
+4509,Jati,CE,Nordeste
+3668,Jijoca de Jericoacoara,CE,Nordeste
+620,Juazeiro do Norte,CE,Nordeste
+2219,Jucás,CE,Nordeste
+4643,Lavras da Mangabeira,CE,Nordeste
+1492,Limoeiro do Norte,CE,Nordeste
+1781,Madalena,CE,Nordeste
+1299,Maracanaú,CE,Nordeste
+30,Maranguape,CE,Nordeste
+2556,Marco,CE,Nordeste
+1129,Martinópole,CE,Nordeste
+1074,Massapê,CE,Nordeste
+3577,Mauriti,CE,Nordeste
+3006,Meruoca,CE,Nordeste
+2393,Milagres,CE,Nordeste
+275,Milhã,CE,Nordeste
+189,Miraíma,CE,Nordeste
+3295,Missão Velha,CE,Nordeste
+1941,Mombaça,CE,Nordeste
+4296,Monsenhor Tabosa,CE,Nordeste
+2502,Morada Nova,CE,Nordeste
+2522,Moraújo,CE,Nordeste
+3307,Morrinhos,CE,Nordeste
+4573,Mucambo,CE,Nordeste
+3173,Mulungu,CE,Nordeste
+206,Nova Olinda,CE,Nordeste
+2619,Nova Russas,CE,Nordeste
+3800,Novo Oriente,CE,Nordeste
+2288,Ocara,CE,Nordeste
+1918,Orós,CE,Nordeste
+4890,Pacajus,CE,Nordeste
+2466,Pacatuba,CE,Nordeste
+5517,Pacoti,CE,Nordeste
+12,Pacujá,CE,Nordeste
+3170,Palhano,CE,Nordeste
+5365,Palmácia,CE,Nordeste
+4422,Paracuru,CE,Nordeste
+1647,Paraipaba,CE,Nordeste
+4948,Parambu,CE,Nordeste
+5016,Paramoti,CE,Nordeste
+4695,Pedra Branca,CE,Nordeste
+4041,Penaforte,CE,Nordeste
+1722,Pentecoste,CE,Nordeste
+1025,Pereiro,CE,Nordeste
+392,Pindoretama,CE,Nordeste
+2509,Piquet Carneiro,CE,Nordeste
+5276,Pires Ferreira,CE,Nordeste
+3338,Poranga,CE,Nordeste
+1475,Porteiras,CE,Nordeste
+4329,Potengi,CE,Nordeste
+2334,Potiretama,CE,Nordeste
+1183,Quiterianópolis,CE,Nordeste
+3077,Quixadá,CE,Nordeste
+3027,Quixelô,CE,Nordeste
+1250,Quixeramobim,CE,Nordeste
+5359,Quixeré,CE,Nordeste
+3872,Redenção,CE,Nordeste
+2990,Reriutaba,CE,Nordeste
+296,Russas,CE,Nordeste
+4965,Saboeiro,CE,Nordeste
+5544,Salitre,CE,Nordeste
+1463,Santa Quitéria,CE,Nordeste
+1483,Santana do Acaraú,CE,Nordeste
+190,Santana do Cariri,CE,Nordeste
+832,Senador Pompeu,CE,Nordeste
+5027,Senador Sá,CE,Nordeste
+390,Sobral,CE,Nordeste
+4499,Solonópole,CE,Nordeste
+5158,São Benedito,CE,Nordeste
+2670,São Gonçalo do Amarante,CE,Nordeste
+2202,São João do Jaguaribe,CE,Nordeste
+469,São Luís do Curu,CE,Nordeste
+1776,Tabuleiro do Norte,CE,Nordeste
+418,Tamboril,CE,Nordeste
+5314,Tarrafas,CE,Nordeste
+4125,Tauá,CE,Nordeste
+4325,Tejuçuoca,CE,Nordeste
+3895,Tianguá,CE,Nordeste
+2638,Trairi,CE,Nordeste
+423,Tururu,CE,Nordeste
+1288,Ubajara,CE,Nordeste
+4121,Umari,CE,Nordeste
+2437,Umirim,CE,Nordeste
+2003,Uruburetama,CE,Nordeste
+4271,Uruoca,CE,Nordeste
+905,Varjota,CE,Nordeste
+4082,Viçosa do Ceará,CE,Nordeste
+4709,Várzea Alegre,CE,Nordeste
+487,Afonso Cunha,MA,Nordeste
+2762,Alcântara,MA,Nordeste
+4697,Aldeias Altas,MA,Nordeste
+2419,Altamira do Maranhão,MA,Nordeste
+3056,Alto Alegre do Maranhão,MA,Nordeste
+4760,Alto Alegre do Pindaré,MA,Nordeste
+840,Alto Parnaíba,MA,Nordeste
+5338,Amapá do Maranhão,MA,Nordeste
+2072,Amarante do Maranhão,MA,Nordeste
+3183,Anajatuba,MA,Nordeste
+5442,Anapurus,MA,Nordeste
+4397,Apicum-Açu,MA,Nordeste
+4799,Araguanã,MA,Nordeste
+1628,Araioses,MA,Nordeste
+3936,Arame,MA,Nordeste
+1534,Arari,MA,Nordeste
+2650,Axixá,MA,Nordeste
+1269,Açailândia,MA,Nordeste
+2583,Bacabal,MA,Nordeste
+1686,Bacabeira,MA,Nordeste
+3332,Bacuri,MA,Nordeste
+278,Bacurituba,MA,Nordeste
+5353,Balsas,MA,Nordeste
+3929,Barra do Corda,MA,Nordeste
+1921,Barreirinhas,MA,Nordeste
+611,Barão de Grajaú,MA,Nordeste
+2429,Bela Vista do Maranhão,MA,Nordeste
+4707,Belágua,MA,Nordeste
+1495,Benedito Leite,MA,Nordeste
+389,Bequimão,MA,Nordeste
+4795,Bernardo do Mearim,MA,Nordeste
+3681,Boa Vista do Gurupi,MA,Nordeste
+2061,Bom Jardim,MA,Nordeste
+456,Bom Jesus das Selvas,MA,Nordeste
+2375,Bom Lugar,MA,Nordeste
+1201,Brejo,MA,Nordeste
+5538,Brejo de Areia,MA,Nordeste
+5186,Buriti,MA,Nordeste
+3571,Buriti Bravo,MA,Nordeste
+4690,Buriticupu,MA,Nordeste
+4961,Buritirana,MA,Nordeste
+3935,Cachoeira Grande,MA,Nordeste
+3551,Cajapió,MA,Nordeste
+5185,Cajari,MA,Nordeste
+2181,Campestre do Maranhão,MA,Nordeste
+5080,Cantanhede,MA,Nordeste
+3084,Capinzal do Norte,MA,Nordeste
+2001,Carolina,MA,Nordeste
+4578,Carutapera,MA,Nordeste
+1089,Caxias,MA,Nordeste
+4638,Cedral,MA,Nordeste
+4821,Central do Maranhão,MA,Nordeste
+1233,Centro Novo do Maranhão,MA,Nordeste
+2224,Centro do Guilherme,MA,Nordeste
+1568,Chapadinha,MA,Nordeste
+1539,Cidelândia,MA,Nordeste
+4533,Codó,MA,Nordeste
+1953,Coelho Neto,MA,Nordeste
+1005,Colinas,MA,Nordeste
+2340,Conceição do Lago-Açu,MA,Nordeste
+1486,Coroatá,MA,Nordeste
+4688,Cururupu,MA,Nordeste
+59,Cândido Mendes,MA,Nordeste
+799,Davinópolis,MA,Nordeste
+2308,Dom Pedro,MA,Nordeste
+3585,Duque Bacelar,MA,Nordeste
+700,Esperantinópolis,MA,Nordeste
+3937,Estreito,MA,Nordeste
+4407,Feira Nova do Maranhão,MA,Nordeste
+1277,Fernando Falcão,MA,Nordeste
+4269,Formosa da Serra Negra,MA,Nordeste
+3273,Fortaleza dos Nogueiras,MA,Nordeste
+1476,Fortuna,MA,Nordeste
+5064,Godofredo Viana,MA,Nordeste
+1134,Gonçalves Dias,MA,Nordeste
+2946,Governador Archer,MA,Nordeste
+1090,Governador Edison Lobão,MA,Nordeste
+2693,Governador Eugênio Barros,MA,Nordeste
+4830,Governador Luiz Rocha,MA,Nordeste
+5095,Governador Newton Bello,MA,Nordeste
+3870,Governador Nunes Freire,MA,Nordeste
+1570,Grajaú,MA,Nordeste
+4513,Graça Aranha,MA,Nordeste
+4208,Guimarães,MA,Nordeste
+796,Humberto de Campos,MA,Nordeste
+4932,Icatu,MA,Nordeste
+1338,Igarapé Grande,MA,Nordeste
+765,Igarapé do Meio,MA,Nordeste
+919,Imperatriz,MA,Nordeste
+1945,Itaipava do Grajaú,MA,Nordeste
+1946,Itapecuru Mirim,MA,Nordeste
+4348,Itinga do Maranhão,MA,Nordeste
+4656,Jatobá,MA,Nordeste
+5249,Jenipapo dos Vieiras,MA,Nordeste
+939,Joselândia,MA,Nordeste
+272,João Lisboa,MA,Nordeste
+550,Junco do Maranhão,MA,Nordeste
+1775,Lago Verde,MA,Nordeste
+3980,Lago da Pedra,MA,Nordeste
+4892,Lago do Junco,MA,Nordeste
+2861,Lago dos Rodrigues,MA,Nordeste
+869,Lagoa Grande do Maranhão,MA,Nordeste
+3357,Lagoa do Mato,MA,Nordeste
+946,Lajeado Novo,MA,Nordeste
+3053,Lima Campos,MA,Nordeste
+1061,Loreto,MA,Nordeste
+4131,Luís Domingues,MA,Nordeste
+4291,Magalhães de Almeida,MA,Nordeste
+5268,Maracaçumé,MA,Nordeste
+1980,Marajá do Sena,MA,Nordeste
+2410,Maranhãozinho,MA,Nordeste
+400,Mata Roma,MA,Nordeste
+886,Matinha,MA,Nordeste
+1919,Matões,MA,Nordeste
+3296,Matões do Norte,MA,Nordeste
+4854,Milagres do Maranhão,MA,Nordeste
+4434,Mirador,MA,Nordeste
+4368,Miranda do Norte,MA,Nordeste
+2291,Mirinzal,MA,Nordeste
+1758,Montes Altos,MA,Nordeste
+1982,Monção,MA,Nordeste
+3744,Morros,MA,Nordeste
+2234,Nina Rodrigues,MA,Nordeste
+2082,Nova Colinas,MA,Nordeste
+4440,Nova Iorque,MA,Nordeste
+3961,Nova Olinda do Maranhão,MA,Nordeste
+2189,Olho d'Água das Cunhãs,MA,Nordeste
+3205,Olinda Nova do Maranhão,MA,Nordeste
+218,Palmeirândia,MA,Nordeste
+4457,Paraibano,MA,Nordeste
+2581,Parnarama,MA,Nordeste
+2485,Passagem Franca,MA,Nordeste
+2046,Pastos Bons,MA,Nordeste
+644,Paulino Neves,MA,Nordeste
+559,Paulo Ramos,MA,Nordeste
+477,Paço do Lumiar,MA,Nordeste
+2892,Pedreiras,MA,Nordeste
+2472,Pedro do Rosário,MA,Nordeste
+4874,Penalva,MA,Nordeste
+4107,Peri Mirim,MA,Nordeste
+899,Peritoró,MA,Nordeste
+4488,Pindaré-Mirim,MA,Nordeste
+2382,Pinheiro,MA,Nordeste
+3559,Pio XII,MA,Nordeste
+1633,Pirapemas,MA,Nordeste
+181,Porto Franco,MA,Nordeste
+5543,Porto Rico do Maranhão,MA,Nordeste
+1030,Poção de Pedras,MA,Nordeste
+2764,Presidente Dutra,MA,Nordeste
+4088,Presidente Juscelino,MA,Nordeste
+2355,Presidente Médici,MA,Nordeste
+3632,Presidente Sarney,MA,Nordeste
+4517,Presidente Vargas,MA,Nordeste
+420,Primeira Cruz,MA,Nordeste
+1414,Raposa,MA,Nordeste
+396,Riachão,MA,Nordeste
+3269,Ribamar Fiquene,MA,Nordeste
+25,Rosário,MA,Nordeste
+1739,Sambaíba,MA,Nordeste
+4702,Santa Filomena do Maranhão,MA,Nordeste
+4356,Santa Helena,MA,Nordeste
+2030,Santa Inês,MA,Nordeste
+4085,Santa Luzia,MA,Nordeste
+3243,Santa Luzia do Paruá,MA,Nordeste
+1464,Santa Quitéria do Maranhão,MA,Nordeste
+5531,Santa Rita,MA,Nordeste
+5364,Santana do Maranhão,MA,Nordeste
+2736,Santo Amaro do Maranhão,MA,Nordeste
+2528,Santo Antônio dos Lopes,MA,Nordeste
+1268,Satubinha,MA,Nordeste
+2381,Senador Alexandre Costa,MA,Nordeste
+402,Senador La Rocque,MA,Nordeste
+2822,Serrano do Maranhão,MA,Nordeste
+1765,Sucupira do Norte,MA,Nordeste
+2843,Sucupira do Riachão,MA,Nordeste
+4244,São Benedito do Rio Preto,MA,Nordeste
+1151,São Bento,MA,Nordeste
+4636,São Bernardo,MA,Nordeste
+430,São Domingos do Azeitão,MA,Nordeste
+36,São Domingos do Maranhão,MA,Nordeste
+1562,São Francisco do Brejão,MA,Nordeste
+2115,São Francisco do Maranhão,MA,Nordeste
+1577,São Félix de Balsas,MA,Nordeste
+301,São José de Ribamar,MA,Nordeste
+5029,São José dos Basílios,MA,Nordeste
+1458,São João Batista,MA,Nordeste
+2369,São João do Carú,MA,Nordeste
+3240,São João do Paraíso,MA,Nordeste
+4395,São João do Soter,MA,Nordeste
+5085,São João dos Patos,MA,Nordeste
+516,São Luís,MA,Nordeste
+1351,São Luís Gonzaga do Maranhão,MA,Nordeste
+1362,São Mateus do Maranhão,MA,Nordeste
+1604,São Pedro da Água Branca,MA,Nordeste
+1531,São Pedro dos Crentes,MA,Nordeste
+2066,São Raimundo das Mangabeiras,MA,Nordeste
+3700,São Raimundo do Doca Bezerra,MA,Nordeste
+1907,São Roberto,MA,Nordeste
+3152,São Vicente Ferrer,MA,Nordeste
+3290,Sítio Novo,MA,Nordeste
+3057,Tasso Fragoso,MA,Nordeste
+1636,Timbiras,MA,Nordeste
+4563,Timon,MA,Nordeste
+1044,Trizidela do Vale,MA,Nordeste
+4258,Tufilândia,MA,Nordeste
+6,Tuntum,MA,Nordeste
+5109,Turiaçu,MA,Nordeste
+2253,Turilândia,MA,Nordeste
+660,Tutóia,MA,Nordeste
+2394,Urbano Santos,MA,Nordeste
+4857,Vargem Grande,MA,Nordeste
+4803,Viana,MA,Nordeste
+3325,Vila Nova dos Martírios,MA,Nordeste
+5504,Vitorino Freire,MA,Nordeste
+5273,Vitória do Mearim,MA,Nordeste
+4687,Zé Doca,MA,Nordeste
+5384,Água Doce do Maranhão,MA,Nordeste
+2637,Aguiar,PB,Nordeste
+5451,Alagoa Grande,PB,Nordeste
+2138,Alagoa Nova,PB,Nordeste
+2908,Alagoinha,PB,Nordeste
+1033,Alcantil,PB,Nordeste
+3058,Algodão de Jandaíra,PB,Nordeste
+1087,Alhandra,PB,Nordeste
+3339,Amparo,PB,Nordeste
+4706,Aparecida,PB,Nordeste
+922,Arara,PB,Nordeste
+688,Araruna,PB,Nordeste
+2171,Araçagi,PB,Nordeste
+4531,Areia,PB,Nordeste
+3754,Areia de Baraúnas,PB,Nordeste
+3886,Areial,PB,Nordeste
+2034,Aroeiras,PB,Nordeste
+1804,Assunção,PB,Nordeste
+2266,Bananeiras,PB,Nordeste
+49,Baraúna,PB,Nordeste
+1796,Barra de Santa Rosa,PB,Nordeste
+4355,Barra de Santana,PB,Nordeste
+1169,Barra de São Miguel,PB,Nordeste
+2603,Bayeux,PB,Nordeste
+969,Baía da Traição,PB,Nordeste
+3768,Belém,PB,Nordeste
+5520,Belém do Brejo do Cruz,PB,Nordeste
+3048,Bernardino Batista,PB,Nordeste
+3005,Boa Ventura,PB,Nordeste
+346,Boa Vista,PB,Nordeste
+5180,Bom Jesus,PB,Nordeste
+89,Bom Sucesso,PB,Nordeste
+1682,Bonito de Santa Fé,PB,Nordeste
+4036,Boqueirão,PB,Nordeste
+107,Borborema,PB,Nordeste
+355,Brejo do Cruz,PB,Nordeste
+4453,Brejo dos Santos,PB,Nordeste
+4779,Caaporã,PB,Nordeste
+646,Cabaceiras,PB,Nordeste
+371,Cabedelo,PB,Nordeste
+4998,Cachoeira dos Índios,PB,Nordeste
+2269,Cacimba de Areia,PB,Nordeste
+4189,Cacimba de Dentro,PB,Nordeste
+947,Cacimbas,PB,Nordeste
+3041,Caiçara,PB,Nordeste
+1450,Cajazeiras,PB,Nordeste
+4559,Cajazeirinhas,PB,Nordeste
+208,Caldas Brandão,PB,Nordeste
+2703,Camalaú,PB,Nordeste
+4411,Campina Grande,PB,Nordeste
+1416,Capim,PB,Nordeste
+1510,Caraúbas,PB,Nordeste
+3739,Carrapateira,PB,Nordeste
+901,Casserengue,PB,Nordeste
+5470,Catingueira,PB,Nordeste
+2510,Catolé do Rocha,PB,Nordeste
+3903,Caturité,PB,Nordeste
+613,Conceição,PB,Nordeste
+3284,Condado,PB,Nordeste
+393,Conde,PB,Nordeste
+2785,Congo,PB,Nordeste
+4915,Coremas,PB,Nordeste
+50,Coxixola,PB,Nordeste
+5305,Cruz do Espírito Santo,PB,Nordeste
+3128,Cubati,PB,Nordeste
+4429,Cuitegi,PB,Nordeste
+3918,Cuité,PB,Nordeste
+1139,Cuité de Mamanguape,PB,Nordeste
+3629,Curral Velho,PB,Nordeste
+317,Curral de Cima,PB,Nordeste
+4698,Damião,PB,Nordeste
+2674,Desterro,PB,Nordeste
+4549,Diamante,PB,Nordeste
+5446,Dona Inês,PB,Nordeste
+735,Duas Estradas,PB,Nordeste
+84,Emas,PB,Nordeste
+4375,Esperança,PB,Nordeste
+1693,Fagundes,PB,Nordeste
+4520,Frei Martinho,PB,Nordeste
+4711,Gado Bravo,PB,Nordeste
+4868,Guarabira,PB,Nordeste
+5169,Gurinhém,PB,Nordeste
+68,Gurjão,PB,Nordeste
+1544,Ibiara,PB,Nordeste
+2888,Igaracy,PB,Nordeste
+3111,Imaculada,PB,Nordeste
+2521,Ingá,PB,Nordeste
+3971,Itabaiana,PB,Nordeste
+4628,Itaporanga,PB,Nordeste
+992,Itapororoca,PB,Nordeste
+161,Itatuba,PB,Nordeste
+2298,Jacaraú,PB,Nordeste
+562,Jericó,PB,Nordeste
+3816,Joca Claudino,PB,Nordeste
+3830,João Pessoa,PB,Nordeste
+2874,Juarez Távora,PB,Nordeste
+5189,Juazeirinho,PB,Nordeste
+3388,Junco do Seridó,PB,Nordeste
+1831,Juripiranga,PB,Nordeste
+307,Juru,PB,Nordeste
+4917,Lagoa,PB,Nordeste
+3037,Lagoa Seca,PB,Nordeste
+3626,Lagoa de Dentro,PB,Nordeste
+2708,Lastro,PB,Nordeste
+200,Livramento,PB,Nordeste
+5569,Logradouro,PB,Nordeste
+3346,Lucena,PB,Nordeste
+3420,Malta,PB,Nordeste
+2910,Mamanguape,PB,Nordeste
+835,Manaíra,PB,Nordeste
+2634,Marcação,PB,Nordeste
+4548,Mari,PB,Nordeste
+868,Marizópolis,PB,Nordeste
+3790,Massaranduba,PB,Nordeste
+4378,Mataraca,PB,Nordeste
+5084,Matinhas,PB,Nordeste
+1843,Mato Grosso,PB,Nordeste
+596,Maturéia,PB,Nordeste
+5173,Mogeiro,PB,Nordeste
+1330,Montadas,PB,Nordeste
+5225,Monte Horebe,PB,Nordeste
+3839,Monteiro,PB,Nordeste
+3289,Mulungu,PB,Nordeste
+1168,Mãe d'Água,PB,Nordeste
+2413,Natuba,PB,Nordeste
+3411,Nazarezinho,PB,Nordeste
+3013,Nova Floresta,PB,Nordeste
+2756,Nova Olinda,PB,Nordeste
+4971,Nova Palmeira,PB,Nordeste
+2776,Olho d'Água,PB,Nordeste
+4443,Olivedos,PB,Nordeste
+4785,Ouro Velho,PB,Nordeste
+3417,Parari,PB,Nordeste
+4897,Passagem,PB,Nordeste
+2370,Patos,PB,Nordeste
+3439,Paulista,PB,Nordeste
+2183,Pedra Branca,PB,Nordeste
+1575,Pedra Lavrada,PB,Nordeste
+3646,Pedras de Fogo,PB,Nordeste
+5122,Pedro Régis,PB,Nordeste
+5215,Piancó,PB,Nordeste
+5340,Picuí,PB,Nordeste
+4718,Pilar,PB,Nordeste
+5018,Pilões,PB,Nordeste
+1291,Pilõezinhos,PB,Nordeste
+2396,Pirpirituba,PB,Nordeste
+3614,Pitimbu,PB,Nordeste
+4091,Pocinhos,PB,Nordeste
+2260,Pombal,PB,Nordeste
+5537,Poço Dantas,PB,Nordeste
+2194,Poço de José de Moura,PB,Nordeste
+1755,Prata,PB,Nordeste
+581,Princesa Isabel,PB,Nordeste
+2883,Puxinanã,PB,Nordeste
+4632,Queimadas,PB,Nordeste
+5030,Quixabá,PB,Nordeste
+171,Remígio,PB,Nordeste
+2329,Riacho de Santo Antônio,PB,Nordeste
+5318,Riacho dos Cavalos,PB,Nordeste
+3219,Riachão,PB,Nordeste
+3090,Riachão do Bacamarte,PB,Nordeste
+5324,Riachão do Poço,PB,Nordeste
+800,Rio Tinto,PB,Nordeste
+4714,Salgadinho,PB,Nordeste
+3504,Salgado de São Félix,PB,Nordeste
+831,Santa Cecília,PB,Nordeste
+3164,Santa Cruz,PB,Nordeste
+5195,Santa Helena,PB,Nordeste
+5230,Santa Inês,PB,Nordeste
+4935,Santa Luzia,PB,Nordeste
+1713,Santa Rita,PB,Nordeste
+4055,Santa Teresinha,PB,Nordeste
+591,Santana de Mangueira,PB,Nordeste
+1321,Santana dos Garrotes,PB,Nordeste
+2475,Santo André,PB,Nordeste
+3581,Sapé,PB,Nordeste
+1170,Serra Branca,PB,Nordeste
+2640,Serra Grande,PB,Nordeste
+5468,Serra Redonda,PB,Nordeste
+5150,Serra da Raiz,PB,Nordeste
+2268,Serraria,PB,Nordeste
+2505,Sertãozinho,PB,Nordeste
+5483,Sobrado,PB,Nordeste
+4883,Soledade,PB,Nordeste
+3641,Solânea,PB,Nordeste
+3916,Sossêgo,PB,Nordeste
+2799,Sousa,PB,Nordeste
+455,Sumé,PB,Nordeste
+3701,São Bentinho,PB,Nordeste
+4867,São Bento,PB,Nordeste
+2907,São Domingos,PB,Nordeste
+4246,São Domingos do Cariri,PB,Nordeste
+2151,São Francisco,PB,Nordeste
+1360,São José da Lagoa Tapada,PB,Nordeste
+434,São José de Caiana,PB,Nordeste
+1642,São José de Espinharas,PB,Nordeste
+5405,São José de Piranhas,PB,Nordeste
+3226,São José de Princesa,PB,Nordeste
+3956,São José do Bonfim,PB,Nordeste
+857,São José do Brejo do Cruz,PB,Nordeste
+588,São José do Sabugi,PB,Nordeste
+1836,São José dos Cordeiros,PB,Nordeste
+2664,São José dos Ramos,PB,Nordeste
+3378,São João do Cariri,PB,Nordeste
+4317,São João do Rio do Peixe,PB,Nordeste
+5262,São João do Tigre,PB,Nordeste
+4448,São Mamede,PB,Nordeste
+2464,São Miguel de Taipu,PB,Nordeste
+5416,São Sebastião de Lagoa de Roça,PB,Nordeste
+672,São Sebastião do Umbuzeiro,PB,Nordeste
+2704,São Vicente do Seridó,PB,Nordeste
+1182,Tacima,PB,Nordeste
+4132,Taperoá,PB,Nordeste
+2870,Tavares,PB,Nordeste
+1748,Teixeira,PB,Nordeste
+4598,Tenório,PB,Nordeste
+5480,Triunfo,PB,Nordeste
+1266,Uiraúna,PB,Nordeste
+1300,Umbuzeiro,PB,Nordeste
+5361,Vieirópolis,PB,Nordeste
+3352,Vista Serrana,PB,Nordeste
+5438,Várzea,PB,Nordeste
+3556,Zabelê,PB,Nordeste
+4940,Água Branca,PB,Nordeste
+2090,Abreu e Lima,PE,Nordeste
+2841,Afogados da Ingazeira,PE,Nordeste
+5456,Afrânio,PE,Nordeste
+4161,Agrestina,PE,Nordeste
+203,Alagoinha,PE,Nordeste
+3256,Aliança,PE,Nordeste
+3216,Altinho,PE,Nordeste
+5041,Amaraji,PE,Nordeste
+139,Angelim,PE,Nordeste
+2025,Araripina,PE,Nordeste
+5281,Araçoiaba,PE,Nordeste
+4608,Arcoverde,PE,Nordeste
+3969,Barra de Guabiraba,PE,Nordeste
+5151,Barreiros,PE,Nordeste
+21,Belo Jardim,PE,Nordeste
+3970,Belém de Maria,PE,Nordeste
+929,Belém do São Francisco,PE,Nordeste
+3777,Betânia,PE,Nordeste
+4842,Bezerros,PE,Nordeste
+3822,Bodocó,PE,Nordeste
+182,Bom Conselho,PE,Nordeste
+4067,Bom Jardim,PE,Nordeste
+2144,Bonito,PE,Nordeste
+2131,Brejinho,PE,Nordeste
+4466,Brejo da Madre de Deus,PE,Nordeste
+3294,Brejão,PE,Nordeste
+4677,Buenos Aires,PE,Nordeste
+3402,Buíque,PE,Nordeste
+4168,Cabo de Santo Agostinho,PE,Nordeste
+2949,Cabrobó,PE,Nordeste
+4105,Cachoeirinha,PE,Nordeste
+3516,Caetés,PE,Nordeste
+4973,Calumbi,PE,Nordeste
+2730,Calçado,PE,Nordeste
+2969,Camaragibe,PE,Nordeste
+129,Camocim de São Félix,PE,Nordeste
+14,Camutanga,PE,Nordeste
+5023,Canhotinho,PE,Nordeste
+1316,Capoeiras,PE,Nordeste
+4768,Carnaubeira da Penha,PE,Nordeste
+1070,Carnaíba,PE,Nordeste
+1186,Carpina,PE,Nordeste
+281,Caruaru,PE,Nordeste
+1065,Casinhas,PE,Nordeste
+2039,Catende,PE,Nordeste
+3947,Cedro,PE,Nordeste
+716,Chã Grande,PE,Nordeste
+3309,Chã de Alegria,PE,Nordeste
+3914,Condado,PE,Nordeste
+424,Correntes,PE,Nordeste
+2578,Cortês,PE,Nordeste
+5403,Cumaru,PE,Nordeste
+2536,Cupira,PE,Nordeste
+81,Custódia,PE,Nordeste
+3616,Dormentes,PE,Nordeste
+847,Escada,PE,Nordeste
+4862,Exu,PE,Nordeste
+3737,Feira Nova,PE,Nordeste
+1574,Fernando de Noronha,PE,Nordeste
+1384,Ferreiros,PE,Nordeste
+618,Flores,PE,Nordeste
+1222,Floresta,PE,Nordeste
+1689,Frei Miguelinho,PE,Nordeste
+5443,Gameleira,PE,Nordeste
+105,Garanhuns,PE,Nordeste
+2371,Glória do Goitá,PE,Nordeste
+3580,Goiana,PE,Nordeste
+5074,Granito,PE,Nordeste
+73,Gravatá,PE,Nordeste
+260,Iati,PE,Nordeste
+2132,Ibimirim,PE,Nordeste
+4904,Ibirajuba,PE,Nordeste
+4790,Igarassu,PE,Nordeste
+2155,Iguaraci,PE,Nordeste
+4311,Ilha de Itamaracá,PE,Nordeste
+957,Inajá,PE,Nordeste
+451,Ingazeira,PE,Nordeste
+1550,Ipojuca,PE,Nordeste
+5414,Ipubi,PE,Nordeste
+4347,Itacuruba,PE,Nordeste
+1165,Itambé,PE,Nordeste
+3422,Itapetim,PE,Nordeste
+1460,Itapissuma,PE,Nordeste
+892,Itaquitinga,PE,Nordeste
+4033,Itaíba,PE,Nordeste
+505,Jaboatão dos Guararapes,PE,Nordeste
+359,Jaqueira,PE,Nordeste
+4022,Jataúba,PE,Nordeste
+1154,Jatobá,PE,Nordeste
+2012,Joaquim Nabuco,PE,Nordeste
+5311,João Alfredo,PE,Nordeste
+1059,Jucati,PE,Nordeste
+3466,Jupi,PE,Nordeste
+1961,Jurema,PE,Nordeste
+1130,Lagoa Grande,PE,Nordeste
+852,Lagoa de Itaenga,PE,Nordeste
+2543,Lagoa do Carro,PE,Nordeste
+4366,Lagoa do Ouro,PE,Nordeste
+2499,Lagoa dos Gatos,PE,Nordeste
+1963,Lajedo,PE,Nordeste
+3015,Limoeiro,PE,Nordeste
+2535,Macaparana,PE,Nordeste
+1892,Machados,PE,Nordeste
+4911,Manari,PE,Nordeste
+3532,Maraial,PE,Nordeste
+5455,Mirandiba,PE,Nordeste
+2221,Moreilândia,PE,Nordeste
+2359,Moreno,PE,Nordeste
+2477,Nazaré da Mata,PE,Nordeste
+401,Olinda,PE,Nordeste
+3835,Orobó,PE,Nordeste
+3181,Orocó,PE,Nordeste
+1274,Ouricuri,PE,Nordeste
+1854,Palmares,PE,Nordeste
+4058,Palmeirina,PE,Nordeste
+388,Panelas,PE,Nordeste
+4209,Paranatama,PE,Nordeste
+2389,Parnamirim,PE,Nordeste
+1818,Passira,PE,Nordeste
+2273,Paudalho,PE,Nordeste
+558,Paulista,PE,Nordeste
+3155,Pedra,PE,Nordeste
+3320,Pesqueira,PE,Nordeste
+1408,Petrolina,PE,Nordeste
+3715,Petrolândia,PE,Nordeste
+4894,Pombos,PE,Nordeste
+973,Poção,PE,Nordeste
+5522,Primavera,PE,Nordeste
+2119,Quipapá,PE,Nordeste
+2444,Quixaba,PE,Nordeste
+5426,Recife,PE,Nordeste
+1116,Riacho das Almas,PE,Nordeste
+1217,Ribeirão,PE,Nordeste
+536,Rio Formoso,PE,Nordeste
+4943,Sairé,PE,Nordeste
+1813,Salgadinho,PE,Nordeste
+564,Salgueiro,PE,Nordeste
+584,Saloá,PE,Nordeste
+3424,Sanharó,PE,Nordeste
+4731,Santa Cruz,PE,Nordeste
+4159,Santa Cruz da Baixa Verde,PE,Nordeste
+5454,Santa Cruz do Capibaribe,PE,Nordeste
+3210,Santa Filomena,PE,Nordeste
+2492,Santa Maria da Boa Vista,PE,Nordeste
+530,Santa Maria do Cambucá,PE,Nordeste
+1284,Santa Terezinha,PE,Nordeste
+3142,Serra Talhada,PE,Nordeste
+3244,Serrita,PE,Nordeste
+3535,Sertânia,PE,Nordeste
+3480,Sirinhaém,PE,Nordeste
+3410,Solidão,PE,Nordeste
+1931,Surubim,PE,Nordeste
+2170,São Benedito do Sul,PE,Nordeste
+5073,São Bento do Una,PE,Nordeste
+2620,São Caitano,PE,Nordeste
+1306,São Joaquim do Monte,PE,Nordeste
+5065,São José da Coroa Grande,PE,Nordeste
+379,São José do Belmonte,PE,Nordeste
+4061,São José do Egito,PE,Nordeste
+512,São João,PE,Nordeste
+719,São Lourenço da Mata,PE,Nordeste
+2231,São Vicente Ferrer,PE,Nordeste
+2357,Tabira,PE,Nordeste
+5367,Tacaimbó,PE,Nordeste
+1951,Tacaratu,PE,Nordeste
+3927,Tamandaré,PE,Nordeste
+2422,Taquaritinga do Norte,PE,Nordeste
+3199,Terezinha,PE,Nordeste
+3032,Terra Nova,PE,Nordeste
+5417,Timbaúba,PE,Nordeste
+4154,Toritama,PE,Nordeste
+4594,Tracunhaém,PE,Nordeste
+3955,Trindade,PE,Nordeste
+489,Triunfo,PE,Nordeste
+1876,Tupanatinga,PE,Nordeste
+4245,Tuparetama,PE,Nordeste
+4387,Venturosa,PE,Nordeste
+5153,Verdejante,PE,Nordeste
+5248,Vertente do Lério,PE,Nordeste
+4757,Vertentes,PE,Nordeste
+5463,Vicência,PE,Nordeste
+3833,Vitória de Santo Antão,PE,Nordeste
+3536,Xexéu,PE,Nordeste
+1660,Água Preta,PE,Nordeste
+4043,Águas Belas,PE,Nordeste
+691,Acauã,PI,Nordeste
+3568,Agricolândia,PI,Nordeste
+4138,Alagoinha do Piauí,PI,Nordeste
+3412,Alegrete do Piauí,PI,Nordeste
+5471,Alto Longá,PI,Nordeste
+833,Altos,PI,Nordeste
+4137,Alvorada do Gurguéia,PI,Nordeste
+2272,Amarante,PI,Nordeste
+2746,Angical do Piauí,PI,Nordeste
+5050,Antônio Almeida,PI,Nordeste
+2450,Anísio de Abreu,PI,Nordeste
+75,Aroazes,PI,Nordeste
+3684,Aroeiras do Itaim,PI,Nordeste
+362,Arraial,PI,Nordeste
+521,Assunção do Piauí,PI,Nordeste
+2988,Avelino Lopes,PI,Nordeste
+637,Baixa Grande do Ribeiro,PI,Nordeste
+2412,Barra D'Alcântara,PI,Nordeste
+78,Barras,PI,Nordeste
+1004,Barreiras do Piauí,PI,Nordeste
+3445,Barro Duro,PI,Nordeste
+3673,Batalha,PI,Nordeste
+2384,Bela Vista do Piauí,PI,Nordeste
+3930,Belém do Piauí,PI,Nordeste
+4458,Beneditinos,PI,Nordeste
+2627,Bertolínia,PI,Nordeste
+363,Betânia do Piauí,PI,Nordeste
+4162,Boa Hora,PI,Nordeste
+3506,Bocaina,PI,Nordeste
+2174,Bom Jesus,PI,Nordeste
+5317,Bom Princípio do Piauí,PI,Nordeste
+1032,Bonfim do Piauí,PI,Nordeste
+5244,Boqueirão do Piauí,PI,Nordeste
+2682,Brasileira,PI,Nordeste
+5182,Brejo do Piauí,PI,Nordeste
+4251,Buriti dos Lopes,PI,Nordeste
+786,Buriti dos Montes,PI,Nordeste
+1174,Cabeceiras do Piauí,PI,Nordeste
+3035,Cajazeiras do Piauí,PI,Nordeste
+2143,Cajueiro da Praia,PI,Nordeste
+5292,Caldeirão Grande do Piauí,PI,Nordeste
+1557,Campinas do Piauí,PI,Nordeste
+1440,Campo Alegre do Fidalgo,PI,Nordeste
+2873,Campo Grande do Piauí,PI,Nordeste
+3432,Campo Largo do Piauí,PI,Nordeste
+5091,Campo Maior,PI,Nordeste
+1958,Canavieira,PI,Nordeste
+4865,Canto do Buriti,PI,Nordeste
+1062,Capitão Gervásio Oliveira,PI,Nordeste
+4256,Capitão de Campos,PI,Nordeste
+703,Caracol,PI,Nordeste
+2005,Caraúbas do Piauí,PI,Nordeste
+1473,Caridade do Piauí,PI,Nordeste
+862,Castelo do Piauí,PI,Nordeste
+5061,Caxingó,PI,Nordeste
+5048,Cocal,PI,Nordeste
+5565,Cocal de Telha,PI,Nordeste
+4114,Cocal dos Alves,PI,Nordeste
+4934,Coivaras,PI,Nordeste
+1278,Colônia do Gurguéia,PI,Nordeste
+4950,Colônia do Piauí,PI,Nordeste
+4302,Conceição do Canindé,PI,Nordeste
+4672,Coronel José Dias,PI,Nordeste
+5433,Corrente,PI,Nordeste
+3854,Cristalândia do Piauí,PI,Nordeste
+5550,Cristino Castro,PI,Nordeste
+62,Curimatá,PI,Nordeste
+924,Currais,PI,Nordeste
+5357,Curral Novo do Piauí,PI,Nordeste
+4197,Curralinhos,PI,Nordeste
+3831,Demerval Lobão,PI,Nordeste
+4515,Dirceu Arcoverde,PI,Nordeste
+1928,Dom Expedito Lopes,PI,Nordeste
+923,Dom Inocêncio,PI,Nordeste
+4203,Domingos Mourão,PI,Nordeste
+1938,Elesbão Veloso,PI,Nordeste
+1924,Eliseu Martins,PI,Nordeste
+3061,Esperantina,PI,Nordeste
+4891,Fartura do Piauí,PI,Nordeste
+1024,Flores do Piauí,PI,Nordeste
+5114,Floresta do Piauí,PI,Nordeste
+4732,Floriano,PI,Nordeste
+5441,Francinópolis,PI,Nordeste
+988,Francisco Ayres,PI,Nordeste
+3125,Francisco Macedo,PI,Nordeste
+725,Francisco Santos,PI,Nordeste
+4981,Fronteiras,PI,Nordeste
+728,Geminiano,PI,Nordeste
+4724,Gilbués,PI,Nordeste
+5302,Guadalupe,PI,Nordeste
+738,Guaribas,PI,Nordeste
+4747,Hugo Napoleão,PI,Nordeste
+3852,Ilha Grande,PI,Nordeste
+974,Inhuma,PI,Nordeste
+51,Ipiranga do Piauí,PI,Nordeste
+2363,Isaías Coelho,PI,Nordeste
+4146,Itainópolis,PI,Nordeste
+2586,Itaueira,PI,Nordeste
+5508,Jacobina do Piauí,PI,Nordeste
+2564,Jaicós,PI,Nordeste
+4582,Jardim do Mulato,PI,Nordeste
+1210,Jatobá do Piauí,PI,Nordeste
+668,Jerumenha,PI,Nordeste
+3704,Joaquim Pires,PI,Nordeste
+481,Joca Marques,PI,Nordeste
+4861,José de Freitas,PI,Nordeste
+1718,João Costa,PI,Nordeste
+2301,Juazeiro do Piauí,PI,Nordeste
+2642,Jurema,PI,Nordeste
+3694,Júlio Borges,PI,Nordeste
+5220,Lagoa Alegre,PI,Nordeste
+4784,Lagoa de São Francisco,PI,Nordeste
+449,Lagoa do Barro do Piauí,PI,Nordeste
+4303,Lagoa do Piauí,PI,Nordeste
+746,Lagoa do Sítio,PI,Nordeste
+4444,Lagoinha do Piauí,PI,Nordeste
+3809,Landri Sales,PI,Nordeste
+5059,Luzilândia,PI,Nordeste
+118,Luís Correia,PI,Nordeste
+1481,Madeiro,PI,Nordeste
+4057,Manoel Emídio,PI,Nordeste
+4561,Marcolândia,PI,Nordeste
+2105,Marcos Parente,PI,Nordeste
+4479,Massapê do Piauí,PI,Nordeste
+979,Matias Olímpio,PI,Nordeste
+5337,Miguel Alves,PI,Nordeste
+4374,Miguel Leão,PI,Nordeste
+4171,Milton Brandão,PI,Nordeste
+2951,Monsenhor Gil,PI,Nordeste
+4181,Monsenhor Hipólito,PI,Nordeste
+4630,Monte Alegre do Piauí,PI,Nordeste
+934,Morro Cabeça no Tempo,PI,Nordeste
+3454,Morro do Chapéu do Piauí,PI,Nordeste
+2569,Murici dos Portelas,PI,Nordeste
+744,Nazaré do Piauí,PI,Nordeste
+501,Nazária,PI,Nordeste
+5358,Nossa Senhora de Nazaré,PI,Nordeste
+2607,Nossa Senhora dos Remédios,PI,Nordeste
+1343,Nova Santa Rita,PI,Nordeste
+5526,Novo Oriente do Piauí,PI,Nordeste
+803,Novo Santo Antônio,PI,Nordeste
+4798,Oeiras,PI,Nordeste
+1683,Olho D'Água do Piauí,PI,Nordeste
+1644,Padre Marcos,PI,Nordeste
+3784,Paes Landim,PI,Nordeste
+4617,Pajeú do Piauí,PI,Nordeste
+5129,Palmeira do Piauí,PI,Nordeste
+4609,Palmeirais,PI,Nordeste
+2585,Paquetá,PI,Nordeste
+556,Parnaguá,PI,Nordeste
+3522,Parnaíba,PI,Nordeste
+3469,Passagem Franca do Piauí,PI,Nordeste
+3130,Patos do Piauí,PI,Nordeste
+4813,Pau D'Arco do Piauí,PI,Nordeste
+3042,Paulistana,PI,Nordeste
+5063,Pavussu,PI,Nordeste
+231,Pedro II,PI,Nordeste
+5251,Pedro Laurentino,PI,Nordeste
+2391,Picos,PI,Nordeste
+484,Pimenteiras,PI,Nordeste
+3266,Pio IX,PI,Nordeste
+5128,Piracuruca,PI,Nordeste
+903,Piripiri,PI,Nordeste
+3451,Porto,PI,Nordeste
+2686,Porto Alegre do Piauí,PI,Nordeste
+4225,Prata do Piauí,PI,Nordeste
+1447,Queimada Nova,PI,Nordeste
+2529,Redenção do Gurguéia,PI,Nordeste
+5203,Regeneração,PI,Nordeste
+5079,Riacho Frio,PI,Nordeste
+5168,Ribeira do Piauí,PI,Nordeste
+1834,Ribeiro Gonçalves,PI,Nordeste
+5110,Rio Grande do Piauí,PI,Nordeste
+5539,Santa Cruz do Piauí,PI,Nordeste
+5204,Santa Cruz dos Milagres,PI,Nordeste
+325,Santa Filomena,PI,Nordeste
+3073,Santa Luz,PI,Nordeste
+3478,Santa Rosa do Piauí,PI,Nordeste
+5159,Santana do Piauí,PI,Nordeste
+1176,Santo Antônio de Lisboa,PI,Nordeste
+2848,Santo Antônio dos Milagres,PI,Nordeste
+4104,Santo Inácio do Piauí,PI,Nordeste
+2093,Sebastião Barros,PI,Nordeste
+4379,Sebastião Leal,PI,Nordeste
+878,Sigefredo Pacheco,PI,Nordeste
+1230,Simplício Mendes,PI,Nordeste
+5425,Simões,PI,Nordeste
+2292,Socorro do Piauí,PI,Nordeste
+1579,Sussuapara,PI,Nordeste
+4727,São Braz do Piauí,PI,Nordeste
+5293,São Francisco de Assis do Piauí,PI,Nordeste
+4995,São Francisco do Piauí,PI,Nordeste
+5562,São Félix do Piauí,PI,Nordeste
+2719,São Gonçalo do Gurguéia,PI,Nordeste
+4053,São Gonçalo do Piauí,PI,Nordeste
+2744,São José do Divino,PI,Nordeste
+1997,São José do Peixe,PI,Nordeste
+4103,São José do Piauí,PI,Nordeste
+4528,São João da Canabrava,PI,Nordeste
+165,São João da Fronteira,PI,Nordeste
+5385,São João da Serra,PI,Nordeste
+3495,São João da Varjota,PI,Nordeste
+4846,São João do Arraial,PI,Nordeste
+3825,São João do Piauí,PI,Nordeste
+2452,São Julião,PI,Nordeste
+1940,São Lourenço do Piauí,PI,Nordeste
+4972,São Luis do Piauí,PI,Nordeste
+5469,São Miguel da Baixa Grande,PI,Nordeste
+4101,São Miguel do Fidalgo,PI,Nordeste
+1587,São Miguel do Tapuio,PI,Nordeste
+4227,São Pedro do Piauí,PI,Nordeste
+2918,São Raimundo Nonato,PI,Nordeste
+5563,Tamboril do Piauí,PI,Nordeste
+793,Tanque do Piauí,PI,Nordeste
+18,Teresina,PI,Nordeste
+97,União,PI,Nordeste
+542,Uruçuí,PI,Nordeste
+2002,Valença do Piauí,PI,Nordeste
+2857,Vera Mendes,PI,Nordeste
+2847,Vila Nova do Piauí,PI,Nordeste
+3132,Várzea Branca,PI,Nordeste
+5554,Várzea Grande,PI,Nordeste
+4923,Wall Ferraz,PI,Nordeste
+2811,Água Branca,PI,Nordeste
+3153,Acari,RN,Nordeste
+2486,Afonso Bezerra,RN,Nordeste
+3643,Alexandria,RN,Nordeste
+259,Almino Afonso,RN,Nordeste
+4605,Alto do Rodrigues,RN,Nordeste
+220,Angicos,RN,Nordeste
+745,Antônio Martins,RN,Nordeste
+821,Apodi,RN,Nordeste
+1777,Areia Branca,RN,Nordeste
+2539,Arês,RN,Nordeste
+1648,Açu,RN,Nordeste
+1728,Baraúna,RN,Nordeste
+4523,Barcelona,RN,Nordeste
+2341,Baía Formosa,RN,Nordeste
+3766,Bento Fernandes,RN,Nordeste
+2397,Boa Saúde,RN,Nordeste
+1979,Bodó,RN,Nordeste
+2643,Bom Jesus,RN,Nordeste
+4020,Brejinho,RN,Nordeste
+967,Caicó,RN,Nordeste
+3543,Caiçara do Norte,RN,Nordeste
+2826,Caiçara do Rio do Vento,RN,Nordeste
+5439,Campo Grande,RN,Nordeste
+5408,Campo Redondo,RN,Nordeste
+3773,Canguaretama,RN,Nordeste
+1242,Caraúbas,RN,Nordeste
+79,Carnaubais,RN,Nordeste
+3509,Carnaúba dos Dantas,RN,Nordeste
+2210,Ceará-Mirim,RN,Nordeste
+2263,Cerro Corá,RN,Nordeste
+943,Coronel Ezequiel,RN,Nordeste
+2196,Coronel João Pessoa,RN,Nordeste
+1799,Cruzeta,RN,Nordeste
+3157,Currais Novos,RN,Nordeste
+1798,Doutor Severiano,RN,Nordeste
+4778,Encanto,RN,Nordeste
+1001,Equador,RN,Nordeste
+2695,Espírito Santo,RN,Nordeste
+950,Extremoz,RN,Nordeste
+1103,Felipe Guerra,RN,Nordeste
+1101,Fernando Pedroza,RN,Nordeste
+5038,Florânia,RN,Nordeste
+1950,Francisco Dantas,RN,Nordeste
+4426,Frutuoso Gomes,RN,Nordeste
+5561,Galinhos,RN,Nordeste
+1319,Goianinha,RN,Nordeste
+1046,Governador Dix-Sept Rosado,RN,Nordeste
+850,Grossos,RN,Nordeste
+3823,Guamaré,RN,Nordeste
+658,Ielmo Marinho,RN,Nordeste
+2953,Ipanguaçu,RN,Nordeste
+2677,Ipueira,RN,Nordeste
+2374,Itajá,RN,Nordeste
+3680,Itaú,RN,Nordeste
+5257,Jandaíra,RN,Nordeste
+3471,Janduís,RN,Nordeste
+3999,Japi,RN,Nordeste
+1491,Jardim de Angicos,RN,Nordeste
+5341,Jardim de Piranhas,RN,Nordeste
+4667,Jardim do Seridó,RN,Nordeste
+1898,Jaçanã,RN,Nordeste
+1751,José da Penha,RN,Nordeste
+2451,João Câmara,RN,Nordeste
+2526,João Dias,RN,Nordeste
+1546,Jucurutu,RN,Nordeste
+1235,Jundiá,RN,Nordeste
+844,Lagoa Nova,RN,Nordeste
+1507,Lagoa Salgada,RN,Nordeste
+1141,Lagoa d'Anta,RN,Nordeste
+3888,Lagoa de Pedras,RN,Nordeste
+972,Lagoa de Velhos,RN,Nordeste
+1703,Lajes,RN,Nordeste
+5294,Lajes Pintadas,RN,Nordeste
+99,Lucrécia,RN,Nordeste
+2135,Luís Gomes,RN,Nordeste
+5137,Macau,RN,Nordeste
+1695,Macaíba,RN,Nordeste
+1674,Major Sales,RN,Nordeste
+4997,Marcelino Vieira,RN,Nordeste
+1149,Martins,RN,Nordeste
+5140,Maxaranguape,RN,Nordeste
+2395,Messias Targino,RN,Nordeste
+5009,Montanhas,RN,Nordeste
+928,Monte Alegre,RN,Nordeste
+4073,Monte das Gameleiras,RN,Nordeste
+1196,Mossoró,RN,Nordeste
+971,Natal,RN,Nordeste
+2159,Nova Cruz,RN,Nordeste
+3102,Nísia Floresta,RN,Nordeste
+5160,Olho-d'Água do Borges,RN,Nordeste
+4931,Ouro Branco,RN,Nordeste
+24,Paraná,RN,Nordeste
+3330,Parazinho,RN,Nordeste
+5374,Paraú,RN,Nordeste
+1047,Parelhas,RN,Nordeste
+122,Parnamirim,RN,Nordeste
+2783,Passa e Fica,RN,Nordeste
+2407,Passagem,RN,Nordeste
+532,Patu,RN,Nordeste
+1844,Pau dos Ferros,RN,Nordeste
+2386,Pedra Grande,RN,Nordeste
+885,Pedra Preta,RN,Nordeste
+1845,Pedro Avelino,RN,Nordeste
+4853,Pedro Velho,RN,Nordeste
+1869,Pendências,RN,Nordeste
+138,Pilões,RN,Nordeste
+2108,Portalegre,RN,Nordeste
+3373,Porto do Mangue,RN,Nordeste
+3900,Poço Branco,RN,Nordeste
+344,Pureza,RN,Nordeste
+3712,Rafael Fernandes,RN,Nordeste
+5362,Rafael Godeiro,RN,Nordeste
+2720,Riacho da Cruz,RN,Nordeste
+5421,Riacho de Santana,RN,Nordeste
+5350,Riachuelo,RN,Nordeste
+4866,Rio do Fogo,RN,Nordeste
+3449,Rodolfo Fernandes,RN,Nordeste
+3327,Ruy Barbosa,RN,Nordeste
+2435,Santa Cruz,RN,Nordeste
+4352,Santa Maria,RN,Nordeste
+1528,Santana do Matos,RN,Nordeste
+4456,Santana do Seridó,RN,Nordeste
+3674,Santo Antônio,RN,Nordeste
+4982,Senador Elói de Souza,RN,Nordeste
+4491,Senador Georgino Avelino,RN,Nordeste
+3351,Serra Caiada,RN,Nordeste
+3116,Serra Negra do Norte,RN,Nordeste
+149,Serra de São Bento,RN,Nordeste
+2606,Serra do Mel,RN,Nordeste
+3677,Serrinha,RN,Nordeste
+3100,Serrinha dos Pintos,RN,Nordeste
+3029,Severiano Melo,RN,Nordeste
+1526,São Bento do Norte,RN,Nordeste
+552,São Bento do Trairí,RN,Nordeste
+2534,São Fernando,RN,Nordeste
+1716,São Francisco do Oeste,RN,Nordeste
+1382,São Gonçalo do Amarante,RN,Nordeste
+3121,São José de Mipibu,RN,Nordeste
+269,São José do Campestre,RN,Nordeste
+5234,São José do Seridó,RN,Nordeste
+1967,São João do Sabugi,RN,Nordeste
+3974,São Miguel,RN,Nordeste
+817,São Miguel do Gostoso,RN,Nordeste
+3324,São Paulo do Potengi,RN,Nordeste
+5068,São Pedro,RN,Nordeste
+3382,São Rafael,RN,Nordeste
+1883,São Tomé,RN,Nordeste
+693,São Vicente,RN,Nordeste
+258,Sítio Novo,RN,Nordeste
+3124,Taboleiro Grande,RN,Nordeste
+1659,Taipu,RN,Nordeste
+2312,Tangará,RN,Nordeste
+3502,Tenente Ananias,RN,Nordeste
+4537,Tenente Laurentino Cruz,RN,Nordeste
+861,Tibau,RN,Nordeste
+209,Tibau do Sul,RN,Nordeste
+5298,Timbaúba dos Batistas,RN,Nordeste
+4495,Touros,RN,Nordeste
+1393,Triunfo Potiguar,RN,Nordeste
+566,Umarizal,RN,Nordeste
+2876,Upanema,RN,Nordeste
+4134,Venha-Ver,RN,Nordeste
+5226,Vera Cruz,RN,Nordeste
+4188,Vila Flor,RN,Nordeste
+5486,Viçosa,RN,Nordeste
+3857,Várzea,RN,Nordeste
+3258,Água Nova,RN,Nordeste
+1650,Amparo de São Francisco,SE,Nordeste
+2791,Aquidabã,SE,Nordeste
+2364,Aracaju,SE,Nordeste
+5017,Arauá,SE,Nordeste
+385,Areia Branca,SE,Nordeste
+3539,Barra dos Coqueiros,SE,Nordeste
+2886,Boquim,SE,Nordeste
+2145,Brejo Grande,SE,Nordeste
+4450,Campo do Brito,SE,Nordeste
+2426,Canhoba,SE,Nordeste
+1830,Canindé de São Francisco,SE,Nordeste
+5040,Capela,SE,Nordeste
+1429,Carira,SE,Nordeste
+252,Carmópolis,SE,Nordeste
+5487,Cedro de São João,SE,Nordeste
+3386,Cristinápolis,SE,Nordeste
+3389,Cumbe,SE,Nordeste
+2875,Divina Pastora,SE,Nordeste
+212,Estância,SE,Nordeste
+4796,Feira Nova,SE,Nordeste
+178,Frei Paulo,SE,Nordeste
+3257,Gararu,SE,Nordeste
+4415,General Maynard,SE,Nordeste
+3890,Gracho Cardoso,SE,Nordeste
+3353,Ilha das Flores,SE,Nordeste
+1752,Indiaroba,SE,Nordeste
+1886,Itabaiana,SE,Nordeste
+1756,Itabaianinha,SE,Nordeste
+2406,Itabi,SE,Nordeste
+3470,Itaporanga d'Ajuda,SE,Nordeste
+3724,Japaratuba,SE,Nordeste
+1478,Japoatã,SE,Nordeste
+332,Lagarto,SE,Nordeste
+5243,Laranjeiras,SE,Nordeste
+4881,Macambira,SE,Nordeste
+1418,Malhada dos Bois,SE,Nordeste
+1341,Malhador,SE,Nordeste
+375,Maruim,SE,Nordeste
+2283,Moita Bonita,SE,Nordeste
+4167,Monte Alegre de Sergipe,SE,Nordeste
+936,Muribeca,SE,Nordeste
+2307,Neópolis,SE,Nordeste
+1386,Nossa Senhora Aparecida,SE,Nordeste
+3958,Nossa Senhora da Glória,SE,Nordeste
+4068,Nossa Senhora das Dores,SE,Nordeste
+4500,Nossa Senhora de Lourdes,SE,Nordeste
+3655,Nossa Senhora do Socorro,SE,Nordeste
+2868,Pacatuba,SE,Nordeste
+3840,Pedra Mole,SE,Nordeste
+2991,Pedrinhas,SE,Nordeste
+5250,Pinhão,SE,Nordeste
+2683,Pirambu,SE,Nordeste
+4260,Porto da Folha,SE,Nordeste
+3000,Poço Redondo,SE,Nordeste
+2471,Poço Verde,SE,Nordeste
+387,Propriá,SE,Nordeste
+331,Riachuelo,SE,Nordeste
+4889,Riachão do Dantas,SE,Nordeste
+4566,Ribeirópolis,SE,Nordeste
+3820,Rosário do Catete,SE,Nordeste
+2669,Salgado,SE,Nordeste
+1071,Santa Luzia do Itanhy,SE,Nordeste
+1972,Santa Rosa de Lima,SE,Nordeste
+4362,Santana do São Francisco,SE,Nordeste
+2671,Santo Amaro das Brotas,SE,Nordeste
+2080,Simão Dias,SE,Nordeste
+2271,Siriri,SE,Nordeste
+35,São Cristóvão,SE,Nordeste
+236,São Domingos,SE,Nordeste
+2621,São Francisco,SE,Nordeste
+2880,São Miguel do Aleixo,SE,Nordeste
+3218,Telha,SE,Nordeste
+1383,Tobias Barreto,SE,Nordeste
+3317,Tomar do Geru,SE,Nordeste
+1499,Umbaúba,SE,Nordeste
+5106,Acrelândia,AC,Norte
+1933,Assis Brasil,AC,Norte
+191,Brasiléia,AC,Norte
+1782,Bujari,AC,Norte
+3135,Capixaba,AC,Norte
+4838,Cruzeiro do Sul,AC,Norte
+4110,Epitaciolândia,AC,Norte
+1364,Feijó,AC,Norte
+4589,Jordão,AC,Norte
+2954,Manoel Urbano,AC,Norte
+2845,Marechal Thaumaturgo,AC,Norte
+1064,Mâncio Lima,AC,Norte
+1735,Plácido de Castro,AC,Norte
+2818,Porto Acre,AC,Norte
+3751,Porto Walter,AC,Norte
+739,Rio Branco,AC,Norte
+3863,Rodrigues Alves,AC,Norte
+2169,Santa Rosa do Purus,AC,Norte
+3917,Sena Madureira,AC,Norte
+2871,Senador Guiomard,AC,Norte
+4970,Tarauacá,AC,Norte
+3842,Xapuri,AC,Norte
+4287,Alvarães,AM,Norte
+4682,Amaturá,AM,Norte
+4250,Anamã,AM,Norte
+5146,Anori,AM,Norte
+638,Apuí,AM,Norte
+1031,Atalaia do Norte,AM,Norte
+3026,Autazes,AM,Norte
+3217,Barcelos,AM,Norte
+415,Barreirinha,AM,Norte
+5179,Benjamin Constant,AM,Norte
+4507,Beruri,AM,Norte
+3068,Boa Vista do Ramos,AM,Norte
+4721,Boca do Acre,AM,Norte
+2237,Borba,AM,Norte
+515,Caapiranga,AM,Norte
+37,Canutama,AM,Norte
+219,Carauari,AM,Norte
+4210,Careiro,AM,Norte
+2414,Careiro da Várzea,AM,Norte
+3117,Coari,AM,Norte
+2454,Codajás,AM,Norte
+736,Eirunepé,AM,Norte
+228,Envira,AM,Norte
+1503,Fonte Boa,AM,Norte
+2662,Guajará,AM,Norte
+1436,Humaitá,AM,Norte
+2792,Ipixuna,AM,Norte
+759,Iranduba,AM,Norte
+261,Itacoatiara,AM,Norte
+350,Itamarati,AM,Norte
+4936,Itapiranga,AM,Norte
+5121,Japurá,AM,Norte
+5549,Juruá,AM,Norte
+270,Jutaí,AM,Norte
+4454,Lábrea,AM,Norte
+1870,Manacapuru,AM,Norte
+2824,Manaquiri,AM,Norte
+5321,Manaus,AM,Norte
+1937,Manicoré,AM,Norte
+368,Maraã,AM,Norte
+4716,Maués,AM,Norte
+3693,Nhamundá,AM,Norte
+1852,Nova Olinda do Norte,AM,Norte
+4543,Novo Airão,AM,Norte
+549,Novo Aripuanã,AM,Norte
+2187,Parintins,AM,Norte
+4388,Pauini,AM,Norte
+3876,Presidente Figueiredo,AM,Norte
+5181,Rio Preto da Eva,AM,Norte
+3531,Santa Isabel do Rio Negro,AM,Norte
+1487,Santo Antônio do Içá,AM,Norte
+4967,Silves,AM,Norte
+1273,São Gabriel da Cachoeira,AM,Norte
+749,São Paulo de Olivença,AM,Norte
+4831,São Sebastião do Uatumã,AM,Norte
+3633,Tabatinga,AM,Norte
+1285,Tapauá,AM,Norte
+2727,Tefé,AM,Norte
+4809,Tonantins,AM,Norte
+4217,Uarini,AM,Norte
+3555,Urucará,AM,Norte
+1833,Urucurituba,AM,Norte
+1223,Amapá,AP,Norte
+661,Calçoene,AP,Norte
+292,Cutias,AP,Norte
+5163,Ferreira Gomes,AP,Norte
+1029,Itaubal,AP,Norte
+839,Laranjal do Jari,AP,Norte
+938,Macapá,AP,Norte
+1502,Mazagão,AP,Norte
+3849,Oiapoque,AP,Norte
+1517,Pedra Branca do Amapari,AP,Norte
+2900,Porto Grande,AP,Norte
+254,Pracuúba,AP,Norte
+1506,Santana,AP,Norte
+993,Serra do Navio,AP,Norte
+4252,Tartarugalzinho,AP,Norte
+1202,Vitória do Jari,AP,Norte
+1161,Abaetetuba,PA,Norte
+169,Abel Figueiredo,PA,Norte
+4396,Acará,PA,Norte
+3967,Afuá,PA,Norte
+3160,Alenquer,PA,Norte
+5116,Almeirim,PA,Norte
+164,Altamira,PA,Norte
+895,Anajás,PA,Norte
+70,Ananindeua,PA,Norte
+1159,Anapu,PA,Norte
+2083,Augusto Corrêa,PA,Norte
+1286,Aurora do Pará,PA,Norte
+5102,Aveiro,PA,Norte
+4991,Bagre,PA,Norte
+4216,Baião,PA,Norte
+1908,Bannach,PA,Norte
+2935,Barcarena,PA,Norte
+4306,Belterra,PA,Norte
+3259,Belém,PA,Norte
+4151,Benevides,PA,Norte
+2226,Bom Jesus do Tocantins,PA,Norte
+4664,Bonito,PA,Norte
+2599,Bragança,PA,Norte
+2077,Brasil Novo,PA,Norte
+1738,Brejo Grande do Araguaia,PA,Norte
+2376,Breu Branco,PA,Norte
+2299,Breves,PA,Norte
+4075,Bujaru,PA,Norte
+3537,Cachoeira do Arari,PA,Norte
+382,Cachoeira do Piriá,PA,Norte
+1053,Cametá,PA,Norte
+1661,Canaã dos Carajás,PA,Norte
+3106,Capanema,PA,Norte
+3501,Capitão Poço,PA,Norte
+491,Castanhal,PA,Norte
+504,Chaves,PA,Norte
+3050,Colares,PA,Norte
+3735,Conceição do Araguaia,PA,Norte
+3894,Concórdia do Pará,PA,Norte
+217,Cumaru do Norte,PA,Norte
+4759,Curionópolis,PA,Norte
+615,Curralinho,PA,Norte
+3242,Curuá,PA,Norte
+5133,Curuçá,PA,Norte
+4424,Dom Eliseu,PA,Norte
+1144,Eldorado do Carajás,PA,Norte
+1281,Faro,PA,Norte
+460,Floresta do Araguaia,PA,Norte
+3363,Garrafão do Norte,PA,Norte
+153,Goianésia do Pará,PA,Norte
+1011,Gurupá,PA,Norte
+446,Igarapé-Açu,PA,Norte
+670,Igarapé-Miri,PA,Norte
+168,Inhangapi,PA,Norte
+1521,Ipixuna do Pará,PA,Norte
+3749,Irituia,PA,Norte
+2982,Itaituba,PA,Norte
+5485,Itupiranga,PA,Norte
+1219,Jacareacanga,PA,Norte
+3960,Jacundá,PA,Norte
+1651,Juruti,PA,Norte
+2383,Limoeiro do Ajuru,PA,Norte
+5196,Magalhães Barata,PA,Norte
+3491,Marabá,PA,Norte
+2248,Maracanã,PA,Norte
+2555,Marapanim,PA,Norte
+5336,Marituba,PA,Norte
+63,Medicilândia,PA,Norte
+3141,Melgaço,PA,Norte
+4086,Mocajuba,PA,Norte
+3928,Moju,PA,Norte
+476,Mojuí dos Campos,PA,Norte
+1329,Monte Alegre,PA,Norte
+1899,Muaná,PA,Norte
+731,Mãe do Rio,PA,Norte
+1957,Nova Esperança do Piriá,PA,Norte
+4969,Nova Ipixuna,PA,Norte
+879,Nova Timboteua,PA,Norte
+1370,Novo Progresso,PA,Norte
+2772,Novo Repartimento,PA,Norte
+1885,Oeiras do Pará,PA,Norte
+4321,Oriximiná,PA,Norte
+1704,Ourilândia do Norte,PA,Norte
+1656,Ourém,PA,Norte
+3028,Pacajá,PA,Norte
+884,Palestina do Pará,PA,Norte
+1189,Paragominas,PA,Norte
+4999,Parauapebas,PA,Norte
+461,Pau D'Arco,PA,Norte
+2808,Peixe-Boi,PA,Norte
+5458,Piçarra,PA,Norte
+2532,Placas,PA,Norte
+1135,Ponta de Pedras,PA,Norte
+3274,Portel,PA,Norte
+5315,Porto de Moz,PA,Norte
+3640,Prainha,PA,Norte
+238,Primavera,PA,Norte
+1318,Quatipuru,PA,Norte
+690,Redenção,PA,Norte
+2705,Rio Maria,PA,Norte
+4623,Rondon do Pará,PA,Norte
+444,Rurópolis,PA,Norte
+4322,Salinópolis,PA,Norte
+2885,Salvaterra,PA,Norte
+1311,Santa Bárbara do Pará,PA,Norte
+1451,Santa Cruz do Arari,PA,Norte
+3066,Santa Isabel do Pará,PA,Norte
+4307,Santa Luzia do Pará,PA,Norte
+5430,Santa Maria das Barreiras,PA,Norte
+1209,Santa Maria do Pará,PA,Norte
+5295,Santana do Araguaia,PA,Norte
+598,Santarém,PA,Norte
+1994,Santarém Novo,PA,Norte
+442,Santo Antônio do Tauá,PA,Norte
+140,Sapucaia,PA,Norte
+2180,Senador José Porfírio,PA,Norte
+4637,Soure,PA,Norte
+3988,São Caetano de Odivelas,PA,Norte
+5355,São Domingos do Araguaia,PA,Norte
+5200,São Domingos do Capim,PA,Norte
+321,São Francisco do Pará,PA,Norte
+3254,São Félix do Xingu,PA,Norte
+3182,São Geraldo do Araguaia,PA,Norte
+5445,São João da Ponta,PA,Norte
+5238,São João de Pirabas,PA,Norte
+3490,São João do Araguaia,PA,Norte
+4805,São Miguel do Guamá,PA,Norte
+5188,São Sebastião da Boa Vista,PA,Norte
+4173,Tailândia,PA,Norte
+679,Terra Alta,PA,Norte
+33,Terra Santa,PA,Norte
+2097,Tomé-Açu,PA,Norte
+1501,Tracuateua,PA,Norte
+1248,Trairão,PA,Norte
+5235,Tucumã,PA,Norte
+1653,Tucuruí,PA,Norte
+3297,Ulianópolis,PA,Norte
+3910,Uruará,PA,Norte
+3494,Vigia,PA,Norte
+3147,Viseu,PA,Norte
+4872,Vitória do Xingu,PA,Norte
+3094,Xinguara,PA,Norte
+3511,Água Azul do Norte,PA,Norte
+1137,Óbidos,PA,Norte
+732,Alta Floresta D'Oeste,RO,Norte
+3848,Alto Alegre dos Parecis,RO,Norte
+2734,Alto Paraíso,RO,Norte
+3076,Alvorada D'Oeste,RO,Norte
+1145,Ariquemes,RO,Norte
+2027,Buritis,RO,Norte
+3507,Cabixi,RO,Norte
+2932,Cacaulândia,RO,Norte
+4514,Cacoal,RO,Norte
+4787,Campo Novo de Rondônia,RO,Norte
+4044,Candeias do Jamari,RO,Norte
+5006,Castanheiras,RO,Norte
+1172,Cerejeiras,RO,Norte
+3827,Chupinguaia,RO,Norte
+290,Colorado do Oeste,RO,Norte
+4403,Corumbiara,RO,Norte
+2215,Costa Marques,RO,Norte
+302,Cujubim,RO,Norte
+815,Espigão D'Oeste,RO,Norte
+4811,Governador Jorge Teixeira,RO,Norte
+2547,Guajará-Mirim,RO,Norte
+2524,Itapuã do Oeste,RO,Norte
+908,Jaru,RO,Norte
+2587,Ji-Paraná,RO,Norte
+2653,Machadinho D'Oeste,RO,Norte
+4737,Ministro Andreazza,RO,Norte
+3122,Mirante da Serra,RO,Norte
+4381,Monte Negro,RO,Norte
+237,Nova Brasilândia D'Oeste,RO,Norte
+4390,Nova Mamoré,RO,Norte
+3331,Nova União,RO,Norte
+2028,Novo Horizonte do Oeste,RO,Norte
+983,Ouro Preto do Oeste,RO,Norte
+2566,Parecis,RO,Norte
+1342,Pimenta Bueno,RO,Norte
+2694,Pimenteiras do Oeste,RO,Norte
+1075,Porto Velho,RO,Norte
+3605,Presidente Médici,RO,Norte
+5157,Primavera de Rondônia,RO,Norte
+2182,Rio Crespo,RO,Norte
+109,Rolim de Moura,RO,Norte
+94,Santa Luzia D'Oeste,RO,Norte
+2098,Seringueiras,RO,Norte
+4851,São Felipe D'Oeste,RO,Norte
+3421,São Francisco do Guaporé,RO,Norte
+2069,São Miguel do Guaporé,RO,Norte
+1228,Teixeirópolis,RO,Norte
+2361,Theobroma,RO,Norte
+3810,Urupá,RO,Norte
+4018,Vale do Anari,RO,Norte
+5567,Vale do Paraíso,RO,Norte
+4255,Vilhena,RO,Norte
+2775,Alto Alegre,RR,Norte
+1515,Amajari,RR,Norte
+3799,Boa Vista,RR,Norte
+2872,Bonfim,RR,Norte
+1411,Cantá,RR,Norte
+3921,Caracaraí,RR,Norte
+1243,Caroebe,RR,Norte
+3175,Iracema,RR,Norte
+2577,Mucajaí,RR,Norte
+4294,Normandia,RR,Norte
+5031,Pacaraima,RR,Norte
+247,Rorainópolis,RR,Norte
+240,São João da Baliza,RR,Norte
+5462,São Luiz,RR,Norte
+1038,Uiramutã,RR,Norte
+2348,Abreulândia,TO,Norte
+5272,Aguiarnópolis,TO,Norte
+1623,Aliança do Tocantins,TO,Norte
+4332,Almas,TO,Norte
+2647,Alvorada,TO,Norte
+3001,Ananás,TO,Norte
+4231,Angico,TO,Norte
+1511,Aparecida do Rio Negro,TO,Norte
+2294,Aragominas,TO,Norte
+1113,Araguacema,TO,Norte
+2197,Araguanã,TO,Norte
+3069,Araguatins,TO,Norte
+1863,Araguaçu,TO,Norte
+108,Araguaína,TO,Norte
+4127,Arapoema,TO,Norte
+41,Arraias,TO,Norte
+3233,Augustinópolis,TO,Norte
+5434,Aurora do Tocantins,TO,Norte
+1985,Axixá do Tocantins,TO,Norte
+871,Babaçulândia,TO,Norte
+3882,Bandeirantes do Tocantins,TO,Norte
+1802,Barra do Ouro,TO,Norte
+1295,Barrolândia,TO,Norte
+5123,Bernardo Sayão,TO,Norte
+854,Bom Jesus do Tocantins,TO,Norte
+4200,Brasilândia do Tocantins,TO,Norte
+4047,Brejinho de Nazaré,TO,Norte
+1801,Buriti do Tocantins,TO,Norte
+1265,Cachoeirinha,TO,Norte
+5316,Campos Lindos,TO,Norte
+2971,Cariri do Tocantins,TO,Norte
+2388,Carmolândia,TO,Norte
+4123,Carrasco Bonito,TO,Norte
+4406,Caseara,TO,Norte
+3743,Centenário,TO,Norte
+1990,Chapada da Natividade,TO,Norte
+3977,Chapada de Areia,TO,Norte
+4074,Colinas do Tocantins,TO,Norte
+1875,Colméia,TO,Norte
+5149,Combinado,TO,Norte
+4603,Conceição do Tocantins,TO,Norte
+3107,Couto Magalhães,TO,Norte
+3340,Cristalândia,TO,Norte
+2545,Crixás do Tocantins,TO,Norte
+345,Darcinópolis,TO,Norte
+2690,Dianópolis,TO,Norte
+3113,Divinópolis do Tocantins,TO,Norte
+1699,Dois Irmãos do Tocantins,TO,Norte
+1664,Dueré,TO,Norte
+202,Esperantina,TO,Norte
+1042,Figueirópolis,TO,Norte
+1753,Filadélfia,TO,Norte
+4662,Formoso do Araguaia,TO,Norte
+3843,Fortaleza do Tabocão,TO,Norte
+624,Fátima,TO,Norte
+753,Goianorte,TO,Norte
+4070,Goiatins,TO,Norte
+2557,Guaraí,TO,Norte
+2150,Gurupi,TO,Norte
+4575,Ipueiras,TO,Norte
+427,Itacajá,TO,Norte
+2933,Itaguatins,TO,Norte
+3264,Itapiratins,TO,Norte
+5369,Itaporã do Tocantins,TO,Norte
+3635,Jaú do Tocantins,TO,Norte
+1959,Juarina,TO,Norte
+752,Lagoa da Confusão,TO,Norte
+2006,Lagoa do Tocantins,TO,Norte
+4660,Lajeado,TO,Norte
+2354,Lavandeira,TO,Norte
+4221,Lizarda,TO,Norte
+2345,Luzinópolis,TO,Norte
+2060,Marianópolis do Tocantins,TO,Norte
+4648,Mateiros,TO,Norte
+1140,Maurilândia do Tocantins,TO,Norte
+3191,Miracema do Tocantins,TO,Norte
+2850,Miranorte,TO,Norte
+2168,Monte Santo do Tocantins,TO,Norte
+1960,Monte do Carmo,TO,Norte
+3814,Muricilândia,TO,Norte
+1446,Natividade,TO,Norte
+1198,Nazaré,TO,Norte
+4634,Nova Olinda,TO,Norte
+3220,Nova Rosalândia,TO,Norte
+5008,Novo Acordo,TO,Norte
+1787,Novo Alegre,TO,Norte
+3608,Novo Jardim,TO,Norte
+4142,Oliveira de Fátima,TO,Norte
+2511,Palmas,TO,Norte
+3664,Palmeirante,TO,Norte
+4135,Palmeiras do Tocantins,TO,Norte
+128,Palmeirópolis,TO,Norte
+3874,Paranã,TO,Norte
+792,Paraíso do Tocantins,TO,Norte
+1680,Pau D'Arco,TO,Norte
+4079,Pedro Afonso,TO,Norte
+5279,Peixe,TO,Norte
+1553,Pequizeiro,TO,Norte
+3678,Pindorama do Tocantins,TO,Norte
+2787,Piraquê,TO,Norte
+1422,Pium,TO,Norte
+1377,Ponte Alta do Bom Jesus,TO,Norte
+3498,Ponte Alta do Tocantins,TO,Norte
+3562,Porto Alegre do Tocantins,TO,Norte
+4015,Porto Nacional,TO,Norte
+1255,Praia Norte,TO,Norte
+3442,Presidente Kennedy,TO,Norte
+3004,Pugmil,TO,Norte
+5334,Recursolândia,TO,Norte
+2519,Riachinho,TO,Norte
+4064,Rio Sono,TO,Norte
+131,Rio da Conceição,TO,Norte
+2434,Rio dos Bois,TO,Norte
+4655,Sampaio,TO,Norte
+5013,Sandolândia,TO,Norte
+1193,Santa Fé do Araguaia,TO,Norte
+2984,Santa Maria do Tocantins,TO,Norte
+4346,Santa Rita do Tocantins,TO,Norte
+4215,Santa Rosa do Tocantins,TO,Norte
+2906,Santa Tereza do Tocantins,TO,Norte
+250,Santa Terezinha do Tocantins,TO,Norte
+265,Silvanópolis,TO,Norte
+5254,Sucupira,TO,Norte
+3428,São Bento do Tocantins,TO,Norte
+2504,São Félix do Tocantins,TO,Norte
+3350,São Miguel do Tocantins,TO,Norte
+1104,São Salvador do Tocantins,TO,Norte
+808,São Sebastião do Tocantins,TO,Norte
+4106,São Valério,TO,Norte
+5081,Sítio Novo do Tocantins,TO,Norte
+2372,Taguatinga,TO,Norte
+1846,Taipas do Tocantins,TO,Norte
+541,Talismã,TO,Norte
+721,Tocantinópolis,TO,Norte
+509,Tocantínia,TO,Norte
+2739,Tupirama,TO,Norte
+4816,Tupiratins,TO,Norte
+4365,Wanderlândia,TO,Norte
+4220,Xambioá,TO,Norte
+5282,Afonso Cláudio,ES,Sudeste
+1249,Alegre,ES,Sudeste
+4516,Alfredo Chaves,ES,Sudeste
+3729,Alto Rio Novo,ES,Sudeste
+2408,Anchieta,ES,Sudeste
+3569,Apiacá,ES,Sudeste
+5097,Aracruz,ES,Sudeste
+641,Atilio Vivacqua,ES,Sudeste
+2073,Baixo Guandu,ES,Sudeste
+685,Barra de São Francisco,ES,Sudeste
+902,Boa Esperança,ES,Sudeste
+1692,Bom Jesus do Norte,ES,Sudeste
+5222,Brejetuba,ES,Sudeste
+3249,Cachoeiro de Itapemirim,ES,Sudeste
+55,Cariacica,ES,Sudeste
+1340,Castelo,ES,Sudeste
+4474,Colatina,ES,Sudeste
+113,Conceição da Barra,ES,Sudeste
+2087,Conceição do Castelo,ES,Sudeste
+2484,Divino de São Lourenço,ES,Sudeste
+2332,Domingos Martins,ES,Sudeste
+3261,Dores do Rio Preto,ES,Sudeste
+2310,Ecoporanga,ES,Sudeste
+4005,Fundão,ES,Sudeste
+729,Governador Lindenberg,ES,Sudeste
+771,Guarapari,ES,Sudeste
+4113,Guaçuí,ES,Sudeste
+1376,Ibatiba,ES,Sudeste
+38,Ibiraçu,ES,Sudeste
+4133,Ibitirama,ES,Sudeste
+2042,Iconha,ES,Sudeste
+3606,Irupi,ES,Sudeste
+1669,Itaguaçu,ES,Sudeste
+2401,Itapemirim,ES,Sudeste
+3162,Itarana,ES,Sudeste
+4351,Iúna,ES,Sudeste
+3584,Jaguaré,ES,Sudeste
+841,Jerônimo Monteiro,ES,Sudeste
+3104,João Neiva,ES,Sudeste
+4887,Laranja da Terra,ES,Sudeste
+1763,Linhares,ES,Sudeste
+4213,Mantenópolis,ES,Sudeste
+447,Marataízes,ES,Sudeste
+3705,Marechal Floriano,ES,Sudeste
+471,Marilândia,ES,Sudeste
+3408,Mimoso do Sul,ES,Sudeste
+2588,Montanha,ES,Sudeste
+5142,Mucurici,ES,Sudeste
+364,Muniz Freire,ES,Sudeste
+2929,Muqui,ES,Sudeste
+61,Nova Venécia,ES,Sudeste
+633,Pancas,ES,Sudeste
+998,Pedro Canário,ES,Sudeste
+1745,Pinheiros,ES,Sudeste
+337,Piúma,ES,Sudeste
+543,Ponto Belo,ES,Sudeste
+1797,Presidente Kennedy,ES,Sudeste
+770,Rio Bananal,ES,Sudeste
+3858,Rio Novo do Sul,ES,Sudeste
+3931,Santa Leopoldina,ES,Sudeste
+3387,Santa Maria de Jetibá,ES,Sudeste
+23,Santa Teresa,ES,Sudeste
+2551,Serra,ES,Sudeste
+3771,Sooretama,ES,Sudeste
+3528,São Domingos do Norte,ES,Sudeste
+5389,São Gabriel da Palha,ES,Sudeste
+4624,São José do Calçado,ES,Sudeste
+1910,São Mateus,ES,Sudeste
+2050,São Roque do Canaã,ES,Sudeste
+1127,Vargem Alta,ES,Sudeste
+4449,Venda Nova do Imigrante,ES,Sudeste
+3621,Viana,ES,Sudeste
+2049,Vila Pavão,ES,Sudeste
+5070,Vila Valério,ES,Sudeste
+830,Vila Velha,ES,Sudeste
+1538,Vitória,ES,Sudeste
+4129,Água Doce do Norte,ES,Sudeste
+5344,Águia Branca,ES,Sudeste
+4886,Abadia dos Dourados,MG,Sudeste
+2052,Abaeté,MG,Sudeste
+335,Abre Campo,MG,Sudeste
+4000,Acaiaca,MG,Sudeste
+4254,Aguanil,MG,Sudeste
+1560,Aimorés,MG,Sudeste
+3847,Aiuruoca,MG,Sudeste
+518,Alagoa,MG,Sudeste
+5506,Albertina,MG,Sudeste
+3075,Alfenas,MG,Sudeste
+5161,Alfredo Vasconcelos,MG,Sudeste
+1434,Almenara,MG,Sudeste
+2806,Alpercata,MG,Sudeste
+2849,Alpinópolis,MG,Sudeste
+4277,Alterosa,MG,Sudeste
+666,Alto Caparaó,MG,Sudeste
+2152,Alto Jequitibá,MG,Sudeste
+458,Alto Rio Doce,MG,Sudeste
+5436,Alvarenga,MG,Sudeste
+1500,Alvinópolis,MG,Sudeste
+3982,Alvorada de Minas,MG,Sudeste
+5260,Além Paraíba,MG,Sudeste
+722,Amparo do Serra,MG,Sudeste
+2349,Andradas,MG,Sudeste
+5422,Andrelândia,MG,Sudeste
+791,Angelândia,MG,Sudeste
+4145,Antônio Carlos,MG,Sudeste
+3262,Antônio Dias,MG,Sudeste
+649,Antônio Prado de Minas,MG,Sudeste
+490,Aracitaba,MG,Sudeste
+5246,Araguari,MG,Sudeste
+5060,Arantina,MG,Sudeste
+1791,Araponga,MG,Sudeste
+154,Araporã,MG,Sudeste
+5410,Arapuá,MG,Sudeste
+3435,Araxá,MG,Sudeste
+4136,Araçaí,MG,Sudeste
+3881,Araçuaí,MG,Sudeste
+3920,Araújos,MG,Sudeste
+3196,Arceburgo,MG,Sudeste
+838,Arcos,MG,Sudeste
+801,Areado,MG,Sudeste
+2238,Argirita,MG,Sudeste
+4782,Aricanduva,MG,Sudeste
+4031,Arinos,MG,Sudeste
+4833,Astolfo Dutra,MG,Sudeste
+3727,Ataléia,MG,Sudeste
+714,Augusto de Lima,MG,Sudeste
+1462,Açucena,MG,Sudeste
+1987,Baependi,MG,Sudeste
+3540,Baldim,MG,Sudeste
+2494,Bambuí,MG,Sudeste
+3615,Bandeira,MG,Sudeste
+5117,Bandeira do Sul,MG,Sudeste
+1388,Barbacena,MG,Sudeste
+5533,Barra Longa,MG,Sudeste
+780,Barroso,MG,Sudeste
+2203,Barão de Cocais,MG,Sudeste
+5209,Barão de Monte Alto,MG,Sudeste
+3012,Bela Vista de Minas,MG,Sudeste
+3807,Belmiro Braga,MG,Sudeste
+590,Belo Horizonte,MG,Sudeste
+4176,Belo Oriente,MG,Sudeste
+2691,Belo Vale,MG,Sudeste
+2116,Berilo,MG,Sudeste
+5476,Berizal,MG,Sudeste
+2402,Bertópolis,MG,Sudeste
+1314,Betim,MG,Sudeste
+5003,Bias Fortes,MG,Sudeste
+1779,Bicas,MG,Sudeste
+416,Biquinhas,MG,Sudeste
+4391,Boa Esperança,MG,Sudeste
+3358,Bocaina de Minas,MG,Sudeste
+3877,Bocaiúva,MG,Sudeste
+2512,Bom Despacho,MG,Sudeste
+112,Bom Jardim de Minas,MG,Sudeste
+4815,Bom Jesus da Penha,MG,Sudeste
+1282,Bom Jesus do Amparo,MG,Sudeste
+621,Bom Jesus do Galho,MG,Sudeste
+3209,Bom Repouso,MG,Sudeste
+4035,Bom Sucesso,MG,Sudeste
+3818,Bonfim,MG,Sudeste
+4753,Bonfinópolis de Minas,MG,Sudeste
+5113,Bonito de Minas,MG,Sudeste
+3785,Borda da Mata,MG,Sudeste
+4192,Botelhos,MG,Sudeste
+5351,Botumirim,MG,Sudeste
+1922,Brasilândia de Minas,MG,Sudeste
+5286,Brasília de Minas,MG,Sudeste
+2455,Brazópolis,MG,Sudeste
+5021,Braúnas,MG,Sudeste
+1625,Brumadinho,MG,Sudeste
+2614,Brás Pires,MG,Sudeste
+4579,Bueno Brandão,MG,Sudeste
+4304,Buenópolis,MG,Sudeste
+3796,Bugre,MG,Sudeste
+4896,Buritis,MG,Sudeste
+3159,Buritizeiro,MG,Sudeste
+1498,Cabeceira Grande,MG,Sudeste
+2163,Cabo Verde,MG,Sudeste
+3541,Cachoeira Dourada,MG,Sudeste
+1743,Cachoeira da Prata,MG,Sudeste
+5184,Cachoeira de Minas,MG,Sudeste
+127,Cachoeira de Pajeú,MG,Sudeste
+1822,Caetanópolis,MG,Sudeste
+1078,Caeté,MG,Sudeste
+2925,Caiana,MG,Sudeste
+215,Cajuri,MG,Sudeste
+681,Caldas,MG,Sudeste
+1932,Camacho,MG,Sudeste
+4572,Camanducaia,MG,Sudeste
+3586,Cambuquira,MG,Sudeste
+3267,Cambuí,MG,Sudeste
+2276,Campanha,MG,Sudeste
+3118,Campanário,MG,Sudeste
+3059,Campestre,MG,Sudeste
+2550,Campina Verde,MG,Sudeste
+3829,Campo Azul,MG,Sudeste
+1485,Campo Belo,MG,Sudeste
+2318,Campo Florido,MG,Sudeste
+1988,Campo do Meio,MG,Sudeste
+3792,Campos Altos,MG,Sudeste
+300,Campos Gerais,MG,Sudeste
+2190,Cana Verde,MG,Sudeste
+1917,Canaã,MG,Sudeste
+1301,Candeias,MG,Sudeste
+4888,Cantagalo,MG,Sudeste
+3932,Canápolis,MG,Sudeste
+391,Caparaó,MG,Sudeste
+4978,Capela Nova,MG,Sudeste
+2923,Capelinha,MG,Sudeste
+705,Capetinga,MG,Sudeste
+1184,Capim Branco,MG,Sudeste
+653,Capinópolis,MG,Sudeste
+802,Capitão Andrade,MG,Sudeste
+1166,Capitão Enéas,MG,Sudeste
+1762,Capitólio,MG,Sudeste
+2058,Caputira,MG,Sudeste
+2204,Caranaíba,MG,Sudeste
+2964,Carandaí,MG,Sudeste
+713,Carangola,MG,Sudeste
+5368,Caratinga,MG,Sudeste
+2126,Caraí,MG,Sudeste
+2513,Carbonita,MG,Sudeste
+2111,Careaçu,MG,Sudeste
+2800,Carlos Chagas,MG,Sudeste
+3065,Carmo da Cachoeira,MG,Sudeste
+54,Carmo da Mata,MG,Sudeste
+5007,Carmo de Minas,MG,Sudeste
+953,Carmo do Cajuru,MG,Sudeste
+2149,Carmo do Paranaíba,MG,Sudeste
+4026,Carmo do Rio Claro,MG,Sudeste
+1179,Carmésia,MG,Sudeste
+2884,Carmópolis de Minas,MG,Sudeste
+1019,Carneirinho,MG,Sudeste
+2767,Carrancas,MG,Sudeste
+3841,Carvalhos,MG,Sudeste
+5124,Carvalhópolis,MG,Sudeste
+848,Casa Grande,MG,Sudeste
+1726,Cascalho Rico,MG,Sudeste
+1457,Cataguases,MG,Sudeste
+485,Catas Altas,MG,Sudeste
+4233,Catas Altas da Noruega,MG,Sudeste
+1823,Catuji,MG,Sudeste
+797,Catuti,MG,Sudeste
+5319,Caxambu,MG,Sudeste
+2963,Cedro do Abaeté,MG,Sudeste
+3292,Central de Minas,MG,Sudeste
+3394,Centralina,MG,Sudeste
+4468,Chalé,MG,Sudeste
+3703,Chapada Gaúcha,MG,Sudeste
+5332,Chapada do Norte,MG,Sudeste
+4635,Chiador,MG,Sudeste
+167,Chácara,MG,Sudeste
+2749,Cipotânea,MG,Sudeste
+1715,Claraval,MG,Sudeste
+5379,Claro dos Poções,MG,Sudeste
+1767,Cláudio,MG,Sudeste
+4844,Coimbra,MG,Sudeste
+2265,Coluna,MG,Sudeste
+3650,Comendador Gomes,MG,Sudeste
+1983,Comercinho,MG,Sudeste
+3906,Conceição da Aparecida,MG,Sudeste
+3129,Conceição da Barra de Minas,MG,Sudeste
+2122,Conceição das Alagoas,MG,Sudeste
+2838,Conceição das Pedras,MG,Sudeste
+1468,Conceição de Ipanema,MG,Sudeste
+1608,Conceição do Mato Dentro,MG,Sudeste
+5194,Conceição do Pará,MG,Sudeste
+2476,Conceição do Rio Verde,MG,Sudeste
+4359,Conceição dos Ouros,MG,Sudeste
+3600,Confins,MG,Sudeste
+1138,Congonhal,MG,Sudeste
+2928,Congonhas,MG,Sudeste
+3169,Congonhas do Norte,MG,Sudeste
+478,Conquista,MG,Sudeste
+26,Conselheiro Lafaiete,MG,Sudeste
+944,Conselheiro Pena,MG,Sudeste
+3497,Consolação,MG,Sudeste
+1349,Contagem,MG,Sudeste
+1092,Coqueiral,MG,Sudeste
+699,Coração de Jesus,MG,Sudeste
+4843,Cordisburgo,MG,Sudeste
+4214,Cordislândia,MG,Sudeste
+3247,Corinto,MG,Sudeste
+3134,Coroaci,MG,Sudeste
+135,Coromandel,MG,Sudeste
+4900,Coronel Fabriciano,MG,Sudeste
+1688,Coronel Murta,MG,Sudeste
+3813,Coronel Pacheco,MG,Sudeste
+5052,Coronel Xavier Chaves,MG,Sudeste
+152,Couto de Magalhães de Minas,MG,Sudeste
+1746,Cristais,MG,Sudeste
+3406,Cristiano Otoni,MG,Sudeste
+3797,Cristina,MG,Sudeste
+5465,Cristália,MG,Sudeste
+4592,Crisólita,MG,Sudeste
+4780,Crucilândia,MG,Sudeste
+2380,Cruzeiro da Fortaleza,MG,Sudeste
+4840,Cruzília,MG,Sudeste
+2894,Cuparaque,MG,Sudeste
+4416,Curral de Dentro,MG,Sudeste
+2763,Curvelo,MG,Sudeste
+3659,Cássia,MG,Sudeste
+3851,Córrego Danta,MG,Sudeste
+4205,Córrego Fundo,MG,Sudeste
+3091,Córrego Novo,MG,Sudeste
+4776,Córrego do Bom Jesus,MG,Sudeste
+3211,Cônego Marinho,MG,Sudeste
+2325,Datas,MG,Sudeste
+665,Delfim Moreira,MG,Sudeste
+1566,Delfinópolis,MG,Sudeste
+3367,Delta,MG,Sudeste
+3519,Descoberto,MG,Sudeste
+3884,Desterro de Entre Rios,MG,Sudeste
+3039,Desterro do Melo,MG,Sudeste
+4964,Diamantina,MG,Sudeste
+1848,Diogo de Vasconcelos,MG,Sudeste
+104,Dionísio,MG,Sudeste
+5423,Divino,MG,Sudeste
+425,Divino das Laranjeiras,MG,Sudeste
+2623,Divinolândia de Minas,MG,Sudeste
+5400,Divinésia,MG,Sudeste
+631,Divinópolis,MG,Sudeste
+1754,Divisa Alegre,MG,Sudeste
+4876,Divisa Nova,MG,Sudeste
+595,Divisópolis,MG,Sudeste
+85,Dom Bosco,MG,Sudeste
+2755,Dom Cavati,MG,Sudeste
+5067,Dom Joaquim,MG,Sudeste
+4633,Dom Silvério,MG,Sudeste
+2651,Dom Viçoso,MG,Sudeste
+2473,Dona Eusébia,MG,Sudeste
+92,Dores de Campos,MG,Sudeste
+1493,Dores de Guanhães,MG,Sudeste
+183,Dores do Indaiá,MG,Sudeste
+5376,Dores do Turvo,MG,Sudeste
+2164,Doresópolis,MG,Sudeste
+5178,Douradoquara,MG,Sudeste
+962,Durandé,MG,Sudeste
+4335,Elói Mendes,MG,Sudeste
+5475,Engenheiro Caldas,MG,Sudeste
+794,Engenheiro Navarro,MG,Sudeste
+4467,Entre Folhas,MG,Sudeste
+701,Entre Rios de Minas,MG,Sudeste
+4511,Ervália,MG,Sudeste
+4812,Esmeraldas,MG,Sudeste
+3912,Espera Feliz,MG,Sudeste
+3713,Espinosa,MG,Sudeste
+4286,Espírito Santo do Dourado,MG,Sudeste
+5300,Estiva,MG,Sudeste
+121,Estrela Dalva,MG,Sudeste
+2062,Estrela do Indaiá,MG,Sudeste
+1614,Estrela do Sul,MG,Sudeste
+935,Eugenópolis,MG,Sudeste
+5010,Ewbank da Câmara,MG,Sudeste
+3225,Extrema,MG,Sudeste
+4301,Fama,MG,Sudeste
+3798,Faria Lemos,MG,Sudeste
+2654,Felisburgo,MG,Sudeste
+927,Felixlândia,MG,Sudeste
+510,Felício dos Santos,MG,Sudeste
+3381,Fernandes Tourinho,MG,Sudeste
+1512,Ferros,MG,Sudeste
+4030,Fervedouro,MG,Sudeste
+5000,Florestal,MG,Sudeste
+1080,Formiga,MG,Sudeste
+245,Formoso,MG,Sudeste
+1533,Fortaleza de Minas,MG,Sudeste
+3235,Fortuna de Minas,MG,Sudeste
+4663,Francisco Badaró,MG,Sudeste
+813,Francisco Dumont,MG,Sudeste
+2860,Francisco Sá,MG,Sudeste
+3030,Franciscópolis,MG,Sudeste
+3762,Frei Gaspar,MG,Sudeste
+3281,Frei Inocêncio,MG,Sudeste
+544,Frei Lagonegro,MG,Sudeste
+2442,Fronteira,MG,Sudeste
+3878,Fronteira dos Vales,MG,Sudeste
+5477,Fruta de Leite,MG,Sudeste
+2218,Frutal,MG,Sudeste
+408,Funilândia,MG,Sudeste
+4377,Galiléia,MG,Sudeste
+163,Gameleiras,MG,Sudeste
+1392,Glaucilândia,MG,Sudeste
+5473,Goiabeira,MG,Sudeste
+248,Goianá,MG,Sudeste
+3049,Gonzaga,MG,Sudeste
+3323,Gonçalves,MG,Sudeste
+1050,Gouveia,MG,Sudeste
+5271,Governador Valadares,MG,Sudeste
+5264,Grupiara,MG,Sudeste
+2118,Grão Mogol,MG,Sudeste
+3994,Guanhães,MG,Sudeste
+3364,Guapé,MG,Sudeste
+2120,Guaraciaba,MG,Sudeste
+4657,Guaraciama,MG,Sudeste
+3095,Guarani,MG,Sudeste
+3691,Guaranésia,MG,Sudeste
+1421,Guarará,MG,Sudeste
+2427,Guarda-Mor,MG,Sudeste
+4111,Guaxupé,MG,Sudeste
+1334,Guidoval,MG,Sudeste
+1652,Guimarânia,MG,Sudeste
+5347,Guiricema,MG,Sudeste
+372,Gurinhatã,MG,Sudeste
+4685,Heliodora,MG,Sudeste
+3472,Iapu,MG,Sudeste
+4010,Ibertioga,MG,Sudeste
+1452,Ibiaí,MG,Sudeste
+4219,Ibiracatu,MG,Sudeste
+4734,Ibiraci,MG,Sudeste
+1403,Ibirité,MG,Sudeste
+3634,Ibitiúra de Minas,MG,Sudeste
+2009,Ibituruna,MG,Sudeste
+2757,Ibiá,MG,Sudeste
+3776,Icaraí de Minas,MG,Sudeste
+3656,Igarapé,MG,Sudeste
+5217,Igaratinga,MG,Sudeste
+733,Iguatama,MG,Sudeste
+3945,Ijaci,MG,Sudeste
+1862,Ilicínea,MG,Sudeste
+4764,Imbé de Minas,MG,Sudeste
+3786,Inconfidentes,MG,Sudeste
+4278,Indaiabira,MG,Sudeste
+2431,Indianópolis,MG,Sudeste
+4337,Ingaí,MG,Sudeste
+812,Inhapim,MG,Sudeste
+1048,Inhaúma,MG,Sudeste
+5440,Inimutaba,MG,Sudeste
+3038,Ipaba,MG,Sudeste
+5391,Ipanema,MG,Sudeste
+1417,Ipatinga,MG,Sudeste
+4236,Ipiaçu,MG,Sudeste
+1431,Ipuiúna,MG,Sudeste
+4916,Iraí de Minas,MG,Sudeste
+3651,Itabira,MG,Sudeste
+1466,Itabirinha,MG,Sudeste
+2565,Itabirito,MG,Sudeste
+5328,Itacambira,MG,Sudeste
+2423,Itacarambi,MG,Sudeste
+1993,Itaguara,MG,Sudeste
+3488,Itaipé,MG,Sudeste
+1770,Itajubá,MG,Sudeste
+3078,Itamarandiba,MG,Sudeste
+3795,Itamarati de Minas,MG,Sudeste
+5155,Itambacuri,MG,Sudeste
+2751,Itambé do Mato Dentro,MG,Sudeste
+4037,Itamogi,MG,Sudeste
+2290,Itamonte,MG,Sudeste
+3772,Itanhandu,MG,Sudeste
+5218,Itanhomi,MG,Sudeste
+130,Itaobim,MG,Sudeste
+5452,Itapagipe,MG,Sudeste
+1828,Itapecerica,MG,Sudeste
+3500,Itapeva,MG,Sudeste
+996,Itatiaiuçu,MG,Sudeste
+940,Itaverava,MG,Sudeste
+56,Itaú de Minas,MG,Sudeste
+761,Itaúna,MG,Sudeste
+1424,Itinga,MG,Sudeste
+1900,Itueta,MG,Sudeste
+2903,Ituiutaba,MG,Sudeste
+2208,Itumirim,MG,Sudeste
+1352,Iturama,MG,Sudeste
+2351,Itutinga,MG,Sudeste
+5126,Jaboticatubas,MG,Sudeste
+1390,Jacinto,MG,Sudeste
+3563,Jacutinga,MG,Sudeste
+4402,Jacuí,MG,Sudeste
+3263,Jaguaraçu,MG,Sudeste
+4532,Jampruca,MG,Sudeste
+1107,Janaúba,MG,Sudeste
+4699,Januária,MG,Sudeste
+5499,Japaraíba,MG,Sudeste
+5518,Japonvar,MG,Sudeste
+774,Jaíba,MG,Sudeste
+2142,Jeceaba,MG,Sudeste
+2624,Jenipapo de Minas,MG,Sudeste
+4986,Jequeri,MG,Sudeste
+4505,Jequitaí,MG,Sudeste
+1267,Jequitibá,MG,Sudeste
+2589,Jequitinhonha,MG,Sudeste
+3499,Jesuânia,MG,Sudeste
+4593,Joanésia,MG,Sudeste
+4164,Joaquim Felício,MG,Sudeste
+3133,Joaíma,MG,Sudeste
+3597,Jordânia,MG,Sudeste
+704,Josenópolis,MG,Sudeste
+4295,José Gonçalves de Minas,MG,Sudeste
+2010,José Raydan,MG,Sudeste
+2591,João Monlevade,MG,Sudeste
+2835,João Pinheiro,MG,Sudeste
+1361,Juatuba,MG,Sudeste
+4794,Juiz de Fora,MG,Sudeste
+4046,Juramento,MG,Sudeste
+1721,Juruaia,MG,Sudeste
+4646,Juvenília,MG,Sudeste
+3758,Ladainha,MG,Sudeste
+2790,Lagamar,MG,Sudeste
+2592,Lagoa Dourada,MG,Sudeste
+551,Lagoa Formosa,MG,Sudeste
+5039,Lagoa Grande,MG,Sudeste
+3880,Lagoa Santa,MG,Sudeste
+4342,Lagoa da Prata,MG,Sudeste
+5415,Lagoa dos Patos,MG,Sudeste
+2343,Lajinha,MG,Sudeste
+1788,Lambari,MG,Sudeste
+4930,Lamim,MG,Sudeste
+2490,Laranjal,MG,Sudeste
+1645,Lassance,MG,Sudeste
+4820,Lavras,MG,Sudeste
+3726,Leandro Ferreira,MG,Sudeste
+1049,Leme do Prado,MG,Sudeste
+4305,Leopoldina,MG,Sudeste
+1637,Liberdade,MG,Sudeste
+2626,Lima Duarte,MG,Sudeste
+560,Limeira do Oeste,MG,Sudeste
+3481,Lontra,MG,Sudeste
+2212,Luisburgo,MG,Sudeste
+1307,Luislândia,MG,Sudeste
+407,Luminárias,MG,Sudeste
+4186,Luz,MG,Sudeste
+568,Machacalis,MG,Sudeste
+1944,Machado,MG,Sudeste
+4336,Madre de Deus de Minas,MG,Sudeste
+636,Malacacheta,MG,Sudeste
+1697,Mamonas,MG,Sudeste
+4376,Manga,MG,Sudeste
+3310,Manhuaçu,MG,Sudeste
+4674,Manhumirim,MG,Sudeste
+305,Mantena,MG,Sudeste
+3514,Mar de Espanha,MG,Sudeste
+4937,Maravilhas,MG,Sudeste
+1742,Maria da Fé,MG,Sudeste
+1725,Mariana,MG,Sudeste
+4960,Marilac,MG,Sudeste
+1058,Maripá de Minas,MG,Sudeste
+506,Marliéria,MG,Sudeste
+4595,Marmelópolis,MG,Sudeste
+2092,Martinho Campos,MG,Sudeste
+3479,Martins Soares,MG,Sudeste
+4590,Mata Verde,MG,Sudeste
+1259,Materlândia,MG,Sudeste
+2544,Mateus Leme,MG,Sudeste
+2688,Mathias Lobato,MG,Sudeste
+1709,Matias Barbosa,MG,Sudeste
+2366,Matias Cardoso,MG,Sudeste
+3925,Matipó,MG,Sudeste
+3578,Mato Verde,MG,Sudeste
+1720,Matozinhos,MG,Sudeste
+3566,Matutina,MG,Sudeste
+683,Medeiros,MG,Sudeste
+3462,Medina,MG,Sudeste
+2438,Mendes Pimentel,MG,Sudeste
+1580,Mercês,MG,Sudeste
+4112,Mesquita,MG,Sudeste
+1442,Minas Novas,MG,Sudeste
+3728,Minduri,MG,Sudeste
+2815,Mirabela,MG,Sudeste
+2927,Miradouro,MG,Sudeste
+3893,Miravânia,MG,Sudeste
+5323,Miraí,MG,Sudeste
+4420,Moeda,MG,Sudeste
+2496,Moema,MG,Sudeste
+4924,Monjolos,MG,Sudeste
+3456,Monsenhor Paulo,MG,Sudeste
+952,Montalvânia,MG,Sudeste
+4607,Monte Alegre de Minas,MG,Sudeste
+4567,Monte Azul,MG,Sudeste
+3016,Monte Belo,MG,Sudeste
+3622,Monte Carmelo,MG,Sudeste
+4684,Monte Formoso,MG,Sudeste
+4021,Monte Santo de Minas,MG,Sudeste
+1289,Monte Sião,MG,Sudeste
+1097,Montes Claros,MG,Sudeste
+1519,Montezuma,MG,Sudeste
+4599,Morada Nova de Minas,MG,Sudeste
+5296,Morro da Garça,MG,Sudeste
+2250,Morro do Pilar,MG,Sudeste
+2881,Munhoz,MG,Sudeste
+2378,Muriaé,MG,Sudeste
+5172,Mutum,MG,Sudeste
+3282,Muzambinho,MG,Sudeste
+472,Mário Campos,MG,Sudeste
+4644,Nacip Raydan,MG,Sudeste
+4090,Nanuque,MG,Sudeste
+3302,Naque,MG,Sudeste
+4873,Natalândia,MG,Sudeste
+222,Natércia,MG,Sudeste
+3342,Nazareno,MG,Sudeste
+4678,Nepomuceno,MG,Sudeste
+876,Ninheira,MG,Sudeste
+2810,Nova Belém,MG,Sudeste
+4773,Nova Era,MG,Sudeste
+1192,Nova Lima,MG,Sudeste
+3637,Nova Módica,MG,Sudeste
+4909,Nova Ponte,MG,Sudeste
+978,Nova Porteirinha,MG,Sudeste
+361,Nova Resende,MG,Sudeste
+3188,Nova Serrana,MG,Sudeste
+4155,Nova União,MG,Sudeste
+5115,Novo Cruzeiro,MG,Sudeste
+3140,Novo Oriente de Minas,MG,Sudeste
+3248,Novorizonte,MG,Sudeste
+1305,Olaria,MG,Sudeste
+3957,Olhos-d'Água,MG,Sudeste
+3964,Oliveira,MG,Sudeste
+3120,Oliveira Fortes,MG,Sudeste
+4919,Olímpio Noronha,MG,Sudeste
+2417,Onça de Pitangui,MG,Sudeste
+4423,Oratórios,MG,Sudeste
+1455,Orizânia,MG,Sudeste
+1955,Ouro Branco,MG,Sudeste
+1387,Ouro Fino,MG,Sudeste
+814,Ouro Preto,MG,Sudeste
+3336,Ouro Verde de Minas,MG,Sudeste
+3892,Padre Carvalho,MG,Sudeste
+1769,Padre Paraíso,MG,Sudeste
+4551,Pai Pedro,MG,Sudeste
+482,Paineiras,MG,Sudeste
+4484,Pains,MG,Sudeste
+2014,Paiva,MG,Sudeste
+1612,Palma,MG,Sudeste
+3385,Palmópolis,MG,Sudeste
+3692,Papagaios,MG,Sudeste
+554,Paracatu,MG,Sudeste
+3343,Paraguaçu,MG,Sudeste
+4054,Paraisópolis,MG,Sudeste
+1690,Paraopeba,MG,Sudeste
+951,Pará de Minas,MG,Sudeste
+5392,Passa Quatro,MG,Sudeste
+2295,Passa Tempo,MG,Sudeste
+5407,Passa-Vinte,MG,Sudeste
+4921,Passabém,MG,Sudeste
+308,Passos,MG,Sudeste
+686,Patis,MG,Sudeste
+858,Patos de Minas,MG,Sudeste
+695,Patrocínio,MG,Sudeste
+1180,Patrocínio do Muriaé,MG,Sudeste
+3943,Paula Cândido,MG,Sudeste
+4616,Paulistas,MG,Sudeste
+1454,Pavão,MG,Sudeste
+4261,Pedra Azul,MG,Sudeste
+3318,Pedra Bonita,MG,Sudeste
+5570,Pedra Dourada,MG,Sudeste
+3461,Pedra do Anta,MG,Sudeste
+114,Pedra do Indaiá,MG,Sudeste
+720,Pedralva,MG,Sudeste
+1224,Pedras de Maria da Cruz,MG,Sudeste
+5299,Pedrinópolis,MG,Sudeste
+2732,Pedro Leopoldo,MG,Sudeste
+918,Pedro Teixeira,MG,Sudeste
+1819,Pequeri,MG,Sudeste
+3020,Pequi,MG,Sudeste
+3962,Perdigão,MG,Sudeste
+1826,Perdizes,MG,Sudeste
+635,Perdões,MG,Sudeste
+2943,Periquito,MG,Sudeste
+1328,Pescador,MG,Sudeste
+4323,Peçanha,MG,Sudeste
+2024,Piau,MG,Sudeste
+4893,Piedade de Caratinga,MG,Sudeste
+5502,Piedade de Ponte Nova,MG,Sudeste
+4412,Piedade do Rio Grande,MG,Sudeste
+697,Piedade dos Gerais,MG,Sudeste
+3527,Pimenta,MG,Sudeste
+1850,Pingo-d'Água,MG,Sudeste
+1514,Pintópolis,MG,Sudeste
+2483,Piracema,MG,Sudeste
+4837,Pirajuba,MG,Sudeste
+3067,Piranga,MG,Sudeste
+2222,Piranguinho,MG,Sudeste
+2945,Piranguçu,MG,Sudeste
+2436,Pirapetinga,MG,Sudeste
+2920,Pirapora,MG,Sudeste
+1461,Piraúba,MG,Sudeste
+1227,Pitangui,MG,Sudeste
+4704,Piumhi,MG,Sudeste
+4435,Planura,MG,Sudeste
+4421,Pocrane,MG,Sudeste
+4327,Pompéu,MG,Sudeste
+2753,Ponte Nova,MG,Sudeste
+1056,Ponto Chique,MG,Sudeste
+4320,Ponto dos Volantes,MG,Sudeste
+2320,Porteirinha,MG,Sudeste
+2176,Porto Firme,MG,Sudeste
+1010,Poté,MG,Sudeste
+882,Pouso Alegre,MG,Sudeste
+2013,Pouso Alto,MG,Sudeste
+1146,Poço Fundo,MG,Sudeste
+2251,Poços de Caldas,MG,Sudeste
+4822,Prados,MG,Sudeste
+3838,Prata,MG,Sudeste
+3277,Pratinha,MG,Sudeste
+2896,Pratápolis,MG,Sudeste
+2016,Presidente Bernardes,MG,Sudeste
+4689,Presidente Juscelino,MG,Sudeste
+2813,Presidente Kubitschek,MG,Sudeste
+2086,Presidente Olegário,MG,Sudeste
+3826,Prudente de Morais,MG,Sudeste
+3611,Quartel Geral,MG,Sudeste
+1666,Queluzito,MG,Sudeste
+5303,Raposos,MG,Sudeste
+2794,Raul Soares,MG,Sudeste
+2089,Recreio,MG,Sudeste
+488,Reduto,MG,Sudeste
+825,Resende Costa,MG,Sudeste
+837,Resplendor,MG,Sudeste
+2530,Ressaquinha,MG,Sudeste
+4122,Riachinho,MG,Sudeste
+1244,Riacho dos Machados,MG,Sudeste
+3195,Ribeirão Vermelho,MG,Sudeste
+3474,Ribeirão das Neves,MG,Sudeste
+1991,Rio Acima,MG,Sudeste
+727,Rio Casca,MG,Sudeste
+3875,Rio Doce,MG,Sudeste
+4472,Rio Espera,MG,Sudeste
+5214,Rio Manso,MG,Sudeste
+2102,Rio Novo,MG,Sudeste
+1397,Rio Paranaíba,MG,Sudeste
+743,Rio Pardo de Minas,MG,Sudeste
+5130,Rio Piracicaba,MG,Sudeste
+606,Rio Pomba,MG,Sudeste
+405,Rio Preto,MG,Sudeste
+3052,Rio Vermelho,MG,Sudeste
+1702,Rio do Prado,MG,Sudeste
+2750,Ritápolis,MG,Sudeste
+3761,Rochedo de Minas,MG,Sudeste
+4987,Rodeiro,MG,Sudeste
+3308,Romaria,MG,Sudeste
+5211,Rosário da Limeira,MG,Sudeste
+1018,Rubelita,MG,Sudeste
+4622,Rubim,MG,Sudeste
+286,Sabará,MG,Sudeste
+3654,Sabinópolis,MG,Sudeste
+3268,Sacramento,MG,Sudeste
+1732,Salinas,MG,Sudeste
+378,Salto da Divisa,MG,Sudeste
+4183,Santa Bárbara,MG,Sudeste
+2738,Santa Bárbara do Leste,MG,Sudeste
+4901,Santa Bárbara do Monte Verde,MG,Sudeste
+4184,Santa Bárbara do Tugúrio,MG,Sudeste
+2448,Santa Cruz de Minas,MG,Sudeste
+5144,Santa Cruz de Salinas,MG,Sudeste
+5524,Santa Cruz do Escalvado,MG,Sudeste
+4413,Santa Efigênia de Minas,MG,Sudeste
+2110,Santa Fé de Minas,MG,Sudeste
+608,Santa Helena de Minas,MG,Sudeste
+3433,Santa Juliana,MG,Sudeste
+5036,Santa Luzia,MG,Sudeste
+3817,Santa Margarida,MG,Sudeste
+3197,Santa Maria de Itabira,MG,Sudeste
+1114,Santa Maria do Salto,MG,Sudeste
+3356,Santa Maria do Suaçuí,MG,Sudeste
+4083,Santa Rita de Caldas,MG,Sudeste
+90,Santa Rita de Ibitipoca,MG,Sudeste
+4562,Santa Rita de Jacutinga,MG,Sudeste
+2482,Santa Rita de Minas,MG,Sudeste
+2863,Santa Rita do Itueto,MG,Sudeste
+2967,Santa Rita do Sapucaí,MG,Sudeste
+880,Santa Rosa da Serra,MG,Sudeste
+4620,Santa Vitória,MG,Sudeste
+2701,Santana da Vargem,MG,Sudeste
+3207,Santana de Cataguases,MG,Sudeste
+2517,Santana de Pirapama,MG,Sudeste
+3954,Santana do Deserto,MG,Sudeste
+3738,Santana do Garambéu,MG,Sudeste
+2909,Santana do Jacaré,MG,Sudeste
+5333,Santana do Manhuaçu,MG,Sudeste
+529,Santana do Paraíso,MG,Sudeste
+5464,Santana do Riacho,MG,Sudeste
+5428,Santana dos Montes,MG,Sudeste
+5197,Santo Antônio do Amparo,MG,Sudeste
+507,Santo Antônio do Aventureiro,MG,Sudeste
+1926,Santo Antônio do Grama,MG,Sudeste
+1707,Santo Antônio do Itambé,MG,Sudeste
+1535,Santo Antônio do Jacinto,MG,Sudeste
+531,Santo Antônio do Monte,MG,Sudeste
+4990,Santo Antônio do Retiro,MG,Sudeste
+5255,Santo Antônio do Rio Abaixo,MG,Sudeste
+1668,Santo Hipólito,MG,Sudeste
+2844,Santos Dumont,MG,Sudeste
+1120,Sapucaí-Mirim,MG,Sudeste
+4758,Sardoá,MG,Sudeste
+187,Sarzedo,MG,Sudeste
+1117,Sem-Peixe,MG,Sudeste
+4191,Senador Amaral,MG,Sudeste
+1839,Senador Cortes,MG,Sudeste
+3518,Senador Firmino,MG,Sudeste
+1099,Senador José Bento,MG,Sudeste
+4708,Senador Modestino Gonçalves,MG,Sudeste
+3595,Senhora de Oliveira,MG,Sudeste
+1419,Senhora do Porto,MG,Sudeste
+2139,Senhora dos Remédios,MG,Sudeste
+5139,Sericita,MG,Sudeste
+2696,Seritinga,MG,Sudeste
+4941,Serra Azul de Minas,MG,Sudeste
+4361,Serra da Saudade,MG,Sudeste
+3520,Serra do Salitre,MG,Sudeste
+4071,Serra dos Aimorés,MG,Sudeste
+180,Serrania,MG,Sudeste
+2368,Serranos,MG,Sudeste
+926,Serranópolis de Minas,MG,Sudeste
+3040,Serro,MG,Sudeste
+2985,Sete Lagoas,MG,Sudeste
+2468,Setubinha,MG,Sudeste
+1302,Silveirânia,MG,Sudeste
+2887,Silvianópolis,MG,Sudeste
+4661,Simonésia,MG,Sudeste
+5427,Simão Pereira,MG,Sudeste
+2709,Sobrália,MG,Sudeste
+5242,Soledade de Minas,MG,Sudeste
+1014,São Bento Abade,MG,Sudeste
+3780,São Brás do Suaçuí,MG,Sudeste
+2659,São Domingos das Dores,MG,Sudeste
+3591,São Domingos do Prata,MG,Sudeste
+2000,São Francisco,MG,Sudeste
+5231,São Francisco de Paula,MG,Sudeste
+3306,São Francisco de Sales,MG,Sudeste
+717,São Francisco do Glória,MG,Sudeste
+1815,São Félix de Minas,MG,Sudeste
+2518,São Geraldo,MG,Sudeste
+4947,São Geraldo da Piedade,MG,Sudeste
+3763,São Geraldo do Baixio,MG,Sudeste
+5056,São Gonçalo do Abaeté,MG,Sudeste
+3623,São Gonçalo do Pará,MG,Sudeste
+2830,São Gonçalo do Rio Abaixo,MG,Sudeste
+2761,São Gonçalo do Rio Preto,MG,Sudeste
+5432,São Gonçalo do Sapucaí,MG,Sudeste
+4739,São Gotardo,MG,Sudeste
+2191,São Joaquim de Bicas,MG,Sudeste
+586,São José da Barra,MG,Sudeste
+3033,São José da Lapa,MG,Sudeste
+136,São José da Safira,MG,Sudeste
+5032,São José da Varginha,MG,Sudeste
+5553,São José do Alegre,MG,Sudeste
+5077,São José do Divino,MG,Sudeste
+1736,São José do Goiabal,MG,Sudeste
+5223,São José do Jacuri,MG,Sudeste
+4126,São José do Mantimento,MG,Sudeste
+5387,São João Batista do Glória,MG,Sudeste
+3736,São João Evangelista,MG,Sudeste
+273,São João Nepomuceno,MG,Sudeste
+5087,São João da Lagoa,MG,Sudeste
+2890,São João da Mata,MG,Sudeste
+15,São João da Ponte,MG,Sudeste
+894,São João das Missões,MG,Sudeste
+4791,São João del Rei,MG,Sudeste
+5092,São João do Manhuaçu,MG,Sudeste
+3362,São João do Manteninha,MG,Sudeste
+1373,São João do Oriente,MG,Sudeste
+5360,São João do Pacuí,MG,Sudeste
+3334,São João do Paraíso,MG,Sudeste
+4473,São Lourenço,MG,Sudeste
+860,São Miguel do Anta,MG,Sudeste
+2123,São Pedro da União,MG,Sudeste
+945,São Pedro do Suaçuí,MG,Sudeste
+2852,São Pedro dos Ferros,MG,Sudeste
+1428,São Romão,MG,Sudeste
+1003,São Roque de Minas,MG,Sudeste
+4157,São Sebastião da Bela Vista,MG,Sudeste
+2117,São Sebastião da Vargem Alegre,MG,Sudeste
+13,São Sebastião do Anta,MG,Sudeste
+417,São Sebastião do Maranhão,MG,Sudeste
+295,São Sebastião do Oeste,MG,Sudeste
+1041,São Sebastião do Paraíso,MG,Sudeste
+3109,São Sebastião do Rio Preto,MG,Sudeste
+573,São Sebastião do Rio Verde,MG,Sudeste
+1663,São Thomé das Letras,MG,Sudeste
+376,São Tiago,MG,Sudeste
+4319,São Tomás de Aquino,MG,Sudeste
+3329,São Vicente de Minas,MG,Sudeste
+3409,Tabuleiro,MG,Sudeste
+718,Taiobeiras,MG,Sudeste
+267,Taparuba,MG,Sudeste
+1565,Tapira,MG,Sudeste
+3399,Tapiraí,MG,Sudeste
+3452,Taquaraçu de Minas,MG,Sudeste
+4196,Tarumirim,MG,Sudeste
+5089,Teixeiras,MG,Sudeste
+3314,Teófilo Otoni,MG,Sudeste
+5342,Timóteo,MG,Sudeste
+1002,Tiradentes,MG,Sudeste
+1365,Tiros,MG,Sudeste
+4905,Tocantins,MG,Sudeste
+2829,Tocos do Moji,MG,Sudeste
+676,Toledo,MG,Sudeste
+3154,Tombos,MG,Sudeste
+1367,Três Corações,MG,Sudeste
+610,Três Marias,MG,Sudeste
+1082,Três Pontas,MG,Sudeste
+1873,Tumiritinga,MG,Sudeste
+2699,Tupaciguara,MG,Sudeste
+3232,Turmalina,MG,Sudeste
+5453,Turvolândia,MG,Sudeste
+4343,Ubaporanga,MG,Sudeste
+4686,Ubaí,MG,Sudeste
+1112,Uberaba,MG,Sudeste
+3864,Uberlândia,MG,Sudeste
+3891,Ubá,MG,Sudeste
+1810,Umburatiba,MG,Sudeste
+2277,Unaí,MG,Sudeste
+1036,União de Minas,MG,Sudeste
+2737,Uruana de Minas,MG,Sudeste
+5412,Urucuia,MG,Sudeste
+124,Urucânia,MG,Sudeste
+1671,Vargem Alegre,MG,Sudeste
+436,Vargem Bonita,MG,Sudeste
+2305,Vargem Grande do Rio Pardo,MG,Sudeste
+3496,Varginha,MG,Sudeste
+2088,Varjão de Minas,MG,Sudeste
+5335,Varzelândia,MG,Sudeste
+3924,Vazante,MG,Sudeste
+1929,Verdelândia,MG,Sudeste
+4241,Veredinha,MG,Sudeste
+1996,Vermelho Novo,MG,Sudeste
+352,Veríssimo,MG,Sudeste
+2160,Vespasiano,MG,Sudeste
+2195,Vieiras,MG,Sudeste
+1981,Virgem da Lapa,MG,Sudeste
+4264,Virginópolis,MG,Sudeste
+4193,Virgolândia,MG,Sudeste
+2258,Virgínia,MG,Sudeste
+2306,Visconde do Rio Branco,MG,Sudeste
+160,Viçosa,MG,Sudeste
+2584,Volta Grande,MG,Sudeste
+2820,Várzea da Palma,MG,Sudeste
+557,Wenceslau Braz,MG,Sudeste
+1359,Água Boa,MG,Sudeste
+2821,Água Comprida,MG,Sudeste
+5219,Águas Formosas,MG,Sudeste
+353,Águas Vermelhas,MG,Sudeste
+2023,Angra dos Reis,RJ,Sudeste
+229,Aperibé,RJ,Sudeste
+4350,Araruama,RJ,Sudeste
+980,Areal,RJ,Sudeste
+2037,Armação dos Búzios,RJ,Sudeste
+3821,Arraial do Cabo,RJ,Sudeste
+2076,Barra Mansa,RJ,Sudeste
+4574,Barra do Piraí,RJ,Sudeste
+3260,Belford Roxo,RJ,Sudeste
+2553,Bom Jardim,RJ,Sudeste
+4756,Bom Jesus do Itabapoana,RJ,Sudeste
+2153,Cabo Frio,RJ,Sudeste
+1649,Cachoeiras de Macacu,RJ,Sudeste
+4094,Cambuci,RJ,Sudeste
+629,Campos dos Goytacazes,RJ,Sudeste
+1055,Cantagalo,RJ,Sudeste
+5309,Carapebus,RJ,Sudeste
+1658,Cardoso Moreira,RJ,Sudeste
+548,Carmo,RJ,Sudeste
+3952,Casimiro de Abreu,RJ,Sudeste
+2441,Comendador Levy Gasparian,RJ,Sudeste
+4001,Conceição de Macabu,RJ,Sudeste
+3996,Cordeiro,RJ,Sudeste
+4536,Duas Barras,RJ,Sudeste
+2245,Duque de Caxias,RJ,Sudeste
+4700,Engenheiro Paulo de Frontin,RJ,Sudeste
+1335,Guapimirim,RJ,Sudeste
+3293,Iguaba Grande,RJ,Sudeste
+3,Itaboraí,RJ,Sudeste
+5409,Itaguaí,RJ,Sudeste
+3985,Italva,RJ,Sudeste
+747,Itaocara,RJ,Sudeste
+3552,Itaperuna,RJ,Sudeste
+2973,Itatiaia,RJ,Sudeste
+3270,Japeri,RJ,Sudeste
+4324,Laje do Muriaé,RJ,Sudeste
+4619,Macaé,RJ,Sudeste
+545,Macuco,RJ,Sudeste
+88,Magé,RJ,Sudeste
+263,Mangaratiba,RJ,Sudeste
+523,Maricá,RJ,Sudeste
+186,Mendes,RJ,Sudeste
+80,Mesquita,RJ,Sudeste
+3206,Miguel Pereira,RJ,Sudeste
+4810,Miracema,RJ,Sudeste
+870,Natividade,RJ,Sudeste
+4926,Nilópolis,RJ,Sudeste
+1264,Niterói,RJ,Sudeste
+740,Nova Friburgo,RJ,Sudeste
+1467,Nova Iguaçu,RJ,Sudeste
+4525,Paracambi,RJ,Sudeste
+1214,Paraty,RJ,Sudeste
+1108,Paraíba do Sul,RJ,Sudeste
+578,Paty do Alferes,RJ,Sudeste
+2508,Petrópolis,RJ,Sudeste
+1730,Pinheiral,RJ,Sudeste
+2866,Piraí,RJ,Sudeste
+4300,Porciúncula,RJ,Sudeste
+4206,Porto Real,RJ,Sudeste
+4024,Quatis,RJ,Sudeste
+2278,Queimados,RJ,Sudeste
+28,Quissamã,RJ,Sudeste
+166,Resende,RJ,Sudeste
+5236,Rio Bonito,RJ,Sudeste
+3224,Rio Claro,RJ,Sudeste
+5448,Rio das Flores,RJ,Sudeste
+2154,Rio das Ostras,RJ,Sudeste
+3590,Rio de Janeiro,RJ,Sudeste
+3414,Santa Maria Madalena,RJ,Sudeste
+3003,Santo Antônio de Pádua,RJ,Sudeste
+5078,Sapucaia,RJ,Sudeste
+2443,Saquarema,RJ,Sudeste
+1635,Seropédica,RJ,Sudeste
+1847,Silva Jardim,RJ,Sudeste
+2559,Sumidouro,RJ,Sudeste
+565,São Fidélis,RJ,Sudeste
+312,São Francisco de Itabapoana,RJ,Sudeste
+53,São Gonçalo,RJ,Sudeste
+274,São José de Ubá,RJ,Sudeste
+443,São José do Vale do Rio Preto,RJ,Sudeste
+2774,São João da Barra,RJ,Sudeste
+1237,São João de Meriti,RJ,Sudeste
+1840,São Pedro da Aldeia,RJ,Sudeste
+3756,São Sebastião do Alto,RJ,Sudeste
+1887,Tanguá,RJ,Sudeste
+3759,Teresópolis,RJ,Sudeste
+4280,Trajano de Moraes,RJ,Sudeste
+1076,Três Rios,RJ,Sudeste
+3009,Valença,RJ,Sudeste
+4118,Varre-Sai,RJ,Sudeste
+589,Vassouras,RJ,Sudeste
+1508,Volta Redonda,RJ,Sudeste
+280,Adamantina,SP,Sudeste
+2639,Adolfo,SP,Sudeste
+145,Aguaí,SP,Sudeste
+3231,Agudos,SP,Sudeste
+2817,Alambari,SP,Sudeste
+3866,Alfredo Marcondes,SP,Sudeste
+4078,Altair,SP,Sudeste
+3612,Altinópolis,SP,Sudeste
+3436,Alto Alegre,SP,Sudeste
+3376,Alumínio,SP,Sudeste
+2777,Alvinlândia,SP,Sudeste
+3097,Americana,SP,Sudeste
+1357,Amparo,SP,Sudeste
+1191,Américo Brasiliense,SP,Sudeste
+1023,Américo de Campos,SP,Sudeste
+3596,Analândia,SP,Sudeste
+256,Andradina,SP,Sudeste
+1339,Angatuba,SP,Sudeste
+1943,Anhembi,SP,Sudeste
+3315,Anhumas,SP,Sudeste
+486,Aparecida,SP,Sudeste
+3377,Aparecida d'Oeste,SP,Sudeste
+1381,Apiaí,SP,Sudeste
+2765,Aramina,SP,Sudeste
+5043,Arandu,SP,Sudeste
+1676,Arapeí,SP,Sudeste
+2184,Araraquara,SP,Sudeste
+5390,Araras,SP,Sudeste
+2029,Araçariguama,SP,Sudeste
+4163,Araçatuba,SP,Sudeste
+2976,Araçoiaba da Serra,SP,Sudeste
+3730,Arco-Íris,SP,Sudeste
+2167,Arealva,SP,Sudeste
+413,Areias,SP,Sudeste
+3165,Areiópolis,SP,Sudeste
+2516,Ariranha,SP,Sudeste
+2285,Artur Nogueira,SP,Sudeste
+1559,Arujá,SP,Sudeste
+2611,Aspásia,SP,Sudeste
+3407,Assis,SP,Sudeste
+5261,Atibaia,SP,Sudeste
+4942,Auriflama,SP,Sudeste
+2889,Avanhandava,SP,Sudeste
+1621,Avaré,SP,Sudeste
+975,Avaí,SP,Sudeste
+5542,Bady Bassitt,SP,Sudeste
+1272,Balbinos,SP,Sudeste
+5176,Bananal,SP,Sudeste
+3709,Barbosa,SP,Sudeste
+309,Bariri,SP,Sudeste
+627,Barra Bonita,SP,Sudeste
+1925,Barra do Chapéu,SP,Sudeste
+2415,Barra do Turvo,SP,Sudeste
+2297,Barretos,SP,Sudeste
+3392,Barrinha,SP,Sudeste
+1595,Barueri,SP,Sudeste
+3400,Barão de Antonina,SP,Sudeste
+4087,Bastos,SP,Sudeste
+3337,Batatais,SP,Sudeste
+842,Bauru,SP,Sudeste
+1081,Bebedouro,SP,Sudeste
+2411,Bento de Abreu,SP,Sudeste
+1976,Bernardino de Campos,SP,Sudeste
+855,Bertioga,SP,Sudeste
+5057,Bilac,SP,Sudeste
+386,Birigui,SP,Sudeste
+3683,Biritiba-Mirim,SP,Sudeste
+5015,Boa Esperança do Sul,SP,Sudeste
+3909,Bocaina,SP,Sudeste
+2274,Bofete,SP,Sudeste
+3444,Boituva,SP,Sudeste
+243,Bom Jesus dos Perdões,SP,Sudeste
+2748,Bom Sucesso de Itararé,SP,Sudeste
+2356,Boracéia,SP,Sudeste
+4266,Borborema,SP,Sudeste
+4765,Borebi,SP,Sudeste
+5566,Borá,SP,Sudeste
+4201,Botucatu,SP,Sudeste
+4710,Bragança Paulista,SP,Sudeste
+5191,Braúna,SP,Sudeste
+102,Brejo Alegre,SP,Sudeste
+913,Brodowski,SP,Sudeste
+291,Brotas,SP,Sudeste
+5141,Buri,SP,Sudeste
+2256,Buritama,SP,Sudeste
+1888,Buritizal,SP,Sudeste
+4807,Bálsamo,SP,Sudeste
+3873,Cabreúva,SP,Sudeste
+1276,Cabrália Paulista,SP,Sudeste
+1603,Cachoeira Paulista,SP,Sudeste
+3326,Caconde,SP,Sudeste
+3783,Cafelândia,SP,Sudeste
+3079,Caiabu,SP,Sudeste
+2479,Caieiras,SP,Sudeste
+2644,Caiuá,SP,Sudeste
+1366,Cajamar,SP,Sudeste
+3975,Cajati,SP,Sudeste
+4681,Cajobi,SP,Sudeste
+4174,Cajuru,SP,Sudeste
+4871,Campina do Monte Alegre,SP,Sudeste
+4564,Campinas,SP,Sudeste
+1619,Campo Limpo Paulista,SP,Sudeste
+5488,Campos Novos Paulista,SP,Sudeste
+3966,Campos do Jordão,SP,Sudeste
+5383,Cananéia,SP,Sudeste
+4789,Canas,SP,Sudeste
+2663,Canitar,SP,Sudeste
+1068,Capela do Alto,SP,Sudeste
+106,Capivari,SP,Sudeste
+1601,Capão Bonito,SP,Sudeste
+2026,Caraguatatuba,SP,Sudeste
+1012,Carapicuíba,SP,Sudeste
+4669,Cardoso,SP,Sudeste
+3666,Casa Branca,SP,Sudeste
+1532,Castilho,SP,Sudeste
+3553,Catanduva,SP,Sudeste
+3426,Catiguá,SP,Sudeste
+4282,Caçapava,SP,Sudeste
+2596,Cedral,SP,Sudeste
+2192,Cerqueira César,SP,Sudeste
+1882,Cerquilho,SP,Sudeste
+1591,Cesário Lange,SP,Sudeste
+5349,Charqueada,SP,Sudeste
+1410,Chavantes,SP,Sudeste
+4199,Clementina,SP,Sudeste
+1308,Colina,SP,Sudeste
+1488,Colômbia,SP,Sudeste
+1975,Conchal,SP,Sudeste
+1102,Conchas,SP,Sudeste
+2916,Cordeirópolis,SP,Sudeste
+4039,Coroados,SP,Sudeste
+5252,Coronel Macedo,SP,Sudeste
+2977,Corumbataí,SP,Sudeste
+1015,Cosmorama,SP,Sudeste
+2330,Cosmópolis,SP,Sudeste
+4497,Cotia,SP,Sudeste
+4140,Cravinhos,SP,Sudeste
+4092,Cristais Paulista,SP,Sudeste
+916,Cruzeiro,SP,Sudeste
+2017,Cruzália,SP,Sudeste
+4400,Cubatão,SP,Sudeste
+4445,Cunha,SP,Sudeste
+2199,Cássia dos Coqueiros,SP,Sudeste
+3305,Cândido Mota,SP,Sudeste
+4596,Cândido Rodrigues,SP,Sudeste
+4645,Descalvado,SP,Sudeste
+2474,Diadema,SP,Sudeste
+2752,Dirce Reis,SP,Sudeste
+2948,Divinolândia,SP,Sudeste
+412,Dobrada,SP,Sudeste
+4642,Dois Córregos,SP,Sudeste
+4095,Dolcinópolis,SP,Sudeste
+2831,Dourado,SP,Sudeste
+5053,Dracena,SP,Sudeste
+4076,Duartina,SP,Sudeste
+1181,Dumont,SP,Sudeste
+4408,Echaporã,SP,Sudeste
+3359,Eldorado,SP,Sudeste
+1615,Elias Fausto,SP,Sudeste
+4482,Elisiário,SP,Sudeste
+4318,Embaúba,SP,Sudeste
+4409,Embu das Artes,SP,Sudeste
+3748,Embu-Guaçu,SP,Sudeste
+3734,Emilianópolis,SP,Sudeste
+3560,Engenheiro Coelho,SP,Sudeste
+1523,Espírito Santo do Pinhal,SP,Sudeste
+2601,Espírito Santo do Turvo,SP,Sudeste
+339,Estiva Gerbi,SP,Sudeste
+1679,Estrela d'Oeste,SP,Sudeste
+2433,Estrela do Norte,SP,Sudeste
+751,Euclides da Cunha Paulista,SP,Sudeste
+1317,Fartura,SP,Sudeste
+17,Fernando Prestes,SP,Sudeste
+3370,Fernandópolis,SP,Sudeste
+2323,Fernão,SP,Sudeste
+1190,Ferraz de Vasconcelos,SP,Sudeste
+2252,Flora Rica,SP,Sudeste
+4654,Floreal,SP,Sudeste
+1398,Florínia,SP,Sudeste
+249,Flórida Paulista,SP,Sudeste
+1618,Franca,SP,Sudeste
+1347,Francisco Morato,SP,Sudeste
+1605,Franco da Rocha,SP,Sudeste
+1433,Gabriel Monteiro,SP,Sudeste
+1401,Garça,SP,Sudeste
+1372,Gastão Vidigal,SP,Sudeste
+891,Gavião Peixoto,SP,Sudeste
+4265,General Salgado,SP,Sudeste
+4153,Getulina,SP,Sudeste
+2146,Glicério,SP,Sudeste
+2834,Guaimbê,SP,Sudeste
+3750,Guaiçara,SP,Sudeste
+2754,Guapiara,SP,Sudeste
+2161,Guapiaçu,SP,Sudeste
+1617,Guaraci,SP,Sudeste
+3477,Guarani d'Oeste,SP,Sudeste
+5096,Guarantã,SP,Sudeste
+1694,Guararapes,SP,Sudeste
+3887,Guararema,SP,Sudeste
+426,Guaratinguetá,SP,Sudeste
+3723,Guaraçaí,SP,Sudeste
+652,Guareí,SP,Sudeste
+4212,Guariba,SP,Sudeste
+2172,Guarujá,SP,Sudeste
+1832,Guarulhos,SP,Sudeste
+4437,Guará,SP,Sudeste
+4899,Guatapará,SP,Sudeste
+468,Guaíra,SP,Sudeste
+4288,Guzolândia,SP,Sudeste
+157,Gália,SP,Sudeste
+4119,Herculândia,SP,Sudeste
+1513,Holambra,SP,Sudeste
+432,Hortolândia,SP,Sudeste
+3610,Iacanga,SP,Sudeste
+1584,Iacri,SP,Sudeste
+3939,Iaras,SP,Sudeste
+2267,Ibaté,SP,Sudeste
+4818,Ibirarema,SP,Sudeste
+1640,Ibirá,SP,Sudeste
+645,Ibitinga,SP,Sudeste
+4766,Ibiúna,SP,Sudeste
+2612,Icém,SP,Sudeste
+4120,Iepê,SP,Sudeste
+3582,Igarapava,SP,Sudeste
+2035,Igaratá,SP,Sudeste
+3865,Igaraçu do Tietê,SP,Sudeste
+4560,Iguape,SP,Sudeste
+4229,Ilha Comprida,SP,Sudeste
+2882,Ilha Solteira,SP,Sudeste
+528,Ilhabela,SP,Sudeste
+4824,Indaiatuba,SP,Sudeste
+1195,Indiana,SP,Sudeste
+5033,Indiaporã,SP,Sudeste
+5107,Inúbia Paulista,SP,Sudeste
+710,Ipaussu,SP,Sudeste
+354,Iperó,SP,Sudeste
+2745,Ipeúna,SP,Sudeste
+3791,Ipiguá,SP,Sudeste
+5301,Iporanga,SP,Sudeste
+846,Ipuã,SP,Sudeste
+4275,Iracemápolis,SP,Sudeste
+997,Irapuru,SP,Sudeste
+5548,Irapuã,SP,Sudeste
+4177,Itaberá,SP,Sudeste
+4884,Itajobi,SP,Sudeste
+2337,Itaju,SP,Sudeste
+1794,Itanhaém,SP,Sudeste
+2241,Itapecerica da Serra,SP,Sudeste
+4614,Itapetininga,SP,Sudeste
+985,Itapeva,SP,Sudeste
+563,Itapevi,SP,Sudeste
+561,Itapira,SP,Sudeste
+4956,Itapirapuã Paulista,SP,Sudeste
+3089,Itaporanga,SP,Sudeste
+3010,Itapura,SP,Sudeste
+77,Itapuí,SP,Sudeste
+2798,Itaquaquecetuba,SP,Sudeste
+1207,Itararé,SP,Sudeste
+1806,Itariri,SP,Sudeste
+4117,Itatiba,SP,Sudeste
+365,Itatinga,SP,Sudeste
+3313,Itaí,SP,Sudeste
+2460,Itaóca,SP,Sudeste
+2360,Itirapina,SP,Sudeste
+3846,Itirapuã,SP,Sudeste
+2096,Itobi,SP,Sudeste
+4297,Itu,SP,Sudeste
+3624,Itupeva,SP,Sudeste
+3526,Ituverava,SP,Sudeste
+111,Itápolis,SP,Sudeste
+1505,Jaborandi,SP,Sudeste
+3564,Jaboticabal,SP,Sudeste
+2658,Jacareí,SP,Sudeste
+356,Jaci,SP,Sudeste
+991,Jacupiranga,SP,Sudeste
+1920,Jaguariúna,SP,Sudeste
+3944,Jales,SP,Sudeste
+2353,Jambeiro,SP,Sudeste
+2941,Jandira,SP,Sudeste
+1655,Jardinópolis,SP,Sudeste
+5004,Jarinu,SP,Sudeste
+4640,Jaú,SP,Sudeste
+2724,Jeriquara,SP,Sudeste
+5308,Joanópolis,SP,Sudeste
+1077,José Bonifácio,SP,Sudeste
+3008,João Ramalho,SP,Sudeste
+2470,Jumirim,SP,Sudeste
+3649,Jundiaí,SP,Sudeste
+2500,Junqueirópolis,SP,Sudeste
+1203,Juquitiba,SP,Sudeste
+1998,Juquiá,SP,Sudeste
+3856,Júlio Mesquita,SP,Sudeste
+3628,Lagoinha,SP,Sudeste
+1518,Laranjal Paulista,SP,Sudeste
+778,Lavrinhas,SP,Sudeste
+4017,Lavínia,SP,Sudeste
+159,Leme,SP,Sudeste
+3139,Lençóis Paulista,SP,Sudeste
+1814,Limeira,SP,Sudeste
+4895,Lindóia,SP,Sudeste
+1632,Lins,SP,Sudeste
+834,Lorena,SP,Sudeste
+5481,Lourdes,SP,Sudeste
+3085,Louveira,SP,Sudeste
+3019,Lucianópolis,SP,Sudeste
+2405,Lucélia,SP,Sudeste
+5164,Luiziânia,SP,Sudeste
+5555,Lupércio,SP,Sudeste
+2065,Lutécia,SP,Sudeste
+1178,Luís Antônio,SP,Sudeste
+4740,Macatuba,SP,Sudeste
+3395,Macaubal,SP,Sudeste
+3276,Macedônia,SP,Sudeste
+3959,Magda,SP,Sudeste
+1811,Mairinque,SP,Sudeste
+4902,Mairiporã,SP,Sudeste
+3647,Manduri,SP,Sudeste
+2616,Marabá Paulista,SP,Sudeste
+277,Maracaí,SP,Sudeste
+2922,Marapoama,SP,Sudeste
+1630,Marinópolis,SP,Sudeste
+1793,Mariápolis,SP,Sudeste
+2099,Martinópolis,SP,Sudeste
+2563,Marília,SP,Sudeste
+1711,Matão,SP,Sudeste
+3832,Mauá,SP,Sudeste
+2327,Mendonça,SP,Sudeste
+2457,Meridiano,SP,Sudeste
+2304,Mesópolis,SP,Sudeste
+520,Miguelópolis,SP,Sudeste
+5402,Mineiros do Tietê,SP,Sudeste
+1156,Mira Estrela,SP,Sudeste
+3002,Miracatu,SP,Sudeste
+1034,Mirandópolis,SP,Sudeste
+3415,Mirante do Paranapanema,SP,Sudeste
+539,Mirassol,SP,Sudeste
+877,Mirassolândia,SP,Sudeste
+843,Mococa,SP,Sudeste
+2018,Mogi Guaçu,SP,Sudeste
+1400,Mogi Mirim,SP,Sudeste
+3639,Mogi das Cruzes,SP,Sudeste
+5505,Mombuca,SP,Sudeste
+1698,Mongaguá,SP,Sudeste
+3007,Monte Alegre do Sul,SP,Sudeste
+395,Monte Alto,SP,Sudeste
+192,Monte Aprazível,SP,Sudeste
+2537,Monte Azul Paulista,SP,Sudeste
+4462,Monte Castelo,SP,Sudeste
+3525,Monte Mor,SP,Sudeste
+3187,Monteiro Lobato,SP,Sudeste
+5498,Monções,SP,Sudeste
+1420,Morro Agudo,SP,Sudeste
+3801,Morungaba,SP,Sudeste
+3905,Motuca,SP,Sudeste
+1162,Murutinga do Sul,SP,Sudeste
+5198,Nantes,SP,Sudeste
+384,Narandiba,SP,Sudeste
+3443,Natividade da Serra,SP,Sudeste
+4339,Nazaré Paulista,SP,Sudeste
+730,Neves Paulista,SP,Sudeste
+2665,Nhandeara,SP,Sudeste
+5287,Nipoã,SP,Sudeste
+2924,Nova Aliança,SP,Sudeste
+872,Nova Campina,SP,Sudeste
+3972,Nova Canaã Paulista,SP,Sudeste
+2917,Nova Castilho,SP,Sudeste
+600,Nova Europa,SP,Sudeste
+1771,Nova Granada,SP,Sudeste
+4996,Nova Guataporanga,SP,Sudeste
+1964,Nova Independência,SP,Sudeste
+2458,Nova Luzitânia,SP,Sudeste
+1150,Nova Odessa,SP,Sudeste
+1423,Novais,SP,Sudeste
+454,Novo Horizonte,SP,Sudeste
+605,Nuporanga,SP,Sudeste
+2632,Ocauçu,SP,Sudeste
+5051,Olímpia,SP,Sudeste
+1456,Onda Verde,SP,Sudeste
+1337,Oriente,SP,Sudeste
+2837,Orindiúva,SP,Sudeste
+3665,Orlândia,SP,Sudeste
+4770,Osasco,SP,Sudeste
+4869,Oscar Bressane,SP,Sudeste
+2281,Osvaldo Cruz,SP,Sudeste
+3025,Ourinhos,SP,Sudeste
+1719,Ouro Verde,SP,Sudeste
+1733,Ouroeste,SP,Sudeste
+4733,Pacaembu,SP,Sudeste
+734,Palestina,SP,Sudeste
+3237,Palmares Paulista,SP,Sudeste
+989,Palmeira d'Oeste,SP,Sudeste
+5310,Palmital,SP,Sudeste
+2827,Panorama,SP,Sudeste
+120,Paraguaçu Paulista,SP,Sudeste
+4985,Paraibuna,SP,Sudeste
+1379,Paranapanema,SP,Sudeste
+930,Paranapuã,SP,Sudeste
+3453,Parapuã,SP,Sudeste
+1163,Paraíso,SP,Sudeste
+1558,Pardinho,SP,Sudeste
+1187,Pariquera-Açu,SP,Sudeste
+2796,Parisi,SP,Sudeste
+3793,Patrocínio Paulista,SP,Sudeste
+3145,Paulicéia,SP,Sudeste
+5514,Paulistânia,SP,Sudeste
+4257,Paulo de Faria,SP,Sudeste
+4671,Paulínia,SP,Sudeste
+4459,Pederneiras,SP,Sudeste
+1204,Pedra Bela,SP,Sudeste
+5489,Pedranópolis,SP,Sudeste
+2833,Pedregulho,SP,Sudeste
+343,Pedreira,SP,Sudeste
+4938,Pedrinhas Paulista,SP,Sudeste
+4338,Pedro de Toledo,SP,Sudeste
+2074,Penápolis,SP,Sudeste
+3303,Pereira Barreto,SP,Sudeste
+4334,Pereiras,SP,Sudeste
+1496,Peruíbe,SP,Sudeste
+2832,Piacatu,SP,Sudeste
+1234,Piedade,SP,Sudeste
+893,Pilar do Sul,SP,Sudeste
+2758,Pindamonhangaba,SP,Sudeste
+1968,Pindorama,SP,Sudeste
+4792,Pinhalzinho,SP,Sudeste
+492,Piquerobi,SP,Sudeste
+4658,Piquete,SP,Sudeste
+1239,Piracaia,SP,Sudeste
+2078,Piracicaba,SP,Sudeste
+473,Piraju,SP,Sudeste
+3403,Pirajuí,SP,Sudeste
+4701,Pirangi,SP,Sudeste
+1093,Pirapora do Bom Jesus,SP,Sudeste
+2121,Pirapozinho,SP,Sudeste
+1935,Pirassununga,SP,Sudeste
+3979,Piratininga,SP,Sudeste
+571,Pitangueiras,SP,Sudeste
+5099,Planalto,SP,Sudeste
+898,Platina,SP,Sudeste
+3222,Poloni,SP,Sudeste
+1358,Pompéia,SP,Sudeste
+4313,Pongaí,SP,Sudeste
+3301,Pontal,SP,Sudeste
+2747,Pontalinda,SP,Sudeste
+5283,Pontes Gestal,SP,Sudeste
+5424,Populina,SP,Sudeste
+781,Porangaba,SP,Sudeste
+1654,Porto Feliz,SP,Sudeste
+3365,Porto Ferreira,SP,Sudeste
+1211,Potim,SP,Sudeste
+3404,Potirendaba,SP,Sudeste
+3202,Poá,SP,Sudeste
+1026,Pracinha,SP,Sudeste
+175,Pradópolis,SP,Sudeste
+1878,Praia Grande,SP,Sudeste
+1448,Pratânia,SP,Sudeste
+2803,Presidente Alves,SP,Sudeste
+465,Presidente Bernardes,SP,Sudeste
+1378,Presidente Epitácio,SP,Sudeste
+3279,Presidente Prudente,SP,Sudeste
+1091,Presidente Venceslau,SP,Sudeste
+1404,Promissão,SP,Sudeste
+2319,Quadra,SP,Sudeste
+960,Quatá,SP,Sudeste
+5482,Queiroz,SP,Sudeste
+3983,Queluz,SP,Sudeste
+3229,Quintana,SP,Sudeste
+5348,Rafard,SP,Sudeste
+1800,Rancharia,SP,Sudeste
+1072,Redenção da Serra,SP,Sudeste
+3550,Regente Feijó,SP,Sudeste
+4357,Reginópolis,SP,Sudeste
+172,Registro,SP,Sudeste
+4746,Restinga,SP,Sudeste
+3897,Ribeira,SP,Sudeste
+3671,Ribeirão Bonito,SP,Sudeste
+2424,Ribeirão Branco,SP,Sudeste
+195,Ribeirão Corrente,SP,Sudeste
+5075,Ribeirão Grande,SP,Sudeste
+4722,Ribeirão Pires,SP,Sudeste
+3676,Ribeirão Preto,SP,Sudeste
+1426,Ribeirão do Sul,SP,Sudeste
+357,Ribeirão dos Índios,SP,Sudeste
+3760,Rifaina,SP,Sudeste
+3867,Rincão,SP,Sudeste
+2950,Rinópolis,SP,Sudeste
+4693,Rio Claro,SP,Sudeste
+1672,Rio Grande da Serra,SP,Sudeste
+1270,Rio das Pedras,SP,Sudeste
+2300,Riolândia,SP,Sudeste
+2622,Riversul,SP,Sudeste
+1867,Rosana,SP,Sudeste
+3460,Roseira,SP,Sudeste
+5418,Rubinéia,SP,Sudeste
+2043,Rubiácea,SP,Sudeste
+3080,Sabino,SP,Sudeste
+785,Sagres,SP,Sudeste
+4570,Sales,SP,Sudeste
+3602,Sales Oliveira,SP,Sudeste
+3383,Salesópolis,SP,Sudeste
+4404,Salmourão,SP,Sudeste
+2698,Saltinho,SP,Sudeste
+1229,Salto,SP,Sudeste
+741,Salto Grande,SP,Sudeste
+3588,Salto de Pirapora,SP,Sudeste
+3546,Sandovalina,SP,Sudeste
+4736,Santa Adélia,SP,Sudeste
+2331,Santa Albertina,SP,Sudeste
+5492,Santa Branca,SP,Sudeste
+496,Santa Bárbara d'Oeste,SP,Sudeste
+2714,Santa Clara d'Oeste,SP,Sudeste
+4945,Santa Cruz da Conceição,SP,Sudeste
+439,Santa Cruz da Esperança,SP,Sudeste
+757,Santa Cruz das Palmeiras,SP,Sudeste
+3063,Santa Cruz do Rio Pardo,SP,Sudeste
+5511,Santa Ernestina,SP,Sudeste
+3558,Santa Fé do Sul,SP,Sudeste
+4992,Santa Gertrudes,SP,Sudeste
+1893,Santa Isabel,SP,Sudeste
+1292,Santa Lúcia,SP,Sudeste
+4124,Santa Maria da Serra,SP,Sudeste
+3180,Santa Mercedes,SP,Sudeste
+2057,Santa Rita d'Oeste,SP,Sudeste
+82,Santa Rita do Passa Quatro,SP,Sudeste
+994,Santa Rosa de Viterbo,SP,Sudeste
+4392,Santa Salete,SP,Sudeste
+1445,Santana da Ponte Pensa,SP,Sudeste
+1795,Santana de Parnaíba,SP,Sudeste
+66,Santo Anastácio,SP,Sudeste
+3545,Santo André,SP,Sudeste
+3251,Santo Antônio da Alegria,SP,Sudeste
+1238,Santo Antônio de Posse,SP,Sudeste
+2780,Santo Antônio do Aracanguá,SP,Sudeste
+3978,Santo Antônio do Jardim,SP,Sudeste
+671,Santo Antônio do Pinhal,SP,Sudeste
+4401,Santo Expedito,SP,Sudeste
+1723,Santos,SP,Sudeste
+682,Santópolis do Aguapeí,SP,Sudeste
+4360,Sarapuí,SP,Sudeste
+1258,Sarutaiá,SP,Sudeste
+1561,Sebastianópolis do Sul,SP,Sudeste
+9,Serra Azul,SP,Sudeste
+4172,Serra Negra,SP,Sudeste
+1037,Serrana,SP,Sudeste
+422,Sertãozinho,SP,Sudeste
+2525,Sete Barras,SP,Sudeste
+2740,Severínia,SP,Sudeste
+4907,Silveiras,SP,Sudeste
+370,Socorro,SP,Sudeste
+2576,Sorocaba,SP,Sudeste
+3238,Sud Mennucci,SP,Sudeste
+1164,Sumaré,SP,Sudeste
+4735,Suzano,SP,Sudeste
+2854,Suzanápolis,SP,Sudeste
+3093,São Bento do Sapucaí,SP,Sudeste
+1734,São Bernardo do Campo,SP,Sudeste
+3064,São Caetano do Sul,SP,Sudeste
+2652,São Carlos,SP,Sudeste
+4908,São Francisco,SP,Sudeste
+4211,São Joaquim da Barra,SP,Sudeste
+5247,São José da Bela Vista,SP,Sudeste
+5450,São José do Barreiro,SP,Sudeste
+1527,São José do Rio Pardo,SP,Sudeste
+1245,São José do Rio Preto,SP,Sudeste
+349,São José dos Campos,SP,Sudeste
+3517,São João da Boa Vista,SP,Sudeste
+3922,São João das Duas Pontes,SP,Sudeste
+3811,São João de Iracema,SP,Sudeste
+3431,São João do Pau d'Alho,SP,Sudeste
+5,São Lourenço da Serra,SP,Sudeste
+914,São Luís do Paraitinga,SP,Sudeste
+224,São Manuel,SP,Sudeste
+2773,São Miguel Arcanjo,SP,Sudeste
+2242,São Paulo,SP,Sudeste
+174,São Pedro,SP,Sudeste
+811,São Pedro do Turvo,SP,Sudeste
+1543,São Roque,SP,Sudeste
+2214,São Sebastião,SP,Sudeste
+3322,São Sebastião da Grama,SP,Sudeste
+5269,São Simão,SP,Sudeste
+2094,São Vicente,SP,Sudeste
+3575,Tabapuã,SP,Sudeste
+4550,Tabatinga,SP,Sudeste
+4541,Taboão da Serra,SP,Sudeste
+805,Taciba,SP,Sudeste
+2814,Taguaí,SP,Sudeste
+2685,Taiaçu,SP,Sudeste
+4625,Taiúva,SP,Sudeste
+1911,Tambaú,SP,Sudeste
+2700,Tanabi,SP,Sudeste
+5125,Tapiratiba,SP,Sudeste
+3642,Tapiraí,SP,Sudeste
+4089,Taquaral,SP,Sudeste
+3476,Taquaritinga,SP,Sudeste
+466,Taquarituba,SP,Sudeste
+2571,Taquarivaí,SP,Sudeste
+2106,Tarabai,SP,Sudeste
+4496,Tarumã,SP,Sudeste
+4354,Tatuí,SP,Sudeste
+3287,Taubaté,SP,Sudeste
+5429,Tejupá,SP,Sudeste
+227,Teodoro Sampaio,SP,Sudeste
+58,Terra Roxa,SP,Sudeste
+597,Tietê,SP,Sudeste
+4345,Timburi,SP,Sudeste
+4751,Torre de Pedra,SP,Sudeste
+5012,Torrinha,SP,Sudeste
+3429,Trabiju,SP,Sudeste
+1866,Tremembé,SP,Sudeste
+1054,Três Fronteiras,SP,Sudeste
+5229,Tuiuti,SP,Sudeste
+2610,Tupi Paulista,SP,Sudeste
+2193,Tupã,SP,Sudeste
+3828,Turiúba,SP,Sudeste
+4694,Turmalina,SP,Sudeste
+1449,Ubarana,SP,Sudeste
+3123,Ubatuba,SP,Sudeste
+4072,Ubirajara,SP,Sudeste
+4009,Uchoa,SP,Sudeste
+3482,União Paulista,SP,Sudeste
+5019,Uru,SP,Sudeste
+2707,Urupês,SP,Sudeste
+2901,Urânia,SP,Sudeste
+134,Valentim Gentil,SP,Sudeste
+1999,Valinhos,SP,Sudeste
+3565,Valparaíso,SP,Sudeste
+5120,Vargem,SP,Sudeste
+2365,Vargem Grande Paulista,SP,Sudeste
+22,Vargem Grande do Sul,SP,Sudeste
+910,Vera Cruz,SP,Sudeste
+1901,Vinhedo,SP,Sudeste
+2491,Viradouro,SP,Sudeste
+2661,Vista Alegre do Alto,SP,Sudeste
+820,Vitória Brasil,SP,Sudeste
+1069,Votorantim,SP,Sudeste
+896,Votuporanga,SP,Sudeste
+2004,Várzea Paulista,SP,Sudeste
+3740,Zacarias,SP,Sudeste
+1111,Águas da Prata,SP,Sudeste
+480,Águas de Lindóia,SP,Sudeste
+2782,Águas de Santa Bárbara,SP,Sudeste
+724,Águas de São Pedro,SP,Sudeste
+2579,Álvares Florence,SP,Sudeste
+3190,Álvares Machado,SP,Sudeste
+1530,Álvaro de Carvalho,SP,Sudeste
+1326,Óleo,SP,Sudeste
+1066,Abatiá,PR,Sul
+3335,Adrianópolis,PR,Sul
+2819,Agudos do Sul,PR,Sul
+3137,Almirante Tamandaré,PR,Sul
+5093,Altamira do Paraná,PR,Sul
+4069,Alto Paraná,PR,Sul
+726,Alto Paraíso,PR,Sul
+2015,Alto Piquiri,PR,Sul
+2527,Altônia,PR,Sul
+1350,Alvorada do Sul,PR,Sul
+4910,Amaporã,PR,Sul
+5138,Ampére,PR,Sul
+3215,Anahy,PR,Sul
+1303,Andirá,PR,Sul
+5356,Antonina,PR,Sul
+3679,Antônio Olinto,PR,Sul
+3361,Apucarana,PR,Sul
+3515,Arapongas,PR,Sul
+40,Arapoti,PR,Sul
+48,Arapuã,PR,Sul
+316,Araruna,PR,Sul
+1331,Araucária,PR,Sul
+119,Ariranha do Ivaí,PR,Sul
+4316,Assaí,PR,Sul
+760,Assis Chateaubriand,PR,Sul
+279,Astorga,PR,Sul
+2333,Atalaia,PR,Sul
+3767,Balsa Nova,PR,Sul
+251,Bandeirantes,PR,Sul
+959,Barbosa Ferraz,PR,Sul
+5399,Barra do Jacaré,PR,Sul
+4912,Barracão,PR,Sul
+3212,Bela Vista da Caroba,PR,Sul
+2867,Bela Vista do Paraíso,PR,Sul
+2781,Bituruna,PR,Sul
+3561,Boa Esperança,PR,Sul
+1639,Boa Esperança do Iguaçu,PR,Sul
+5256,Boa Ventura de São Roque,PR,Sul
+96,Boa Vista da Aparecida,PR,Sul
+72,Bocaiúva do Sul,PR,Sul
+1761,Bom Jesus do Sul,PR,Sul
+1877,Bom Sucesso,PR,Sul
+1257,Bom Sucesso do Sul,PR,Sul
+2461,Borrazópolis,PR,Sul
+3774,Braganey,PR,Sul
+5156,Brasilândia do Sul,PR,Sul
+2459,Cafeara,PR,Sul
+5513,Cafelândia,PR,Sul
+5320,Cafezal do Sul,PR,Sul
+266,Califórnia,PR,Sul
+4483,Cambará,PR,Sul
+3513,Cambira,PR,Sul
+1620,Cambé,PR,Sul
+3669,Campina Grande do Sul,PR,Sul
+2021,Campina da Lagoa,PR,Sul
+5072,Campina do Simão,PR,Sul
+5213,Campo Bonito,PR,Sul
+3672,Campo Largo,PR,Sul
+143,Campo Magro,PR,Sul
+4680,Campo Mourão,PR,Sul
+116,Campo do Tenente,PR,Sul
+3086,Candói,PR,Sul
+2633,Cantagalo,PR,Sul
+2795,Capanema,PR,Sul
+3023,Capitão Leônidas Marques,PR,Sul
+3836,Carambeí,PR,Sul
+1622,Carlópolis,PR,Sul
+3291,Cascavel,PR,Sul
+2567,Castro,PR,Sul
+4248,Catanduvas,PR,Sul
+4267,Centenário do Sul,PR,Sul
+2741,Cerro Azul,PR,Sul
+304,Chopinzinho,PR,Sul
+1583,Cianorte,PR,Sul
+4160,Cidade Gaúcha,PR,Sul
+3092,Clevelândia,PR,Sul
+283,Colombo,PR,Sul
+3889,Colorado,PR,Sul
+3483,Congonhinhas,PR,Sul
+2432,Conselheiro Mairinck,PR,Sul
+5245,Contenda,PR,Sul
+5187,Corbélia,PR,Sul
+2840,Cornélio Procópio,PR,Sul
+816,Coronel Domingos Soares,PR,Sul
+369,Coronel Vivida,PR,Sul
+2125,Corumbataí do Sul,PR,Sul
+377,Cruz Machado,PR,Sul
+3112,Cruzeiro do Iguaçu,PR,Sul
+1391,Cruzeiro do Oeste,PR,Sul
+702,Cruzeiro do Sul,PR,Sul
+2735,Cruzmaltina,PR,Sul
+3508,Curitiba,PR,Sul
+3464,Curiúva,PR,Sul
+2456,Cândido de Abreu,PR,Sul
+3834,Céu Azul,PR,Sul
+4983,Diamante D'Oeste,PR,Sul
+1812,Diamante do Norte,PR,Sul
+828,Diamante do Sul,PR,Sul
+2912,Dois Vizinhos,PR,Sul
+3148,Douradina,PR,Sul
+687,Doutor Camargo,PR,Sul
+2993,Doutor Ulysses,PR,Sul
+406,Engenheiro Beltrão,PR,Sul
+1851,Entre Rios do Oeste,PR,Sul
+2956,Enéas Marques,PR,Sul
+5001,Esperança Nova,PR,Sul
+2104,Espigão Alto do Iguaçu,PR,Sul
+1858,Farol,PR,Sul
+684,Faxinal,PR,Sul
+2630,Fazenda Rio Grande,PR,Sul
+1556,Fernandes Pinheiro,PR,Sul
+4042,Figueira,PR,Sul
+3603,Flor da Serra do Sul,PR,Sul
+4438,Floraí,PR,Sul
+2264,Floresta,PR,Sul
+4819,Florestópolis,PR,Sul
+5082,Flórida,PR,Sul
+3576,Formosa do Oeste,PR,Sul
+2262,Foz do Iguaçu,PR,Sul
+336,Foz do Jordão,PR,Sul
+1572,Francisco Alves,PR,Sul
+1167,Francisco Beltrão,PR,Sul
+4927,Fênix,PR,Sul
+450,General Carneiro,PR,Sul
+4858,Godoy Moreira,PR,Sul
+3868,Goioerê,PR,Sul
+818,Goioxim,PR,Sul
+2851,Grandes Rios,PR,Sul
+1215,Guairaçá,PR,Sul
+5275,Guamiranga,PR,Sul
+827,Guapirama,PR,Sul
+3252,Guaporema,PR,Sul
+4925,Guaraci,PR,Sul
+4584,Guaraniaçu,PR,Sul
+3711,Guarapuava,PR,Sul
+4580,Guaraqueçaba,PR,Sul
+1808,Guaratuba,PR,Sul
+1541,Guaíra,PR,Sul
+2188,Honório Serpa,PR,Sul
+1629,Ibaiti,PR,Sul
+435,Ibema,PR,Sul
+3328,Ibiporã,PR,Sul
+2676,Icaraíma,PR,Sul
+429,Iguaraçu,PR,Sul
+2994,Iguatu,PR,Sul
+2865,Imbaú,PR,Sul
+937,Imbituva,PR,Sul
+4283,Inajá,PR,Sul
+3163,Indianópolis,PR,Sul
+1469,Inácio Martins,PR,Sul
+419,Ipiranga,PR,Sul
+3418,Iporã,PR,Sul
+3253,Iracema do Oeste,PR,Sul
+3319,Irati,PR,Sul
+1969,Iretama,PR,Sul
+1916,Itaguajé,PR,Sul
+2712,Itaipulândia,PR,Sul
+2940,Itambaracá,PR,Sul
+347,Itambé,PR,Sul
+4371,Itapejara d'Oeste,PR,Sul
+3690,Itaperuçu,PR,Sul
+3459,Itaúna do Sul,PR,Sul
+3072,Ivaiporã,PR,Sul
+2760,Ivatuba,PR,Sul
+888,Ivaté,PR,Sul
+5306,Ivaí,PR,Sul
+514,Jaboti,PR,Sul
+657,Jacarezinho,PR,Sul
+1956,Jaguapitã,PR,Sul
+3088,Jaguariaíva,PR,Sul
+3630,Jandaia do Sul,PR,Sul
+74,Janiópolis,PR,Sul
+1592,Japira,PR,Sul
+148,Japurá,PR,Sul
+1712,Jardim Alegre,PR,Sul
+4597,Jardim Olinda,PR,Sul
+69,Jataizinho,PR,Sul
+5134,Jesuítas,PR,Sul
+5394,Joaquim Távora,PR,Sul
+1896,Jundiaí do Sul,PR,Sul
+2797,Juranda,PR,Sul
+2759,Jussara,PR,Sul
+2063,Kaloré,PR,Sul
+5381,Lapa,PR,Sul
+3512,Laranjal,PR,Sul
+3288,Laranjeiras do Sul,PR,Sul
+1453,Leópolis,PR,Sul
+4806,Lidianópolis,PR,Sul
+1009,Lindoeste,PR,Sul
+4299,Loanda,PR,Sul
+2233,Lobato,PR,Sul
+4600,Londrina,PR,Sul
+715,Luiziana,PR,Sul
+4077,Lunardelli,PR,Sul
+4149,Lupionópolis,PR,Sul
+4761,Mallet,PR,Sul
+616,Mamborê,PR,Sul
+5289,Mandaguari,PR,Sul
+3150,Mandaguaçu,PR,Sul
+4130,Mandirituba,PR,Sul
+4679,Manfrinópolis,PR,Sul
+1610,Mangueirinha,PR,Sul
+5167,Manoel Ribas,PR,Sul
+976,Marechal Cândido Rondon,PR,Sul
+1821,Maria Helena,PR,Sul
+1494,Marialva,PR,Sul
+3963,Marilena,PR,Sul
+3587,Mariluz,PR,Sul
+5131,Marilândia do Sul,PR,Sul
+942,Maringá,PR,Sul
+2960,Maripá,PR,Sul
+20,Mariópolis,PR,Sul
+3696,Marmeleiro,PR,Sul
+4270,Marquinho,PR,Sul
+294,Marumbi,PR,Sul
+779,Matelândia,PR,Sul
+4027,Matinhos,PR,Sul
+4273,Mato Rico,PR,Sul
+3283,Mauá da Serra,PR,Sul
+875,Medianeira,PR,Sul
+3938,Mercedes,PR,Sul
+617,Mirador,PR,Sul
+2055,Miraselva,PR,Sul
+4604,Missal,PR,Sul
+3981,Moreira Sales,PR,Sul
+31,Morretes,PR,Sul
+4814,Munhoz de Melo,PR,Sul
+4393,Nossa Senhora das Graças,PR,Sul
+1324,Nova Aliança do Ivaí,PR,Sul
+2186,Nova América da Colina,PR,Sul
+3706,Nova Aurora,PR,Sul
+5119,Nova Cantu,PR,Sul
+4489,Nova Esperança,PR,Sul
+768,Nova Esperança do Sudoeste,PR,Sul
+2478,Nova Fátima,PR,Sul
+2225,Nova Laranjeiras,PR,Sul
+4498,Nova Londrina,PR,Sul
+823,Nova Olímpia,PR,Sul
+1355,Nova Prata do Iguaçu,PR,Sul
+1966,Nova Santa Bárbara,PR,Sul
+4080,Nova Santa Rosa,PR,Sul
+1965,Nova Tebas,PR,Sul
+963,Novo Itacolomi,PR,Sul
+498,Ortigueira,PR,Sul
+3923,Ourizona,PR,Sul
+4994,Ouro Verde do Oeste,PR,Sul
+2506,Paiçandu,PR,Sul
+772,Palmas,PR,Sul
+694,Palmeira,PR,Sul
+3698,Palmital,PR,Sul
+2247,Palotina,PR,Sul
+1236,Paranacity,PR,Sul
+3788,Paranaguá,PR,Sul
+2129,Paranapoema,PR,Sul
+3045,Paranavaí,PR,Sul
+912,Paraíso do Norte,PR,Sul
+1930,Pato Bragado,PR,Sul
+1438,Pato Branco,PR,Sul
+1123,Paula Freitas,PR,Sul
+3161,Paulo Frontin,PR,Sul
+4554,Peabiru,PR,Sul
+2711,Perobal,PR,Sul
+576,Pinhais,PR,Sul
+5398,Pinhal de São Bento,PR,Sul
+86,Pinhalão,PR,Sul
+3745,Pinhão,PR,Sul
+851,Piraquara,PR,Sul
+4712,Piraí do Sul,PR,Sul
+1262,Pitanga,PR,Sul
+3898,Pitangueiras,PR,Sul
+1013,Piên,PR,Sul
+383,Planaltina do Paraná,PR,Sul
+404,Planalto,PR,Sul
+185,Ponta Grossa,PR,Sul
+2938,Pontal do Paraná,PR,Sul
+3697,Porecatu,PR,Sul
+3613,Porto Amazonas,PR,Sul
+4728,Porto Barreiro,PR,Sul
+1213,Porto Rico,PR,Sul
+3228,Porto Vitória,PR,Sul
+5042,Prado Ferreira,PR,Sul
+810,Pranchita,PR,Sul
+3246,Presidente Castelo Branco,PR,Sul
+1677,Primeiro de Maio,PR,Sul
+3746,Prudentópolis,PR,Sul
+67,Pérola,PR,Sul
+4849,Pérola d'Oeste,PR,Sul
+4713,Quarto Centenário,PR,Sul
+2717,Quatiguá,PR,Sul
+575,Quatro Barras,PR,Sul
+788,Quatro Pontes,PR,Sul
+3915,Quedas do Iguaçu,PR,Sul
+5086,Querência do Norte,PR,Sul
+5406,Quinta do Sol,PR,Sul
+5193,Quitandinha,PR,Sul
+4098,Ramilândia,PR,Sul
+3413,Rancho Alegre,PR,Sul
+4263,Rancho Alegre D'Oeste,PR,Sul
+1240,Realeza,PR,Sul
+1394,Rebouças,PR,Sul
+3675,Renascença,PR,Sul
+117,Reserva,PR,Sul
+297,Reserva do Iguaçu,PR,Sul
+3430,Ribeirão Claro,PR,Sul
+4918,Ribeirão do Pinhal,PR,Sul
+3098,Rio Azul,PR,Sul
+4040,Rio Bom,PR,Sul
+5241,Rio Bonito do Iguaçu,PR,Sul
+667,Rio Branco do Ivaí,PR,Sul
+2425,Rio Branco do Sul,PR,Sul
+1,Rio Negro,PR,Sul
+863,Rolândia,PR,Sul
+4204,Roncador,PR,Sul
+3779,Rondon,PR,Sul
+5472,Rosário do Ivaí,PR,Sul
+4218,Sabáudia,PR,Sul
+494,Salgado Filho,PR,Sul
+2246,Salto do Itararé,PR,Sul
+2230,Salto do Lontra,PR,Sul
+1407,Santa Amélia,PR,Sul
+2952,Santa Cecília do Pavão,PR,Sul
+1098,Santa Cruz de Monte Castelo,PR,Sul
+380,Santa Fé,PR,Sul
+4723,Santa Helena,PR,Sul
+3505,Santa Inês,PR,Sul
+3380,Santa Isabel do Ivaí,PR,Sul
+632,Santa Izabel do Oeste,PR,Sul
+5062,Santa Lúcia,PR,Sul
+1525,Santa Maria do Oeste,PR,Sul
+2507,Santa Mariana,PR,Sul
+1106,Santa Mônica,PR,Sul
+3554,Santa Tereza do Oeste,PR,Sul
+4752,Santa Terezinha de Itaipu,PR,Sul
+1177,Santana do Itararé,PR,Sul
+150,Santo Antônio da Platina,PR,Sul
+5345,Santo Antônio do Caiuá,PR,Sul
+2855,Santo Antônio do Paraíso,PR,Sul
+162,Santo Antônio do Sudoeste,PR,Sul
+5132,Santo Inácio,PR,Sul
+874,Sapopema,PR,Sul
+2311,Sarandi,PR,Sul
+4546,Saudade do Iguaçu,PR,Sul
+3607,Sengés,PR,Sul
+4281,Serranópolis do Iguaçu,PR,Sul
+3434,Sertaneja,PR,Sul
+4720,Sertanópolis,PR,Sul
+5069,Siqueira Campos,PR,Sul
+1132,Sulina,PR,Sul
+2162,São Carlos do Ivaí,PR,Sul
+3657,São Jerônimo da Serra,PR,Sul
+4240,São Jorge d'Oeste,PR,Sul
+4455,São Jorge do Ivaí,PR,Sul
+4601,São Jorge do Patrocínio,PR,Sul
+341,São José da Boa Vista,PR,Sul
+3138,São José das Palmeiras,PR,Sul
+4610,São José dos Pinhais,PR,Sul
+1226,São João,PR,Sul
+3824,São João do Caiuá,PR,Sul
+3908,São João do Ivaí,PR,Sul
+3189,São João do Triunfo,PR,Sul
+2608,São Manoel do Paraná,PR,Sul
+1593,São Mateus do Sul,PR,Sul
+824,São Miguel do Iguaçu,PR,Sul
+2213,São Pedro do Iguaçu,PR,Sul
+1336,São Pedro do Ivaí,PR,Sul
+742,São Pedro do Paraná,PR,Sul
+4959,São Sebastião da Amoreira,PR,Sul
+133,São Tomé,PR,Sul
+2205,Tamarana,PR,Sul
+1085,Tamboara,PR,Sul
+873,Tapejara,PR,Sul
+2645,Tapira,PR,Sul
+2602,Teixeira Soares,PR,Sul
+707,Telêmaco Borba,PR,Sul
+587,Terra Boa,PR,Sul
+1977,Terra Rica,PR,Sul
+4659,Terra Roxa,PR,Sul
+3372,Tibagi,PR,Sul
+1079,Tijucas do Sul,PR,Sul
+1646,Toledo,PR,Sul
+284,Tomazina,PR,Sul
+692,Três Barras do Paraná,PR,Sul
+4877,Tunas do Paraná,PR,Sul
+5354,Tuneiras do Oeste,PR,Sul
+3341,Tupãssi,PR,Sul
+5552,Turvo,PR,Sul
+1115,Ubiratã,PR,Sul
+2040,Umuarama,PR,Sul
+4804,Uniflor,PR,Sul
+330,União da Vitória,PR,Sul
+986,Uraí,PR,Sul
+147,Ventania,PR,Sul
+2562,Vera Cruz do Oeste,PR,Sul
+3468,Verê,PR,Sul
+1741,Virmond,PR,Sul
+1638,Vitorino,PR,Sul
+782,Wenceslau Braz,PR,Sul
+540,Xambrê,PR,Sul
+1035,Ângulo,PR,Sul
+3860,Aceguá,RS,Sul
+5233,Agudo,RS,Sul
+1432,Ajuricaba,RS,Sul
+132,Alecrim,RS,Sul
+452,Alegrete,RS,Sul
+3661,Alegria,RS,Sul
+1576,Almirante Tamandaré do Sul,RS,Sul
+398,Alpestre,RS,Sul
+3609,Alto Alegre,RS,Sul
+1889,Alto Feliz,RS,Sul
+1221,Alvorada,RS,Sul
+2919,Amaral Ferrador,RS,Sul
+2103,Ametista do Sul,RS,Sul
+3757,André da Rocha,RS,Sul
+5046,Anta Gorda,RS,Sul
+3200,Antônio Prado,RS,Sul
+3272,Arambaré,RS,Sul
+322,Araricá,RS,Sul
+1083,Aratiba,RS,Sul
+4475,Arroio Grande,RS,Sul
+3223,Arroio do Meio,RS,Sul
+766,Arroio do Padre,RS,Sul
+2828,Arroio do Sal,RS,Sul
+5240,Arroio do Tigre,RS,Sul
+3765,Arroio dos Ratos,RS,Sul
+4394,Arvorezinha,RS,Sul
+3344,Augusto Pestana,RS,Sul
+4835,Bagé,RS,Sul
+4852,Balneário Pinhal,RS,Sul
+3953,Barra Funda,RS,Sul
+4800,Barra do Guarita,RS,Sul
+5530,Barra do Quaraí,RS,Sul
+3965,Barra do Ribeiro,RS,Sul
+1942,Barra do Rio Azul,RS,Sul
+3083,Barracão,RS,Sul
+225,Barros Cassal,RS,Sul
+5431,Barão,RS,Sul
+1567,Barão de Cotegipe,RS,Sul
+4492,Barão do Triunfo,RS,Sul
+1294,Benjamin Constant do Sul,RS,Sul
+3051,Bento Gonçalves,RS,Sul
+5190,Boa Vista das Missões,RS,Sul
+2418,Boa Vista do Buricá,RS,Sul
+3645,Boa Vista do Cadeado,RS,Sul
+2223,Boa Vista do Incra,RS,Sul
+4194,Boa Vista do Sul,RS,Sul
+5205,Bom Jesus,RS,Sul
+1322,Bom Princípio,RS,Sul
+3948,Bom Progresso,RS,Sul
+2282,Bom Retiro do Sul,RS,Sul
+2347,Boqueirão do Leão,RS,Sul
+1006,Bossoroca,RS,Sul
+144,Bozano,RS,Sul
+2575,Braga,RS,Sul
+2314,Brochier,RS,Sul
+1482,Butiá,RS,Sul
+3619,Cacequi,RS,Sul
+648,Cachoeira do Sul,RS,Sul
+500,Cachoeirinha,RS,Sul
+4847,Cacique Doble,RS,Sul
+5346,Caibaté,RS,Sul
+2689,Caiçara,RS,Sul
+3968,Camaquã,RS,Sul
+1871,Camargo,RS,Sul
+4066,Cambará do Sul,RS,Sul
+3752,Campestre da Serra,RS,Sul
+3717,Campina das Missões,RS,Sul
+4576,Campinas do Sul,RS,Sul
+474,Campo Bom,RS,Sul
+1147,Campo Novo,RS,Sul
+2107,Campos Borges,RS,Sul
+5510,Candelária,RS,Sul
+340,Candiota,RS,Sul
+1714,Canela,RS,Sul
+315,Canguçu,RS,Sul
+1857,Canoas,RS,Sul
+3493,Canudos do Vale,RS,Sul
+2987,Capela de Santana,RS,Sul
+4771,Capitão,RS,Sul
+204,Capivari do Sul,RS,Sul
+1599,Capão Bonito do Sul,RS,Sul
+1627,Capão da Canoa,RS,Sul
+1914,Capão do Cipó,RS,Sul
+2788,Capão do Leão,RS,Sul
+4571,Carazinho,RS,Sul
+3119,Caraá,RS,Sul
+3136,Carlos Barbosa,RS,Sul
+2032,Carlos Gomes,RS,Sul
+2853,Casca,RS,Sul
+3530,Caseiros,RS,Sul
+4276,Catuípe,RS,Sul
+2998,Caxias do Sul,RS,Sul
+1353,Caçapava do Sul,RS,Sul
+3741,Centenário,RS,Sul
+4224,Cerrito,RS,Sul
+4128,Cerro Branco,RS,Sul
+3374,Cerro Grande,RS,Sul
+3627,Cerro Grande do Sul,RS,Sul
+2897,Cerro Largo,RS,Sul
+19,Chapada,RS,Sul
+3185,Charqueadas,RS,Sul
+1354,Charrua,RS,Sul
+39,Chiapetta,RS,Sul
+4253,Chuvisca,RS,Sul
+2809,Chuí,RS,Sul
+1126,Cidreira,RS,Sul
+1829,Ciríaco,RS,Sul
+4481,Colinas,RS,Sul
+5111,Colorado,RS,Sul
+619,Condor,RS,Sul
+2731,Constantina,RS,Sul
+4583,Coqueiro Baixo,RS,Sul
+2779,Coqueiros do Sul,RS,Sul
+1252,Coronel Barros,RS,Sul
+4848,Coronel Bicaco,RS,Sul
+4855,Coronel Pilar,RS,Sul
+5460,Cotiporã,RS,Sul
+239,Coxilha,RS,Sul
+1948,Crissiumal,RS,Sul
+4555,Cristal,RS,Sul
+4743,Cristal do Sul,RS,Sul
+1312,Cruz Alta,RS,Sul
+495,Cruzaltense,RS,Sul
+4944,Cruzeiro do Sul,RS,Sul
+3354,Cândido Godói,RS,Sul
+2047,David Canabarro,RS,Sul
+964,Derrubadas,RS,Sul
+226,Dezesseis de Novembro,RS,Sul
+5491,Dilermando de Aguiar,RS,Sul
+4414,Dois Irmãos,RS,Sul
+2465,Dois Irmãos das Missões,RS,Sul
+177,Dois Lajeados,RS,Sul
+421,Dom Feliciano,RS,Sul
+2079,Dom Pedrito,RS,Sul
+2980,Dom Pedro de Alcântara,RS,Sul
+4243,Dona Francisca,RS,Sul
+2270,Doutor Maurício Cardoso,RS,Sul
+941,Doutor Ricardo,RS,Sul
+2316,Eldorado do Sul,RS,Sul
+1375,Encantado,RS,Sul
+626,Encruzilhada do Sul,RS,Sul
+966,Engenho Velho,RS,Sul
+2326,Entre Rios do Sul,RS,Sul
+3789,Entre-Ijuís,RS,Sul
+3710,Erebango,RS,Sul
+4003,Erechim,RS,Sul
+3853,Ernestina,RS,Sul
+1710,Erval Grande,RS,Sul
+1860,Erval Seco,RS,Sul
+1124,Esmeralda,RS,Sul
+4115,Esperança do Sul,RS,Sul
+52,Espumoso,RS,Sul
+2421,Estação,RS,Sul
+1232,Esteio,RS,Sul
+2995,Estrela,RS,Sul
+4968,Estrela Velha,RS,Sul
+2531,Estância Velha,RS,Sul
+5528,Eugênio de Castro,RS,Sul
+1231,Fagundes Varela,RS,Sul
+4418,Farroupilha,RS,Sul
+614,Faxinal do Soturno,RS,Sul
+1283,Faxinalzinho,RS,Sul
+3371,Fazenda Vilanova,RS,Sul
+696,Feliz,RS,Sul
+2112,Flores da Cunha,RS,Sul
+2257,Floriano Peixoto,RS,Sul
+1949,Fontoura Xavier,RS,Sul
+1705,Formigueiro,RS,Sul
+221,Forquetinha,RS,Sul
+5529,Fortaleza dos Valos,RS,Sul
+2022,Frederico Westphalen,RS,Sul
+5495,Garibaldi,RS,Sul
+5034,Garruchos,RS,Sul
+5171,Gaurama,RS,Sul
+2497,General Câmara,RS,Sul
+775,Gentil,RS,Sul
+3725,Getúlio Vargas,RS,Sul
+5521,Giruá,RS,Sul
+5175,Glorinha,RS,Sul
+1067,Gramado,RS,Sul
+4032,Gramado Xavier,RS,Sul
+5201,Gramado dos Loureiros,RS,Sul
+1020,Gravataí,RS,Sul
+1105,Guabiju,RS,Sul
+5227,Guaporé,RS,Sul
+410,Guarani das Missões,RS,Sul
+4552,Guaíba,RS,Sul
+3146,Harmonia,RS,Sul
+4808,Herval,RS,Sul
+5265,Herveiras,RS,Sul
+763,Horizontina,RS,Sul
+4670,Hulha Negra,RS,Sul
+5559,Humaitá,RS,Sul
+3172,Ibarama,RS,Sul
+4980,Ibiaçá,RS,Sul
+2965,Ibiraiaras,RS,Sul
+5503,Ibirapuitã,RS,Sul
+2240,Ibirubá,RS,Sul
+4989,Igrejinha,RS,Sul
+4081,Ijuí,RS,Sul
+1588,Ilópolis,RS,Sul
+2999,Imbé,RS,Sul
+2336,Imigrante,RS,Sul
+3987,Independência,RS,Sul
+4293,Inhacorá,RS,Sul
+4460,Ipiranga do Sul,RS,Sul
+3805,Ipê,RS,Sul
+1578,Iraí,RS,Sul
+5545,Itaara,RS,Sul
+4182,Itacurubi,RS,Sul
+2972,Itapuca,RS,Sul
+2447,Itaqui,RS,Sul
+3883,Itati,RS,Sul
+323,Itatiba do Sul,RS,Sul
+900,Ivorá,RS,Sul
+1685,Ivoti,RS,Sul
+3014,Jaboticaba,RS,Sul
+5020,Jacuizinho,RS,Sul
+4878,Jacutinga,RS,Sul
+3871,Jaguari,RS,Sul
+4775,Jaguarão,RS,Sul
+319,Jaquirana,RS,Sul
+5447,Jari,RS,Sul
+3171,Jóia,RS,Sul
+2130,Júlio de Castilhos,RS,Sul
+5551,Lagoa Bonita do Sul,RS,Sul
+1766,Lagoa Vermelha,RS,Sul
+2346,Lagoa dos Três Cantos,RS,Sul
+4928,Lagoão,RS,Sul
+3747,Lajeado,RS,Sul
+3022,Lajeado do Bugre,RS,Sul
+3933,Lavras do Sul,RS,Sul
+1657,Liberato Salzano,RS,Sul
+2936,Lindolfo Collor,RS,Sul
+4629,Linha Nova,RS,Sul
+5143,Machadinho,RS,Sul
+675,Mampituba,RS,Sul
+3802,Manoel Viana,RS,Sul
+4452,Maquiné,RS,Sul
+5500,Maratá,RS,Sul
+1332,Marau,RS,Sul
+5014,Marcelino Ramos,RS,Sul
+5206,Mariana Pimentel,RS,Sul
+3991,Mariano Moro,RS,Sul
+3670,Marques de Souza,RS,Sul
+3529,Mata,RS,Sul
+4179,Mato Castelhano,RS,Sul
+1057,Mato Leitão,RS,Sul
+2580,Mato Queimado,RS,Sul
+4386,Maximiliano de Almeida,RS,Sul
+3942,Maçambará,RS,Sul
+320,Minas do Leão,RS,Sul
+5100,Miraguaí,RS,Sul
+4331,Montauri,RS,Sul
+904,Monte Alegre dos Campos,RS,Sul
+4093,Monte Belo do Sul,RS,Sul
+276,Montenegro,RS,Sul
+845,Mormaço,RS,Sul
+3448,Morrinhos do Sul,RS,Sul
+2445,Morro Redondo,RS,Sul
+2244,Morro Reuter,RS,Sul
+2011,Mostardas,RS,Sul
+216,Muitos Capões,RS,Sul
+3360,Muliterno,RS,Sul
+1374,Muçum,RS,Sul
+2227,Nicolau Vergueiro,RS,Sul
+628,Nonoai,RS,Sul
+4446,Nova Alvorada,RS,Sul
+3201,Nova Araçá,RS,Sul
+4977,Nova Bassano,RS,Sul
+3024,Nova Boa Vista,RS,Sul
+4051,Nova Bréscia,RS,Sul
+1409,Nova Candelária,RS,Sul
+3755,Nova Esperança do Sul,RS,Sul
+4692,Nova Hartz,RS,Sul
+4606,Nova Palma,RS,Sul
+2931,Nova Petrópolis,RS,Sul
+4398,Nova Prata,RS,Sul
+599,Nova Pádua,RS,Sul
+5278,Nova Ramada,RS,Sul
+1768,Nova Roma do Sul,RS,Sul
+3699,Nova Santa Rita,RS,Sul
+4683,Novo Barreiro,RS,Sul
+948,Novo Cabrais,RS,Sul
+2255,Novo Hamburgo,RS,Sul
+5088,Novo Machado,RS,Sul
+1280,Novo Tiradentes,RS,Sul
+4755,Novo Xingu,RS,Sul
+2228,Não-Me-Toque,RS,Sul
+1596,Osório,RS,Sul
+4801,Paim Filho,RS,Sul
+525,Palmares do Sul,RS,Sul
+4585,Palmeira das Missões,RS,Sul
+5002,Palmitinho,RS,Sul
+2877,Panambi,RS,Sul
+2198,Pantano Grande,RS,Sul
+623,Paraí,RS,Sul
+1971,Paraíso do Sul,RS,Sul
+2289,Pareci Novo,RS,Sul
+4099,Parobé,RS,Sul
+2379,Passa Sete,RS,Sul
+4946,Passo Fundo,RS,Sul
+1479,Passo do Sobrado,RS,Sul
+5494,Paulo Bento,RS,Sul
+4380,Paverama,RS,Sul
+4485,Pedras Altas,RS,Sul
+723,Pedro Osório,RS,Sul
+2335,Pejuçara,RS,Sul
+4029,Pelotas,RS,Sul
+318,Picada Café,RS,Sul
+2284,Pinhal,RS,Sul
+5136,Pinhal Grande,RS,Sul
+1096,Pinhal da Serra,RS,Sul
+4668,Pinheirinho do Vale,RS,Sul
+1670,Pinheiro Machado,RS,Sul
+2487,Pinto Bandeira,RS,Sul
+3143,Pirapó,RS,Sul
+1016,Piratini,RS,Sul
+4116,Planalto,RS,Sul
+5366,Ponte Preta,RS,Sul
+1970,Pontão,RS,Sul
+789,Porto Alegre,RS,Sul
+4650,Porto Lucena,RS,Sul
+5380,Porto Mauá,RS,Sul
+5558,Porto Vera Cruz,RS,Sul
+3940,Porto Xavier,RS,Sul
+4011,Portão,RS,Sul
+2350,Pouso Novo,RS,Sul
+4002,Poço das Antas,RS,Sul
+5022,Presidente Lucena,RS,Sul
+4526,Progresso,RS,Sul
+3036,Protásio Alves,RS,Sul
+2856,Putinga,RS,Sul
+2173,Quaraí,RS,Sul
+3753,Quatro Irmãos,RS,Sul
+4028,Quevedos,RS,Sul
+4984,Quinze de Novembro,RS,Sul
+4611,Redentora,RS,Sul
+4860,Relvado,RS,Sul
+233,Restinga Seca,RS,Sul
+1425,Rio Grande,RS,Sul
+3082,Rio Pardo,RS,Sul
+3869,Rio dos Índios,RS,Sul
+3819,Riozinho,RS,Sul
+526,Roca Sales,RS,Sul
+1444,Rodeio Bonito,RS,Sul
+890,Rolador,RS,Sul
+2404,Rolante,RS,Sul
+1133,Ronda Alta,RS,Sul
+4750,Rondinha,RS,Sul
+2488,Roque Gonzales,RS,Sul
+2141,Rosário do Sul,RS,Sul
+3397,Sagrada Família,RS,Sul
+198,Saldanha Marinho,RS,Sul
+431,Salto do Jacuí,RS,Sul
+4631,Salvador das Missões,RS,Sul
+428,Salvador do Sul,RS,Sul
+4673,Sananduva,RS,Sul
+4719,Sant'Ana do Livramento,RS,Sul
+326,Santa Bárbara do Sul,RS,Sul
+3398,Santa Cecília do Sul,RS,Sul
+2515,Santa Clara do Sul,RS,Sul
+2733,Santa Cruz do Sul,RS,Sul
+3416,Santa Margarida do Sul,RS,Sul
+2495,Santa Maria,RS,Sul
+2615,Santa Maria do Herval,RS,Sul
+1497,Santa Rosa,RS,Sul
+5395,Santa Tereza,RS,Sul
+1175,Santa Vitória do Palmar,RS,Sul
+3300,Santana da Boa Vista,RS,Sul
+3144,Santiago,RS,Sul
+3652,Santo Antônio da Patrulha,RS,Sul
+4349,Santo Antônio das Missões,RS,Sul
+1786,Santo Antônio do Palma,RS,Sul
+1413,Santo Antônio do Planalto,RS,Sul
+2605,Santo Augusto,RS,Sul
+244,Santo Cristo,RS,Sul
+5237,Santo Expedito do Sul,RS,Sul
+3369,Santo Ângelo,RS,Sul
+4175,Sapiranga,RS,Sul
+2617,Sapucaia do Sul,RS,Sul
+3617,Sarandi,RS,Sul
+60,Seberi,RS,Sul
+1790,Sede Nova,RS,Sul
+5515,Segredo,RS,Sul
+1142,Selbach,RS,Sul
+5490,Senador Salgado Filho,RS,Sul
+4274,Sentinela do Sul,RS,Sul
+4581,Serafina Corrêa,RS,Sul
+1310,Sertão,RS,Sul
+4649,Sertão Santana,RS,Sul
+2367,Sete de Setembro,RS,Sul
+2243,Severiano de Almeida,RS,Sul
+4477,Silveira Martins,RS,Sul
+1084,Sinimbu,RS,Sul
+2085,Sobradinho,RS,Sul
+981,Soledade,RS,Sul
+4187,São Borja,RS,Sul
+5474,São Domingos do Sul,RS,Sul
+32,São Francisco de Assis,RS,Sul
+151,São Francisco de Paula,RS,Sul
+1913,São Gabriel,RS,Sul
+1549,São Jerônimo,RS,Sul
+5044,São Jorge,RS,Sul
+4385,São José das Missões,RS,Sul
+4749,São José do Herval,RS,Sul
+4102,São José do Hortêncio,RS,Sul
+5523,São José do Inhacorá,RS,Sul
+230,São José do Norte,RS,Sul
+211,São José do Ouro,RS,Sul
+3901,São José do Sul,RS,Sul
+5413,São José dos Ausentes,RS,Sul
+5291,São João da Urtiga,RS,Sul
+5270,São João do Polêsine,RS,Sul
+3992,São Leopoldo,RS,Sul
+2713,São Lourenço do Sul,RS,Sul
+2743,São Luiz Gonzaga,RS,Sul
+2031,São Marcos,RS,Sul
+1607,São Martinho,RS,Sul
+3521,São Martinho da Serra,RS,Sul
+45,São Miguel das Missões,RS,Sul
+4725,São Nicolau,RS,Sul
+5516,São Paulo das Missões,RS,Sul
+409,São Pedro da Serra,RS,Sul
+2593,São Pedro das Missões,RS,Sul
+4178,São Pedro do Butiá,RS,Sul
+1927,São Pedro do Sul,RS,Sul
+3031,São Sebastião do Caí,RS,Sul
+2352,São Sepé,RS,Sul
+3425,São Valentim,RS,Sul
+3081,São Valentim do Sul,RS,Sul
+2668,São Valério do Sul,RS,Sul
+3355,São Vendelino,RS,Sul
+5546,São Vicente do Sul,RS,Sul
+2679,Sério,RS,Sul
+2313,Tabaí,RS,Sul
+2641,Tapejara,RS,Sul
+783,Tapera,RS,Sul
+313,Tapes,RS,Sul
+4653,Taquara,RS,Sul
+678,Taquari,RS,Sul
+4372,Taquaruçu do Sul,RS,Sul
+3114,Tavares,RS,Sul
+2,Tenente Portela,RS,Sul
+1859,Terra de Areia,RS,Sul
+2235,Teutônia,RS,Sul
+3732,Tio Hugo,RS,Sul
+3648,Tiradentes do Sul,RS,Sul
+3794,Toropi,RS,Sul
+1427,Torres,RS,Sul
+2175,Tramandaí,RS,Sul
+4913,Travesseiro,RS,Sul
+1380,Trindade do Sul,RS,Sul
+1641,Triunfo,RS,Sul
+499,Três Arroios,RS,Sul
+255,Três Cachoeiras,RS,Sul
+4955,Três Coroas,RS,Sul
+327,Três Forquilhas,RS,Sul
+4652,Três Palmeiras,RS,Sul
+4310,Três Passos,RS,Sul
+1939,Três de Maio,RS,Sul
+1045,Tucunduva,RS,Sul
+2070,Tunas,RS,Sul
+1606,Tupanci do Sul,RS,Sul
+2280,Tupanciretã,RS,Sul
+5339,Tupandi,RS,Sul
+1809,Tuparendi,RS,Sul
+2045,Turuçu,RS,Sul
+1439,Ubiretama,RS,Sul
+1708,Unistalda,RS,Sul
+622,União da Serra,RS,Sul
+3716,Uruguaiana,RS,Sul
+2279,Vacaria,RS,Sul
+836,Vale Real,RS,Sul
+5098,Vale Verde,RS,Sul
+3782,Vale do Sol,RS,Sul
+5459,Vanini,RS,Sul
+4557,Venâncio Aires,RS,Sul
+2600,Vera Cruz,RS,Sul
+3950,Veranópolis,RS,Sul
+5170,Vespasiano Correa,RS,Sul
+5274,Viadutos,RS,Sul
+1206,Viamão,RS,Sul
+4141,Vicente Dutra,RS,Sul
+4763,Victor Graeff,RS,Sul
+2959,Vila Flores,RS,Sul
+517,Vila Lângaro,RS,Sul
+214,Vila Maria,RS,Sul
+585,Vila Nova do Sul,RS,Sul
+2403,Vista Alegre,RS,Sul
+1060,Vista Alegre do Prata,RS,Sul
+4958,Vista Gaúcha,RS,Sul
+5556,Vitória das Missões,RS,Sul
+4410,Westfalia,RS,Sul
+2718,Xangri-lá,RS,Sul
+2595,Água Santa,RS,Sul
+4464,Áurea,RS,Sul
+5370,Abdon Batista,SC,Sul
+1631,Abelardo Luz,SC,Sul
+1861,Agrolândia,SC,Sul
+4389,Agronômica,SC,Sul
+5071,Alfredo Wagner,SC,Sul
+4621,Alto Bela Vista,SC,Sul
+4341,Anchieta,SC,Sul
+3594,Angelina,SC,Sul
+1894,Anita Garibaldi,SC,Sul
+4147,Anitápolis,SC,Sul
+4190,Antônio Carlos,SC,Sul
+4023,Apiúna,SC,Sul
+4235,Arabutã,SC,Sul
+866,Araquari,SC,Sul
+2568,Araranguá,SC,Sul
+5105,Armazém,SC,Sul
+4373,Arroio Trinta,SC,Sul
+3572,Arvoredo,SC,Sul
+5396,Ascurra,SC,Sul
+3467,Atalanta,SC,Sul
+1774,Aurora,SC,Sul
+1472,Balneário Arroio do Silva,SC,Sul
+158,Balneário Barra do Sul,SC,Sul
+4038,Balneário Camboriú,SC,Sul
+3861,Balneário Gaivota,SC,Sul
+2905,Balneário Piçarras,SC,Sul
+4933,Balneário Rincão,SC,Sul
+3808,Bandeirante,SC,Sul
+4100,Barra Bonita,SC,Sul
+3046,Barra Velha,SC,Sul
+4226,Bela Vista do Toldo,SC,Sul
+4530,Belmonte,SC,Sul
+3487,Benedito Novo,SC,Sul
+2957,Biguaçu,SC,Sul
+907,Blumenau,SC,Sul
+2493,Bocaina do Sul,SC,Sul
+1474,Bom Jardim da Serra,SC,Sul
+5165,Bom Jesus,SC,Sul
+3384,Bom Jesus do Oeste,SC,Sul
+1212,Bom Retiro,SC,Sul
+125,Bombinhas,SC,Sul
+4442,Botuverá,SC,Sul
+1536,Braço do Norte,SC,Sul
+4268,Braço do Trombudo,SC,Sul
+5284,Brunópolis,SC,Sul
+57,Brusque,SC,Sul
+4651,Caibi,SC,Sul
+329,Calmon,SC,Sul
+2684,Camboriú,SC,Sul
+1298,Campo Alegre,SC,Sul
+110,Campo Belo do Sul,SC,Sul
+4512,Campo Erê,SC,Sul
+2064,Campos Novos,SC,Sul
+1443,Canelinha,SC,Sul
+4951,Canoinhas,SC,Sul
+4383,Capinzal,SC,Sul
+4767,Capivari de Baixo,SC,Sul
+1000,Capão Alto,SC,Sul
+4232,Catanduvas,SC,Sul
+3548,Caxambu do Sul,SC,Sul
+5145,Caçador,SC,Sul
+2558,Celso Ramos,SC,Sul
+1817,Cerro Negro,SC,Sul
+4565,Chapadão do Lageado,SC,Sul
+1816,Chapecó,SC,Sul
+572,Cocal do Sul,SC,Sul
+2981,Concórdia,SC,Sul
+756,Cordilheira Alta,SC,Sul
+3601,Coronel Freitas,SC,Sul
+5166,Coronel Martins,SC,Sul
+3204,Correia Pinto,SC,Sul
+5127,Corupá,SC,Sul
+1995,Criciúma,SC,Sul
+2185,Cunha Porã,SC,Sul
+2158,Cunhataí,SC,Sul
+4705,Curitibanos,SC,Sul
+4586,Descanso,SC,Sul
+4506,Dionísio Cerqueira,SC,Sul
+479,Dona Emma,SC,Sul
+4007,Doutor Pedrinho,SC,Sul
+555,Entre Rios,SC,Sul
+2533,Ermo,SC,Sul
+4279,Erval Velho,SC,Sul
+1555,Faxinal dos Guedes,SC,Sul
+2560,Flor do Sertão,SC,Sul
+3299,Florianópolis,SC,Sul
+5501,Formosa do Sul,SC,Sul
+3574,Forquilhinha,SC,Sul
+2604,Fraiburgo,SC,Sul
+1915,Frei Rogério,SC,Sul
+787,Galvão,SC,Sul
+1109,Garopaba,SC,Sul
+2236,Garuva,SC,Sul
+511,Gaspar,SC,Sul
+2462,Governador Celso Ramos,SC,Sul
+3949,Gravatal,SC,Sul
+288,Grão Pará,SC,Sul
+1590,Guabiruba,SC,Sul
+4272,Guaraciaba,SC,Sul
+126,Guaramirim,SC,Sul
+4781,Guarujá do Sul,SC,Sul
+4202,Guatambú,SC,Sul
+3557,Herval d'Oeste,SC,Sul
+4856,Ibiam,SC,Sul
+3239,Ibicaré,SC,Sul
+2729,Ibirama,SC,Sul
+1706,Ilhota,SC,Sul
+4358,Imaruí,SC,Sul
+2044,Imbituba,SC,Sul
+2114,Imbuia,SC,Sul
+915,Indaial,SC,Sul
+3804,Iomerê,SC,Sul
+784,Ipira,SC,Sul
+2430,Iporã do Oeste,SC,Sul
+1582,Ipuaçu,SC,Sul
+5467,Ipumirim,SC,Sul
+47,Iraceminha,SC,Sul
+579,Irani,SC,Sul
+2728,Irati,SC,Sul
+5076,Irineópolis,SC,Sul
+674,Itaiópolis,SC,Sul
+708,Itajaí,SC,Sul
+3899,Itapema,SC,Sul
+2966,Itapiranga,SC,Sul
+5327,Itapoá,SC,Sul
+2373,Ituporanga,SC,Sul
+205,Itá,SC,Sul
+4292,Içara,SC,Sul
+374,Jaborá,SC,Sul
+4234,Jacinto Machado,SC,Sul
+1185,Jaguaruna,SC,Sul
+293,Jaraguá do Sul,SC,Sul
+4777,Jardinópolis,SC,Sul
+3396,Joaçaba,SC,Sul
+1121,Joinville,SC,Sul
+441,José Boiteux,SC,Sul
+1437,Jupiá,SC,Sul
+1399,Lacerdópolis,SC,Sul
+176,Lages,SC,Sul
+3236,Laguna,SC,Sul
+2839,Lajeado Grande,SC,Sul
+2673,Laurentino,SC,Sul
+4529,Lauro Muller,SC,Sul
+1602,Lebon Régis,SC,Sul
+1346,Leoberto Leal,SC,Sul
+1696,Lindóia do Sul,SC,Sul
+4762,Lontras,SC,Sul
+1773,Luiz Alves,SC,Sul
+3304,Luzerna,SC,Sul
+4547,Macieira,SC,Sul
+3946,Mafra,SC,Sul
+137,Major Gercino,SC,Sul
+2915,Major Vieira,SC,Sul
+2463,Maracajá,SC,Sul
+1737,Maravilha,SC,Sul
+71,Marema,SC,Sul
+5532,Massaranduba,SC,Sul
+2769,Matos Costa,SC,Sul
+5228,Meleiro,SC,Sul
+4922,Mirim Doce,SC,Sul
+1435,Modelo,SC,Sul
+5444,Mondaí,SC,Sul
+1028,Monte Carlo,SC,Sul
+3198,Monte Castelo,SC,Sul
+3455,Morro Grande,SC,Sul
+5202,Morro da Fumaça,SC,Sul
+196,Navegantes,SC,Sul
+4613,Nova Erechim,SC,Sul
+1906,Nova Itaberaba,SC,Sul
+4745,Nova Trento,SC,Sul
+1271,Nova Veneza,SC,Sul
+2416,Novo Horizonte,SC,Sul
+1522,Orleans,SC,Sul
+1504,Otacílio Costa,SC,Sul
+5371,Ouro,SC,Sul
+3510,Ouro Verde,SC,Sul
+5377,Paial,SC,Sul
+4975,Painel,SC,Sul
+2036,Palhoça,SC,Sul
+4825,Palma Sola,SC,Sul
+1509,Palmeira,SC,Sul
+4730,Palmitos,SC,Sul
+3457,Papanduva,SC,Sul
+4478,Paraíso,SC,Sul
+314,Passo de Torres,SC,Sul
+3718,Passos Maia,SC,Sul
+91,Paulo Lopes,SC,Sul
+464,Pedras Grandes,SC,Sul
+4195,Penha,SC,Sul
+853,Peritiba,SC,Sul
+5534,Pescaria Brava,SC,Sul
+1837,Petrolândia,SC,Sul
+65,Pinhalzinho,SC,Sul
+1864,Pinheiro Preto,SC,Sul
+3885,Piratuba,SC,Sul
+2232,Planalto Alegre,SC,Sul
+883,Pomerode,SC,Sul
+16,Ponte Alta,SC,Sul
+5343,Ponte Alta do Norte,SC,Sul
+2296,Ponte Serrada,SC,Sul
+4827,Porto Belo,SC,Sul
+2789,Porto União,SC,Sul
+2275,Pouso Redondo,SC,Sul
+3446,Praia Grande,SC,Sul
+3108,Presidente Castello Branco,SC,Sul
+4615,Presidente Getúlio,SC,Sul
+4428,Presidente Nereu,SC,Sul
+5325,Princesa,SC,Sul
+5090,Quilombo,SC,Sul
+4976,Rancho Queimado,SC,Sul
+5058,Rio Fortuna,SC,Sul
+3850,Rio Negrinho,SC,Sul
+5411,Rio Rufino,SC,Sul
+3708,Rio das Antas,SC,Sul
+5208,Rio do Campo,SC,Sul
+1356,Rio do Oeste,SC,Sul
+2387,Rio do Sul,SC,Sul
+1989,Rio dos Cedros,SC,Sul
+2166,Riqueza,SC,Sul
+1323,Rodeio,SC,Sul
+4748,Romelândia,SC,Sul
+4025,Salete,SC,Sul
+2768,Saltinho,SC,Sul
+1879,Salto Veloso,SC,Sul
+3806,Sangão,SC,Sul
+4864,Santa Cecília,SC,Sul
+5479,Santa Helena,SC,Sul
+4469,Santa Rosa de Lima,SC,Sul
+2261,Santa Rosa do Sul,SC,Sul
+1017,Santa Terezinha,SC,Sul
+1772,Santa Terezinha do Progresso,SC,Sul
+1344,Santiago do Sul,SC,Sul
+448,Santo Amaro da Imperatriz,SC,Sul
+5253,Saudades,SC,Sul
+1974,Schroeder,SC,Sul
+324,Seara,SC,Sul
+2136,Serra Alta,SC,Sul
+3533,Siderópolis,SC,Sul
+602,Sombrio,SC,Sul
+4903,Sul Brasil,SC,Sul
+253,São Bento do Sul,SC,Sul
+5177,São Bernardino,SC,Sul
+580,São Bonifácio,SC,Sul
+93,São Carlos,SC,Sul
+4870,São Cristovão do Sul,SC,Sul
+4626,São Domingos,SC,Sul
+1200,São Francisco do Sul,SC,Sul
+4285,São Joaquim,SC,Sul
+2206,São José,SC,Sul
+2428,São José do Cedro,SC,Sul
+680,São José do Cerrito,SC,Sul
+4328,São João Batista,SC,Sul
+3658,São João do Itaperiú,SC,Sul
+5307,São João do Oeste,SC,Sul
+3151,São João do Sul,SC,Sul
+567,São Lourenço do Oeste,SC,Sul
+1094,São Ludgero,SC,Sul
+5373,São Martinho,SC,Sul
+5183,São Miguel da Boa Vista,SC,Sul
+933,São Miguel do Oeste,SC,Sul
+1700,São Pedro de Alcântara,SC,Sul
+5330,Taió,SC,Sul
+5386,Tangará,SC,Sul
+3636,Tigrinhos,SC,Sul
+1609,Tijucas,SC,Sul
+819,Timbé do Sul,SC,Sul
+4239,Timbó,SC,Sul
+5259,Timbó Grande,SC,Sul
+1333,Treviso,SC,Sul
+3347,Treze Tílias,SC,Sul
+4108,Treze de Maio,SC,Sul
+3702,Trombudo Central,SC,Sul
+3997,Três Barras,SC,Sul
+1160,Tubarão,SC,Sul
+5461,Tunápolis,SC,Sul
+146,Turvo,SC,Sul
+1952,União do Oeste,SC,Sul
+5363,Urubici,SC,Sul
+463,Urupema,SC,Sul
+2211,Urussanga,SC,Sul
+4568,Vargem,SC,Sul
+2249,Vargem Bonita,SC,Sul
+3193,Vargeão,SC,Sul
+5024,Vidal Ramos,SC,Sul
+4384,Videira,SC,Sul
+4363,Vitor Meireles,SC,Sul
+2937,Witmarsum,SC,Sul
+5028,Xanxerê,SC,Sul
+4309,Xavantina,SC,Sul
+1254,Xaxim,SC,Sul
+4405,Zortéa,SC,Sul
+1157,Água Doce,SC,Sul
+4006,Águas Frias,SC,Sul
+4612,Águas Mornas,SC,Sul
+4441,Águas de Chapecó,SC,Sul
