@@ -19,8 +19,5 @@ for col in df.columns:
 # Colocar as colunas ano e semestre na treceira e quarta posicao sem saber as outras colunas
 df = df[["id_municipio","ano", "semestre"] + [col for col in df.columns if col not in ["id_municipio","ano", "semestre"]]]
 
-print(df.head())
-
-
 # Salvar tabela
 df.to_csv("fato_alfabetizacao_pre_pronto_v2.csv", index=False)
