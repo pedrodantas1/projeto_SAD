@@ -4,6 +4,10 @@ import numpy as np
 # Carregar os dados
 df = pd.read_csv("censo_2022_alfabetizacao.csv")
 
+# Qtd de linhas com população nula
+linhas_com_vulnerabilidade_nula = df[df['populacao'].isnull()].shape[0]
+print(f"Quantidade de linhas com população nula: {linhas_com_vulnerabilidade_nula}")
+
 # Remover registros com população nula
 df = df.dropna(subset=["populacao"])
 
@@ -26,4 +30,6 @@ pivot.columns = ["id_municipio", "cor_raca", "sexo", "grupo_idade", "pop_nao_alf
 # Total de população
 pivot["populacao_total"] = pivot["pop_nao_alfabetizada"] + pivot["pop_alfabetizada"]
 
-pivot.to_csv("censo_2022_alfabetizacao_pivot.csv", index=False)
+
+
+# pivot.to_csv("censo_2022_alfabetizacao_pivot.csv", index=False)

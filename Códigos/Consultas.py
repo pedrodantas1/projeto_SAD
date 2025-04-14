@@ -1,113 +1,105 @@
 import pandas as pd
 import numpy as np
 import seaborn as sns
-import matplotlib.pyplot as plt 
-from sklearn.model_selection import train_test_split 
-from pycaret.classification import* 
+import matplotlib.pyplot as plt
+from pycaret.classification import *
 
- 
-data = pd.read_csv() 
-
-print(data.head()) 
-print(data.isnull().sum()) 
+# Configurando visualizações
+plt.style.use('seaborn')
+plt.rcParams['figure.figsize'] = (12, 8)
+plt.rcParams['axes.unicode_minus'] = False
 
 
-cols_to_int = ['accelerations', 'fetal_movement', 'uterine_contractions', 'light_decelerations', 'severe_decelerations', 'prolongued_decelerations']
-data[cols_to_int] = data[cols_to_int].astype(int) 
+# Carregando e preparando os dados
+data = pd.read_csv("censo_2022_alfabetizacao_pivot.csv")
 
-data['accelerations'] = data['accelerations'] * 3600
-data['fetal_movement'] = data['fetal_movement'] * 3600
-data['uterine_contractions'] = data['uterine_contractions'] * 3600 
 
-Total_por_classe = data['fetal_health'].value_counts()
-print(Total_por_classe) 
+# Garantindo que não temos valores negativos
+data['pop_alfabetizada'] = data['pop_alfabetizada'].clip(lower=0)
+data['populacao_total'] = data['populacao_total'].clip(lower=1)  # mínimo 1 para evitar divisão por zero
 
-plt.figure(figsize=(8, 6))
-sns.countplot(x='fetal_health', data=data)
-plt.title('Distribuição da Variável Alvo (Fetal Health)')
-plt.xlabel('Estado de Saúde Fetal')
-plt.ylabel('Número de Registros')
-plt.xticks([0, 1, 2], ['Normal', 'Suspeito', 'Patológico'])
+# Garantindo que pop_alfabetizada não é maior que populacao_total
+data['pop_alfabetizada'] = data.apply(lambda x: min(x['pop_alfabetizada'], x['populacao_total']), axis=1)
+
+data['taxa_alfabetizacao'] = (data['pop_alfabetizada'] / data['populacao_total']) * 100
+data['vulnerabilidade_educacional'] = pd.cut(
+    data['taxa_alfabetizacao'],
+    bins=[0, 70, 85, 100],
+    labels=['Alta', 'Média', 'Baixa']
+)
+
+# Remover linhas com valores NaN em vulnerabilidade_educacional
+data.dropna(subset=['vulnerabilidade_educacional'], inplace=True)
+
+# Relatório Descritivo e Visualizações permanecem os mesmos...
+print("=== RELATÓRIO DESCRITIVO DA BASE ===")
+print("\nEstatísticas da Taxa de Alfabetização:")
+print(data['taxa_alfabetizacao'].describe())
+
+# Identificação de Outliers apenas para taxa de alfabetização
+def detect_outliers(df, column):
+    Q1 = df[column].quantile(0.25)
+    Q3 = df[column].quantile(0.75)
+    IQR = Q3 - Q1
+    lower_bound = Q1 - 1.5 * IQR
+    upper_bound = Q3 + 1.5 * IQR
+    outliers = df[(df[column] < lower_bound) | (df[column] > upper_bound)][column]
+    return len(outliers)
+
+print(f"\nOutliers na Taxa de Alfabetização: {detect_outliers(data, 'taxa_alfabetizacao')}")
+
+# Visualizações focadas na taxa de alfabetização
+plt.figure(figsize=(10, 6))
+sns.boxplot(data=data[['taxa_alfabetizacao']])
+plt.title('Distribuição da Taxa de Alfabetização')
 plt.show()
 
-plt.figure(figsize=(8, 6))
-sns.countplot(x='histogram_tendency', data=data)
-plt.title('Distribuição da Coluna Histogram Tendency')
-plt.xlabel('Tendência do Histograma')
-plt.ylabel('Número de Registros')
-plt.xticks([-1, 0, 1], ['Negativa', 'Simétrica', 'Positiva'])
+plt.figure(figsize=(10, 6))
+sns.histplot(data=data, x='taxa_alfabetizacao', hue='vulnerabilidade_educacional')
+plt.title('Distribuição da Taxa de Alfabetização por Nível de Vulnerabilidade')
 plt.show()
 
-plt.figure(figsize=(8, 6))
-sns.countplot(x='severe_decelerations', data=data)
-plt.title('Distribuição da Coluna Severe Decelerations')
-plt.xlabel('Número de Desacelerações Severas por Hora')
-plt.ylabel('Número de Registros')
-plt.show()
+# Configurando o experimento no PyCaret
+exp = setup(
+    data=data,
+    target='vulnerabilidade_educacional',
+    numeric_features=['taxa_alfabetizacao'],
+    categorical_features=['grupo_idade', 'cor_raca', 'sexo'],
+    transformation=True,
+    normalize=True,
+    fix_imbalance=True,
+    session_id=42
+)
 
-print(data.describe()) 
+# Comparando todos os modelos
+print("\n=== COMPARAÇÃO DE MODELOS ===")
+best_model = compare_models(sort='F1', n_select=3)
 
-data.hist(figsize=(20, 15))
-plt.suptitle('Histogramas das Variáveis Numéricas', fontsize=20)
-plt.show() 
+# Criando e ajustando o melhor modelo
+final_model = create_model(best_model)
+tuned_model = tune_model(final_model, optimize='F1')
 
-corr_matrix = data.corr() 
+# Avaliando o modelo final
+print("\n=== AVALIAÇÃO DO MODELO FINAL ===")
+evaluate_model(tuned_model)
 
-plt.figure(figsize=(18, 15))
-sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', fmt=".2f")
-plt.title('Matriz de Correlação entre as Variáveis')
-plt.show() 
+# Plotando resultados importantes
+plot_model(tuned_model, plot='feature')
+plot_model(tuned_model, plot='confusion_matrix')
+plot_model(tuned_model, plot='auc')
 
-correlation_with_target = corr_matrix['fetal_health'].sort_values(ascending=False)
-print(correlation_with_target) 
+# Finalizando o modelo
+final_model_tuned = finalize_model(tuned_model)
 
-plt.figure(figsize=(10, 8))
-correlation_with_target.drop('fetal_health').plot(kind='bar')
-plt.title('Correlação com a Variável Alvo (Fetal Health)')
-plt.xlabel('Variáveis')
-plt.ylabel('Correlação')
-plt.show() 
+# Salvando o modelo
+save_model(final_model_tuned, 'modelo_vulnerabilidade_educacional_pycaret')
+print("\nModelo salvo como 'modelo_vulnerabilidade_educacional_pycaret'")
 
-fig, axes = plt.subplots(nrows=3, ncols=3, figsize=(20, 15))
-axes = axes.flatten()
-
-for i, col in enumerate(['accelerations', 'light_decelerations', 'prolongued_decelerations', 'abnormal_short_term_variability', 'uterine_contractions', 'histogram_variance', 'histogram_mean', 'histogram_median']):
- sns.boxplot(x='fetal_health', y=col, data=data, ax=axes[i])
- axes[i].set_title(f'{col} por Estado de Saúde Fetal')
- axes[i].set_xticks([0, 1, 2])
- axes[i].set_xticklabels(['Normal', 'Suspeito', 'Patológico'])
-plt.tight_layout()
-plt.subplots_adjust(top=0.9)
-plt.suptitle('Comportamento das Variáveis por Estado de Saúde Fetal', fontsize=20)
-plt.show()
-
-train, test = train_test_split(data, test_size=0.1, random_state=42) 
-
-reg = setup(data=train, target='fetal_health', transformation=True, fix_imbalance=True, session_id=1)
-
-
-best_model = compare_models(sort="F1") 
-
-lightgbm = create_model('lightgbm') 
-
-tuned_lightgbm = tune_model(lightgbm, optimize="Accuracy") 
-
-plot_model(lightgbm, plot='parameter') 
-plot_model(lightgbm, plot='pipeline') 
-plot_model(lightgbm, plot='feature') 
-plot_model(lightgbm, plot='auc') 
-plot_model(lightgbm, plot='confusion_matrix') 
-
-predictions = predict_model(lightgbm)
-print(predictions.head()) 
-
-Modelo_final_fetos = finalize_model(lightgbm)
-print(Modelo_final_fetos)
-
-new_predictions = predict_model(Modelo_final_fetos, data=test)
-print(new_predictions.head()) 
-
-save_model(Modelo_final_fetos, 'Modelo_Saude_Fetal') 
+# Exemplo de previsão
+exemplo = data.iloc[0:1]
+predicao = predict_model(final_model_tuned, data=exemplo)
+print("\nExemplo de Previsão:")
+print(predicao[['vulnerabilidade_educacional', 'prediction_label', 'prediction_score']])
 
 
 
