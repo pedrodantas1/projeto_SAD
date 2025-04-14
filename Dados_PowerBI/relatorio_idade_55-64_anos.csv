@@ -1,6 +1,6 @@
 ﻿,Previsao_Correta,Score_Previsao,Vulnerabilidade_Prevista,prop_55_64,prop_55_64,prop_55_64
 ,mean,mean,<lambda>,mean,min,max
 Faixa_55-64 anos,,,,,,
-Baixa,0.9946,1.0,"{'Média': 185, 'Baixa': 1}",0.1142,0.0617,0.1278
-Média,0.9946,1.0,{'Média': 185},0.1383,0.1278,0.1495
-Alta,0.9839,1.0,{'Média': 186},0.1675,0.1495,0.2087
+Baixa,0.9677,1.0,"{'Média': 173, 'Baixa': 9, 'Alta': 4}",0.1142,0.0617,0.1278
+Média,0.9784,1.0,"{'Média': 163, 'Baixa': 20, 'Alta': 2}",0.1383,0.1278,0.1495
+Alta,0.957,1.0,"{'Média': 173, 'Baixa': 13}",0.1675,0.1495,0.2087

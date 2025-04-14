@@ -1,6 +1,6 @@
 ﻿,Previsao_Correta,Score_Previsao,Vulnerabilidade_Prevista,prop_homens,prop_homens,prop_homens
 ,mean,mean,<lambda>,mean,min,max
 Faixa_Homens,,,,,,
-Baixa,0.9785,1.0,"{'Média': 185, 'Baixa': 1}",0.4802,0.4457,0.4895
-Média,0.9946,1.0,{'Média': 185},0.4955,0.4895,0.5018
-Alta,1.0,1.0,{'Média': 186},0.5157,0.5018,0.8374
+Baixa,0.9409,1.0,"{'Média': 152, 'Baixa': 32, 'Alta': 2}",0.4802,0.4457,0.4895
+Média,0.9892,1.0,"{'Média': 176, 'Baixa': 7, 'Alta': 2}",0.4955,0.4895,0.5018
+Alta,0.9731,1.0,"{'Média': 181, 'Baixa': 3, 'Alta': 2}",0.5157,0.5018,0.8374

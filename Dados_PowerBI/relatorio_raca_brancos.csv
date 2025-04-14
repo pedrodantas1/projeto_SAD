@@ -1,6 +1,6 @@
 ﻿,Previsao_Correta,Score_Previsao,Vulnerabilidade_Prevista,prop_brancos,prop_brancos,prop_brancos
 ,mean,mean,<lambda>,mean,min,max
 Faixa_Brancos,,,,,,
-Baixa,0.9839,1.0,"{'Média': 185, 'Baixa': 1}",0.1913,0.0449,0.2724
-Média,0.9892,1.0,{'Média': 185},0.3905,0.2753,0.5166
-Alta,1.0,1.0,{'Média': 186},0.7055,0.5192,0.9627
+Baixa,0.9839,1.0,"{'Média': 178, 'Baixa': 5, 'Alta': 3}",0.1913,0.0449,0.2724
+Média,0.9622,1.0,"{'Média': 169, 'Baixa': 13, 'Alta': 3}",0.3905,0.2753,0.5166
+Alta,0.957,1.0,"{'Média': 162, 'Baixa': 24}",0.7055,0.5192,0.9627

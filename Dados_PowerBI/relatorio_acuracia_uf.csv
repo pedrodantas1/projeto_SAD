@@ -1,27 +1,27 @@
 ﻿UF,Previsao_Correta,Vulnerabilidade_Prevista
 AC,1.0,{'Média': 1}
-AL,1.0,{'Média': 18}
+AL,1.0,"{'Média': 16, 'Alta': 2}"
 AM,1.0,{'Média': 5}
-AP,1.0,{'Média': 2}
-BA,0.9677,{'Média': 31}
+AP,0.5,{'Média': 2}
+BA,1.0,"{'Média': 30, 'Baixa': 1}"
 CE,1.0,{'Média': 25}
 ES,1.0,{'Média': 6}
-GO,0.963,{'Média': 27}
+GO,0.9259,"{'Média': 25, 'Baixa': 2}"
 MA,1.0,{'Média': 15}
-MG,0.962,"{'Média': 78, 'Baixa': 1}"
+MG,0.9747,"{'Média': 70, 'Baixa': 9}"
 MS,1.0,{'Média': 8}
-MT,1.0,{'Média': 12}
+MT,0.9167,{'Média': 12}
 PA,1.0,{'Média': 12}
-PB,1.0,{'Média': 21}
-PE,1.0,{'Média': 19}
-PI,1.0,{'Média': 27}
-PR,1.0,{'Média': 46}
-RJ,1.0,{'Média': 4}
+PB,1.0,"{'Média': 18, 'Alta': 3}"
+PE,1.0,"{'Média': 18, 'Baixa': 1}"
+PI,1.0,"{'Média': 26, 'Alta': 1}"
+PR,1.0,"{'Média': 45, 'Baixa': 1}"
+RJ,0.75,"{'Baixa': 2, 'Média': 2}"
 RN,1.0,{'Média': 22}
 RO,1.0,{'Média': 6}
-RR,1.0,{'Média': 2}
-RS,1.0,{'Média': 49}
-SC,1.0,{'Média': 26}
+RR,0.5,{'Média': 2}
+RS,0.9184,"{'Média': 41, 'Baixa': 8}"
+SC,1.0,"{'Média': 22, 'Baixa': 4}"
 SE,1.0,{'Média': 15}
-SP,1.0,{'Média': 65}
+SP,0.9077,"{'Média': 51, 'Baixa': 14}"
 TO,1.0,{'Média': 14}

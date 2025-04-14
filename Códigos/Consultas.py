@@ -50,23 +50,23 @@ municipios_agregados['taxa_alfabetizacao'] = (municipios_agregados['pop_alfabeti
 
 # Calculando índice complexo com as novas proporções (ajustando os nomes das colunas)
 municipios_agregados['indice_complexo'] = (
-    municipios_agregados['taxa_alfabetizacao'] * 0.75 +
-    municipios_agregados['prop_grupo_idade_65_anos_ou_mais'].fillna(0) * 10 +
+    municipios_agregados['taxa_alfabetizacao'] * 0.80 +
+    municipios_agregados['prop_grupo_idade_65_anos_ou_mais'].fillna(0) * 5 +
     municipios_agregados['prop_grupo_idade_15_a_19_anos'].fillna(0) * 5 +
     (municipios_agregados['prop_cor_raca_Preta'].fillna(0) + 
-     municipios_agregados['prop_cor_raca_Parda'].fillna(0) + 
-     municipios_agregados['prop_cor_raca_Indígena'].fillna(0)) * 8
+     municipios_agregados['prop_cor_raca_Parda'].fillna(0)) * 4 +
+     municipios_agregados['prop_cor_raca_Indígena'].fillna(0) * 6
 )
 
 # Definindo vulnerabilidade
 municipios_agregados['vulnerabilidade_educacional'] = pd.cut(
     municipios_agregados['indice_complexo'],
-    bins=[0, 50, 80, 100],
+    bins=[0, 60, 80, 100],
     labels=['Alta', 'Média', 'Baixa']
 )
 
-# print("\nDistribuição das classes de vulnerabilidade:")
-# print(municipios_agregados['vulnerabilidade_educacional'].value_counts(normalize=True).round(3) * 100, '%')
+print("\nDistribuição das classes de vulnerabilidade:")
+print(municipios_agregados['vulnerabilidade_educacional'].value_counts(normalize=True).round(3) * 100, '%')
 
 # Salvar municípios agregados em um novo arquivo CSV
 municipios_agregados.to_csv('municipios_agregados.csv', index=False, encoding='utf-8-sig')

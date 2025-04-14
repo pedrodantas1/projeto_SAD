@@ -1,6 +1,6 @@
 ﻿,Previsao_Correta,Score_Previsao,Vulnerabilidade_Prevista,prop_amarelos,prop_amarelos,prop_amarelos
 ,mean,mean,<lambda>,mean,min,max
 Faixa_Amarelos,,,,,,
-Baixa,1.0,1.0,{'Média': 186},0.0002,0.0,0.0006
-Média,0.9784,1.0,"{'Média': 184, 'Baixa': 1}",0.001,0.0006,0.0017
-Alta,0.9946,1.0,{'Média': 186},0.0049,0.0017,0.0305
+Baixa,0.9677,1.0,"{'Média': 172, 'Baixa': 9, 'Alta': 5}",0.0002,0.0,0.0006
+Média,0.9838,1.0,"{'Média': 172, 'Baixa': 12, 'Alta': 1}",0.001,0.0006,0.0017
+Alta,0.9516,1.0,"{'Média': 165, 'Baixa': 21}",0.0049,0.0017,0.0305
