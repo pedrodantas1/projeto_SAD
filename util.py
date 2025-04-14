@@ -1,15 +1,16 @@
 import pandas as pd
 
 # Carregar o arquivo CSV
-caminho_arquivo = r'star_schema/agregacoes/indice_vulnerabilidade_educacional.csv'
+caminho_arquivo = r'fato_alfabetizacao_com_siglas_uf.csv'
 dados = pd.read_csv(caminho_arquivo)
 
-# Calcular a média da coluna taxa_analfabetismo
-media_taxa = dados['taxa_analfabetismo'].mean()
+# Apagar colunas ano e semestre
+dados.drop(['ano', 'semestre'], axis=1, inplace=True)
 
-# Exibir o resultado
-print(f"A média da taxa de analfabetismo é: {media_taxa:.4f}%")
+# Exibir as primeiras linhas do DataFrame
+print(dados.head())
 
-# Se quiser calcular a média de outras colunas também
-media_indice = dados['indice_vulnerabilidade'].mean()
-print(f"A média do índice de vulnerabilidade é: {media_indice:.4f}")
+# Salvar o DataFrame modificado
+dados.to_csv('Alfabetizacao_Data_Mining.csv', index=False)
+
+print("As colunas 'ano' e 'semestre' foram apagadas e o DataFrame foi salvo.")

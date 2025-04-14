@@ -1,0 +1,6 @@
+﻿,Previsao_Correta,Score_Previsao,Vulnerabilidade_Prevista,prop_15_19,prop_15_19,prop_15_19
+,mean,mean,<lambda>,mean,min,max
+Faixa_15-19 anos,,,,,,
+Baixa,0.9785,1.0,{'Média': 186},0.0725,0.0258,0.0821
+Média,0.9946,1.0,"{'Média': 184, 'Baixa': 1}",0.0907,0.0821,0.0995
+Alta,1.0,1.0,{'Média': 186},0.1142,0.0995,0.1791

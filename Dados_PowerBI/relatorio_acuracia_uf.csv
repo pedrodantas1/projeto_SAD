@@ -1,0 +1,27 @@
+﻿UF,Previsao_Correta,Vulnerabilidade_Prevista
+AC,1.0,{'Média': 1}
+AL,1.0,{'Média': 18}
+AM,1.0,{'Média': 5}
+AP,1.0,{'Média': 2}
+BA,0.9677,{'Média': 31}
+CE,1.0,{'Média': 25}
+ES,1.0,{'Média': 6}
+GO,0.963,{'Média': 27}
+MA,1.0,{'Média': 15}
+MG,0.962,"{'Média': 78, 'Baixa': 1}"
+MS,1.0,{'Média': 8}
+MT,1.0,{'Média': 12}
+PA,1.0,{'Média': 12}
+PB,1.0,{'Média': 21}
+PE,1.0,{'Média': 19}
+PI,1.0,{'Média': 27}
+PR,1.0,{'Média': 46}
+RJ,1.0,{'Média': 4}
+RN,1.0,{'Média': 22}
+RO,1.0,{'Média': 6}
+RR,1.0,{'Média': 2}
+RS,1.0,{'Média': 49}
+SC,1.0,{'Média': 26}
+SE,1.0,{'Média': 15}
+SP,1.0,{'Média': 65}
+TO,1.0,{'Média': 14}
