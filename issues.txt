@@ -1,4 +1,0 @@
-> Criar indicadores relevantes
-> Agregado por semestre
-> Relatorios para mostrar indicadores
-> Usar componentes graficos
